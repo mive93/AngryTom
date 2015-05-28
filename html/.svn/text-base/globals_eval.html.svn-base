@@ -1,0 +1,187 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9"/>
+<meta name="generator" content="Doxygen 1.8.3.1"/>
+<title>Angry Tom: Elementi dei file</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="search/search.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="search/search.js"></script>
+<script type="text/javascript">
+  $(document).ready(function() { searchBox.OnSelectItem(0); });
+</script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr style="height: 56px;">
+  <td style="padding-left: 0.5em;">
+   <div id="projectname">Angry Tom
+   </div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- Generato da Doxygen 1.8.3.1 -->
+<script type="text/javascript">
+var searchBox = new SearchBox("searchBox", "search",false,'Cerca');
+</script>
+  <div id="navrow1" class="tabs">
+    <ul class="tablist">
+      <li><a href="index.html"><span>Pagina&#160;Principale</span></a></li>
+      <li><a href="annotated.html"><span>Classi</span></a></li>
+      <li class="current"><a href="files.html"><span>File</span></a></li>
+      <li>
+        <div id="MSearchBox" class="MSearchBoxInactive">
+        <span class="left">
+          <img id="MSearchSelect" src="search/mag_sel.png"
+               onmouseover="return searchBox.OnSearchSelectShow()"
+               onmouseout="return searchBox.OnSearchSelectHide()"
+               alt=""/>
+          <input type="text" id="MSearchField" value="Cerca" accesskey="S"
+               onfocus="searchBox.OnSearchFieldFocus(true)" 
+               onblur="searchBox.OnSearchFieldFocus(false)" 
+               onkeyup="searchBox.OnSearchFieldChange(event)"/>
+          </span><span class="right">
+            <a id="MSearchClose" href="javascript:searchBox.CloseResultsWindow()"><img id="MSearchCloseImg" border="0" src="search/close.png" alt=""/></a>
+          </span>
+        </div>
+      </li>
+    </ul>
+  </div>
+  <div id="navrow2" class="tabs2">
+    <ul class="tablist">
+      <li><a href="files.html"><span>Elenco&#160;dei&#160;file</span></a></li>
+      <li class="current"><a href="globals.html"><span>Elementi&#160;dei&#160;file</span></a></li>
+    </ul>
+  </div>
+  <div id="navrow3" class="tabs2">
+    <ul class="tablist">
+      <li><a href="globals.html"><span>Tutto</span></a></li>
+      <li><a href="globals_func.html"><span>Funzioni</span></a></li>
+      <li><a href="globals_vars.html"><span>Variabili</span></a></li>
+      <li><a href="globals_type.html"><span>Ridefinizioni&#160;di&#160;tipo&#160;(typedef)</span></a></li>
+      <li><a href="globals_enum.html"><span>Tipi&#160;enumerati&#160;(enum)</span></a></li>
+      <li class="current"><a href="globals_eval.html"><span>Valori&#160;del&#160;tipo&#160;enumerato</span></a></li>
+      <li><a href="globals_defs.html"><span>Definizioni</span></a></li>
+    </ul>
+  </div>
+</div><!-- top -->
+<!-- window showing the filter options -->
+<div id="MSearchSelectWindow"
+     onmouseover="return searchBox.OnSearchSelectShow()"
+     onmouseout="return searchBox.OnSearchSelectHide()"
+     onkeydown="return searchBox.OnSearchSelectKey(event)">
+<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>Tutto</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classi</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>File</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Funzioni</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Variabili</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Ridefinizioni di tipo (typedef)</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Tipi enumerati (enum)</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(7)"><span class="SelectionMark">&#160;</span>Valori del tipo enumerato</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(8)"><span class="SelectionMark">&#160;</span>Definizioni</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(9)"><span class="SelectionMark">&#160;</span>Pagine</a></div>
+
+<!-- iframe showing the search results (closed by default) -->
+<div id="MSearchResultsWindow">
+<iframe src="javascript:void(0)" frameborder="0" 
+        name="MSearchResults" id="MSearchResults">
+</iframe>
+</div>
+
+<div class="contents">
+&#160;<ul>
+<li>CARICAb
+: <a class="el" href="objects_8h.html#a0c6259e7902d9ec3495de5fa5cbbde02a665f420bfe5e6bdb94491fd0dea53571">objects.h</a>
+</li>
+<li>CARICACPb
+: <a class="el" href="objects_8h.html#a0c6259e7902d9ec3495de5fa5cbbde02a396f63cf7090ed4ce7959d7074eade62">objects.h</a>
+</li>
+<li>CREDITS
+: <a class="el" href="objects_8h.html#a50bf84c042e3d4b30ee2ab55f9b3744dacb9e6f410cf374803d7ff561a15bc4ef">objects.h</a>
+</li>
+<li>CREDITSb
+: <a class="el" href="objects_8h.html#a0c6259e7902d9ec3495de5fa5cbbde02a80ec197a2bb5515d781c4aece5da5004">objects.h</a>
+</li>
+<li>DESTRA
+: <a class="el" href="objects_8h.html#a917cb2ad6b731b390f8c57aa48656211a7c7d65423f4380773e1770f6955eecc1">objects.h</a>
+</li>
+<li>DOCb
+: <a class="el" href="objects_8h.html#a0c6259e7902d9ec3495de5fa5cbbde02a5a030efaf59b34b0a821459d35221d75">objects.h</a>
+</li>
+<li>ESC
+: <a class="el" href="objects_8h.html#a917cb2ad6b731b390f8c57aa48656211af5297152557c7da396243000ca240e89">objects.h</a>
+</li>
+<li>ESCIb
+: <a class="el" href="objects_8h.html#a0c6259e7902d9ec3495de5fa5cbbde02a8448e1ef7c4c96b61810f961dc24dc01">objects.h</a>
+</li>
+<li>GAMEOVER
+: <a class="el" href="objects_8h.html#a50bf84c042e3d4b30ee2ab55f9b3744da42495cc178524da331d4681864c72b72">objects.h</a>
+</li>
+<li>GIOCAb
+: <a class="el" href="objects_8h.html#a0c6259e7902d9ec3495de5fa5cbbde02abb1b0db24a0472deab89790f69c0523e">objects.h</a>
+</li>
+<li>GIU
+: <a class="el" href="objects_8h.html#a917cb2ad6b731b390f8c57aa48656211a5387bb29e78bfce7c11164018e81ab7b">objects.h</a>
+</li>
+<li>HOWTO
+: <a class="el" href="objects_8h.html#a50bf84c042e3d4b30ee2ab55f9b3744daa5b38178bed030098fed3d8d011e0be6">objects.h</a>
+</li>
+<li>HOWTOb
+: <a class="el" href="objects_8h.html#a0c6259e7902d9ec3495de5fa5cbbde02a497ee44c969a9bb9c81f4a985479e7ec">objects.h</a>
+</li>
+<li>IN_GIOCO
+: <a class="el" href="objects_8h.html#a50bf84c042e3d4b30ee2ab55f9b3744daf1be94f8d898914643fff818db372af2">objects.h</a>
+</li>
+<li>INDIETROb
+: <a class="el" href="objects_8h.html#a0c6259e7902d9ec3495de5fa5cbbde02ae984ca0bbfd09902b862b371a422d03d">objects.h</a>
+</li>
+<li>INIZIO
+: <a class="el" href="objects_8h.html#a50bf84c042e3d4b30ee2ab55f9b3744da6ff063e4bc21f66ec2e08f64914b0e17">objects.h</a>
+</li>
+<li>INVIO
+: <a class="el" href="objects_8h.html#a917cb2ad6b731b390f8c57aa48656211a0ce5dce475e87b709641524af5b2ff8d">objects.h</a>
+</li>
+<li>LIVELLO
+: <a class="el" href="objects_8h.html#a50bf84c042e3d4b30ee2ab55f9b3744da34be1cfd398debce71c013bfec363396">objects.h</a>
+</li>
+<li>PAUSA
+: <a class="el" href="objects_8h.html#a50bf84c042e3d4b30ee2ab55f9b3744da60fc5eaee370304305a60cc7ba79aa45">objects.h</a>
+</li>
+<li>PUNTEGGI
+: <a class="el" href="objects_8h.html#a50bf84c042e3d4b30ee2ab55f9b3744da9db62ce21fc29ff42d553854f4e8dced">objects.h</a>
+</li>
+<li>PUNTEGGIb
+: <a class="el" href="objects_8h.html#a0c6259e7902d9ec3495de5fa5cbbde02aac69d883a44558bcfac7eb67ed07050c">objects.h</a>
+</li>
+<li>RIPRENDIb
+: <a class="el" href="objects_8h.html#a0c6259e7902d9ec3495de5fa5cbbde02ada161dd8fb26dfa5ce263ea34cf0383a">objects.h</a>
+</li>
+<li>SINISTRA
+: <a class="el" href="objects_8h.html#a917cb2ad6b731b390f8c57aa48656211ad2dde39551c1898dc393ed164cff9d42">objects.h</a>
+</li>
+<li>SPAZIO
+: <a class="el" href="objects_8h.html#a917cb2ad6b731b390f8c57aa48656211a8bbbcdd35f04ea619b9851d763eed24e">objects.h</a>
+</li>
+<li>SU
+: <a class="el" href="objects_8h.html#a917cb2ad6b731b390f8c57aa48656211a7911229e7fd613f96aeaf9413c8251bc">objects.h</a>
+</li>
+<li>TASTO_M
+: <a class="el" href="objects_8h.html#a917cb2ad6b731b390f8c57aa48656211a594dac99897490963f31867ed8c5af12">objects.h</a>
+</li>
+<li>TASTO_N
+: <a class="el" href="objects_8h.html#a917cb2ad6b731b390f8c57aa48656211a7d88333a95cb65e81ef3b4c62c234e81">objects.h</a>
+</li>
+<li>TASTO_P
+: <a class="el" href="objects_8h.html#a917cb2ad6b731b390f8c57aa48656211ad88e2ef22f4d64fb2c17bde7b2e7065c">objects.h</a>
+</li>
+</ul>
+</div><!-- contents -->
+<!-- start footer part -->
+<hr class="footer"/><address class="footer"><small>
+Generato Lun 10 Giu 2013 16:16:52 per Angry Tom da &#160;<a href="http://www.doxygen.org/index.html">
+<img class="footer" src="doxygen.png" alt="doxygen"/>
+</a> 1.8.3.1
+</small></address>
+</body>
+</html>

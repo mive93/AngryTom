@@ -1,0 +1,337 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9"/>
+<meta name="generator" content="Doxygen 1.8.3.1"/>
+<title>Angry Tom: Elementi dei file</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="search/search.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="search/search.js"></script>
+<script type="text/javascript">
+  $(document).ready(function() { searchBox.OnSelectItem(0); });
+</script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr style="height: 56px;">
+  <td style="padding-left: 0.5em;">
+   <div id="projectname">Angry Tom
+   </div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- Generato da Doxygen 1.8.3.1 -->
+<script type="text/javascript">
+var searchBox = new SearchBox("searchBox", "search",false,'Cerca');
+</script>
+  <div id="navrow1" class="tabs">
+    <ul class="tablist">
+      <li><a href="index.html"><span>Pagina&#160;Principale</span></a></li>
+      <li><a href="annotated.html"><span>Classi</span></a></li>
+      <li class="current"><a href="files.html"><span>File</span></a></li>
+      <li>
+        <div id="MSearchBox" class="MSearchBoxInactive">
+        <span class="left">
+          <img id="MSearchSelect" src="search/mag_sel.png"
+               onmouseover="return searchBox.OnSearchSelectShow()"
+               onmouseout="return searchBox.OnSearchSelectHide()"
+               alt=""/>
+          <input type="text" id="MSearchField" value="Cerca" accesskey="S"
+               onfocus="searchBox.OnSearchFieldFocus(true)" 
+               onblur="searchBox.OnSearchFieldFocus(false)" 
+               onkeyup="searchBox.OnSearchFieldChange(event)"/>
+          </span><span class="right">
+            <a id="MSearchClose" href="javascript:searchBox.CloseResultsWindow()"><img id="MSearchCloseImg" border="0" src="search/close.png" alt=""/></a>
+          </span>
+        </div>
+      </li>
+    </ul>
+  </div>
+  <div id="navrow2" class="tabs2">
+    <ul class="tablist">
+      <li><a href="files.html"><span>Elenco&#160;dei&#160;file</span></a></li>
+      <li class="current"><a href="globals.html"><span>Elementi&#160;dei&#160;file</span></a></li>
+    </ul>
+  </div>
+  <div id="navrow3" class="tabs2">
+    <ul class="tablist">
+      <li><a href="globals.html"><span>Tutto</span></a></li>
+      <li class="current"><a href="globals_func.html"><span>Funzioni</span></a></li>
+      <li><a href="globals_vars.html"><span>Variabili</span></a></li>
+      <li><a href="globals_type.html"><span>Ridefinizioni&#160;di&#160;tipo&#160;(typedef)</span></a></li>
+      <li><a href="globals_enum.html"><span>Tipi&#160;enumerati&#160;(enum)</span></a></li>
+      <li><a href="globals_eval.html"><span>Valori&#160;del&#160;tipo&#160;enumerato</span></a></li>
+      <li><a href="globals_defs.html"><span>Definizioni</span></a></li>
+    </ul>
+  </div>
+  <div id="navrow4" class="tabs3">
+    <ul class="tablist">
+      <li><a href="#index_a"><span>a</span></a></li>
+      <li><a href="#index_c"><span>c</span></a></li>
+      <li><a href="#index_d"><span>d</span></a></li>
+      <li><a href="#index_i"><span>i</span></a></li>
+      <li><a href="#index_m"><span>m</span></a></li>
+      <li><a href="#index_n"><span>n</span></a></li>
+      <li><a href="#index_o"><span>o</span></a></li>
+      <li><a href="#index_s"><span>s</span></a></li>
+      <li><a href="#index_u"><span>u</span></a></li>
+    </ul>
+  </div>
+</div><!-- top -->
+<!-- window showing the filter options -->
+<div id="MSearchSelectWindow"
+     onmouseover="return searchBox.OnSearchSelectShow()"
+     onmouseout="return searchBox.OnSearchSelectHide()"
+     onkeydown="return searchBox.OnSearchSelectKey(event)">
+<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>Tutto</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classi</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>File</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Funzioni</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Variabili</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Ridefinizioni di tipo (typedef)</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Tipi enumerati (enum)</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(7)"><span class="SelectionMark">&#160;</span>Valori del tipo enumerato</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(8)"><span class="SelectionMark">&#160;</span>Definizioni</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(9)"><span class="SelectionMark">&#160;</span>Pagine</a></div>
+
+<!-- iframe showing the search results (closed by default) -->
+<div id="MSearchResultsWindow">
+<iframe src="javascript:void(0)" frameborder="0" 
+        name="MSearchResults" id="MSearchResults">
+</iframe>
+</div>
+
+<div class="contents">
+&#160;
+
+<h3><a class="anchor" id="index_a"></a>- a -</h3><ul>
+<li>Aggiorna_anim_giocatore()
+: <a class="el" href="aggiorna_8cc.html#a06320562d5a1f70e3bf24e5f1eb132bd">aggiorna.cc</a>
+, <a class="el" href="aggiorna_8h.html#a06320562d5a1f70e3bf24e5f1eb132bd">aggiorna.h</a>
+</li>
+<li>Aggiorna_colpo()
+: <a class="el" href="aggiorna_8h.html#adc9ab8b8d4aa942b11500c533879537c">aggiorna.h</a>
+, <a class="el" href="aggiorna_8cc.html#adc9ab8b8d4aa942b11500c533879537c">aggiorna.cc</a>
+</li>
+<li>Aggiorna_impatti()
+: <a class="el" href="aggiorna_8cc.html#a255890c65c02a9fba3c893dba8acdbc4">aggiorna.cc</a>
+, <a class="el" href="aggiorna_8h.html#a255890c65c02a9fba3c893dba8acdbc4">aggiorna.h</a>
+</li>
+<li>Aggiorna_Nemici()
+: <a class="el" href="aggiorna_8cc.html#acef564172bcd2d86813e1ee8efef677c">aggiorna.cc</a>
+, <a class="el" href="aggiorna_8h.html#acef564172bcd2d86813e1ee8efef677c">aggiorna.h</a>
+</li>
+<li>AggiornaPunteggi()
+: <a class="el" href="fileIO_8h.html#a7e92957b6ce26c8ef2be6dc75033f20e">fileIO.h</a>
+, <a class="el" href="fileIO_8cc.html#a7e92957b6ce26c8ef2be6dc75033f20e">fileIO.cc</a>
+</li>
+</ul>
+
+
+<h3><a class="anchor" id="index_c"></a>- c -</h3><ul>
+<li>Cambia_fase()
+: <a class="el" href="aggiorna_8cc.html#a21293b18f57f17b344f58527019656b4">aggiorna.cc</a>
+, <a class="el" href="aggiorna_8h.html#a21293b18f57f17b344f58527019656b4">aggiorna.h</a>
+</li>
+<li>carica()
+: <a class="el" href="fileIO_8h.html#a5230cd05305ca979046048b96894e64b">fileIO.h</a>
+, <a class="el" href="fileIO_8cc.html#a5230cd05305ca979046048b96894e64b">fileIO.cc</a>
+</li>
+<li>CaricaPunteggi()
+: <a class="el" href="fileIO_8cc.html#a85e8557e57e20d73e2e8f5653181a093">fileIO.cc</a>
+, <a class="el" href="fileIO_8h.html#a85e8557e57e20d73e2e8f5653181a093">fileIO.h</a>
+</li>
+<li>CercaMinimo()
+: <a class="el" href="fileIO_8h.html#ab5877e3e93231c69ca458a21c39290fc">fileIO.h</a>
+, <a class="el" href="fileIO_8cc.html#ab5877e3e93231c69ca458a21c39290fc">fileIO.cc</a>
+</li>
+<li>controllo_inizio()
+: <a class="el" href="DBG_8h.html#a659480a3b06a8dd4fbcc61ab3e6960b2">DBG.h</a>
+, <a class="el" href="DBG_8cc.html#a659480a3b06a8dd4fbcc61ab3e6960b2">DBG.cc</a>
+</li>
+<li>CursoresuBottone()
+: <a class="el" href="aggiorna_8cc.html#a4f9c9e053bc1762f478152d03900a470">aggiorna.cc</a>
+, <a class="el" href="aggiorna_8h.html#a4f9c9e053bc1762f478152d03900a470">aggiorna.h</a>
+</li>
+</ul>
+
+
+<h3><a class="anchor" id="index_d"></a>- d -</h3><ul>
+<li>Disegna_colpo()
+: <a class="el" href="disegno_8cc.html#a0f0e9173cd6de1652eb52e73c0fe9066">disegno.cc</a>
+, <a class="el" href="disegno_8h.html#a0f0e9173cd6de1652eb52e73c0fe9066">disegno.h</a>
+</li>
+<li>Disegna_cuori()
+: <a class="el" href="disegno_8h.html#a42060d47bacceb6786614beb1ec561a3">disegno.h</a>
+, <a class="el" href="disegno_8cc.html#a42060d47bacceb6786614beb1ec561a3">disegno.cc</a>
+</li>
+<li>Disegna_giocatore()
+: <a class="el" href="disegno_8cc.html#ac1ebdcd43a228e6dea510b3c1b40b4bf">disegno.cc</a>
+, <a class="el" href="disegno_8h.html#ac1ebdcd43a228e6dea510b3c1b40b4bf">disegno.h</a>
+</li>
+<li>Disegna_impatti()
+: <a class="el" href="disegno_8h.html#a46bc0b2e4c847354cb3b297e555ddccf">disegno.h</a>
+, <a class="el" href="disegno_8cc.html#a46bc0b2e4c847354cb3b297e555ddccf">disegno.cc</a>
+</li>
+<li>Disegna_Nemici()
+: <a class="el" href="disegno_8cc.html#a3db6065bdc1c60b1145c2928e1629ad3">disegno.cc</a>
+, <a class="el" href="disegno_8h.html#a3db6065bdc1c60b1145c2928e1629ad3">disegno.h</a>
+</li>
+<li>DisegnaCambioLivello()
+: <a class="el" href="disegno_8cc.html#aebfcf07fabf8c3182ca6392d2271b6f7">disegno.cc</a>
+, <a class="el" href="disegno_8h.html#aebfcf07fabf8c3182ca6392d2271b6f7">disegno.h</a>
+</li>
+<li>DisegnaCredits()
+: <a class="el" href="disegno_8cc.html#a16dd89ecead17f5f4698eb48e4fcfd24">disegno.cc</a>
+, <a class="el" href="disegno_8h.html#a16dd89ecead17f5f4698eb48e4fcfd24">disegno.h</a>
+</li>
+<li>DisegnaGameOver()
+: <a class="el" href="disegno_8h.html#adb98145160c5957a44f123438ae44c62">disegno.h</a>
+, <a class="el" href="disegno_8cc.html#adb98145160c5957a44f123438ae44c62">disegno.cc</a>
+</li>
+<li>DisegnaHowTo()
+: <a class="el" href="disegno_8cc.html#a9c5ffbe616b1fafbc5e395c0598ce576">disegno.cc</a>
+, <a class="el" href="disegno_8h.html#a9c5ffbe616b1fafbc5e395c0598ce576">disegno.h</a>
+</li>
+<li>DisegnaInGioco()
+: <a class="el" href="disegno_8cc.html#a83a7ebf42f5e788108db77c8abd40e98">disegno.cc</a>
+, <a class="el" href="disegno_8h.html#a83a7ebf42f5e788108db77c8abd40e98">disegno.h</a>
+</li>
+<li>DisegnaInizio()
+: <a class="el" href="disegno_8cc.html#aa6de324595ac4b26a2c427c5767106d0">disegno.cc</a>
+, <a class="el" href="disegno_8h.html#aa6de324595ac4b26a2c427c5767106d0">disegno.h</a>
+</li>
+<li>DisegnaPausa()
+: <a class="el" href="disegno_8cc.html#a91aa13324ba6480e98b54aa45f43b940">disegno.cc</a>
+, <a class="el" href="disegno_8h.html#a91aa13324ba6480e98b54aa45f43b940">disegno.h</a>
+</li>
+<li>DisegnaPunteggi()
+: <a class="el" href="disegno_8h.html#a3213d5e0500614e86d4bfe6886eb81f5">disegno.h</a>
+, <a class="el" href="disegno_8cc.html#a3213d5e0500614e86d4bfe6886eb81f5">disegno.cc</a>
+</li>
+<li>DrawBackground()
+: <a class="el" href="disegno_8h.html#aef6d377daebd43d8e18e6df292357888">disegno.h</a>
+, <a class="el" href="disegno_8cc.html#aef6d377daebd43d8e18e6df292357888">disegno.cc</a>
+</li>
+</ul>
+
+
+<h3><a class="anchor" id="index_i"></a>- i -</h3><ul>
+<li>Impatto_colpo()
+: <a class="el" href="aggiorna_8cc.html#a7c3409a64a15dd98ebe54ae5e100416c">aggiorna.cc</a>
+, <a class="el" href="aggiorna_8h.html#a7c3409a64a15dd98ebe54ae5e100416c">aggiorna.h</a>
+</li>
+<li>Impatto_Nemici()
+: <a class="el" href="aggiorna_8h.html#aaa3d8f5f4c36f5cb90fd95f460e3ccf2">aggiorna.h</a>
+, <a class="el" href="aggiorna_8cc.html#aaa3d8f5f4c36f5cb90fd95f460e3ccf2">aggiorna.cc</a>
+</li>
+<li>InitBackground()
+: <a class="el" href="inizializzazioni_8cc.html#aa7a76137691493ed9fbc0de34d011094">inizializzazioni.cc</a>
+, <a class="el" href="inizializzazioni_8h.html#aa7a76137691493ed9fbc0de34d011094">inizializzazioni.h</a>
+</li>
+<li>Inizia_impatti()
+: <a class="el" href="aggiorna_8h.html#aa7105157027beb3ffa8ab9f3dec5430d">aggiorna.h</a>
+, <a class="el" href="aggiorna_8cc.html#aa7105157027beb3ffa8ab9f3dec5430d">aggiorna.cc</a>
+</li>
+<li>Inizia_partita()
+: <a class="el" href="aggiorna_8cc.html#a6548a345b3969b72c5bc7136a2d8c453">aggiorna.cc</a>
+, <a class="el" href="aggiorna_8h.html#a6548a345b3969b72c5bc7136a2d8c453">aggiorna.h</a>
+</li>
+<li>Inizializza_colpo()
+: <a class="el" href="inizializzazioni_8cc.html#a373b2e8b8545c77678b48e51b2e7b603">inizializzazioni.cc</a>
+, <a class="el" href="inizializzazioni_8h.html#a373b2e8b8545c77678b48e51b2e7b603">inizializzazioni.h</a>
+</li>
+<li>Inizializza_g()
+: <a class="el" href="inizializzazioni_8cc.html#a9716c6872c9129d5886f442fc01fcfd4">inizializzazioni.cc</a>
+, <a class="el" href="inizializzazioni_8h.html#a9716c6872c9129d5886f442fc01fcfd4">inizializzazioni.h</a>
+</li>
+<li>Inizializza_impatti()
+: <a class="el" href="inizializzazioni_8cc.html#a237cfb7fe0e69e255553ac1e8d90d87f">inizializzazioni.cc</a>
+, <a class="el" href="inizializzazioni_8h.html#a237cfb7fe0e69e255553ac1e8d90d87f">inizializzazioni.h</a>
+</li>
+<li>Inizializza_Nemici()
+: <a class="el" href="inizializzazioni_8cc.html#a384c6597b39746c5c5a5cae33b8b91d3">inizializzazioni.cc</a>
+, <a class="el" href="inizializzazioni_8h.html#a384c6597b39746c5c5a5cae33b8b91d3">inizializzazioni.h</a>
+</li>
+<li>inizializza_partita()
+: <a class="el" href="inizializzazioni_8cc.html#a77cef82d66c9d0d66a211d2cef2a82f0">inizializzazioni.cc</a>
+, <a class="el" href="inizializzazioni_8h.html#a77cef82d66c9d0d66a211d2cef2a82f0">inizializzazioni.h</a>
+</li>
+<li>InizializzaBottoni()
+: <a class="el" href="inizializzazioni_8cc.html#ade1808c815b751b93b8db893af8cbf87">inizializzazioni.cc</a>
+, <a class="el" href="inizializzazioni_8h.html#ade1808c815b751b93b8db893af8cbf87">inizializzazioni.h</a>
+</li>
+<li>InizializzaPunteggi()
+: <a class="el" href="inizializzazioni_8h.html#ab384f8d3b8ded2c4a30505b756b18c87">inizializzazioni.h</a>
+, <a class="el" href="inizializzazioni_8cc.html#ab384f8d3b8ded2c4a30505b756b18c87">inizializzazioni.cc</a>
+</li>
+</ul>
+
+
+<h3><a class="anchor" id="index_m"></a>- m -</h3><ul>
+<li>main()
+: <a class="el" href="AngryTom_8cc.html#a840291bc02cba5474a4cb46a9b9566fe">AngryTom.cc</a>
+</li>
+</ul>
+
+
+<h3><a class="anchor" id="index_n"></a>- n -</h3><ul>
+<li>Nuovo_livello()
+: <a class="el" href="aggiorna_8cc.html#abb6adb68d98ef4294ff4d1d818456633">aggiorna.cc</a>
+, <a class="el" href="aggiorna_8h.html#abb6adb68d98ef4294ff4d1d818456633">aggiorna.h</a>
+</li>
+</ul>
+
+
+<h3><a class="anchor" id="index_o"></a>- o -</h3><ul>
+<li>OrdinaPunteggi()
+: <a class="el" href="fileIO_8cc.html#ad179e739255a7d799a3ce43c0bb1ee4a">fileIO.cc</a>
+, <a class="el" href="fileIO_8h.html#ad179e739255a7d799a3ce43c0bb1ee4a">fileIO.h</a>
+</li>
+</ul>
+
+
+<h3><a class="anchor" id="index_s"></a>- s -</h3><ul>
+<li>salva()
+: <a class="el" href="fileIO_8cc.html#adb9d3575b187b41479501fafacfec429">fileIO.cc</a>
+, <a class="el" href="fileIO_8h.html#adb9d3575b187b41479501fafacfec429">fileIO.h</a>
+</li>
+<li>Spara_colpo()
+: <a class="el" href="aggiorna_8h.html#a36825fdb511e2f46ba432137a33bf55f">aggiorna.h</a>
+, <a class="el" href="aggiorna_8cc.html#a36825fdb511e2f46ba432137a33bf55f">aggiorna.cc</a>
+</li>
+<li>Spawn_Nemici()
+: <a class="el" href="aggiorna_8cc.html#ace1020dc5af01046c683f12749d3d674">aggiorna.cc</a>
+, <a class="el" href="aggiorna_8h.html#ace1020dc5af01046c683f12749d3d674">aggiorna.h</a>
+</li>
+<li>Sposta_giocatore()
+: <a class="el" href="aggiorna_8h.html#a7f417c7f9530aa993cffec94295c098c">aggiorna.h</a>
+, <a class="el" href="aggiorna_8cc.html#a7f417c7f9530aa993cffec94295c098c">aggiorna.cc</a>
+</li>
+<li>stampa_dati_in_gioco()
+: <a class="el" href="DBG_8h.html#ae60433cba0426fb7d3ff4c895e8190eb">DBG.h</a>
+, <a class="el" href="DBG_8cc.html#ae60433cba0426fb7d3ff4c895e8190eb">DBG.cc</a>
+</li>
+<li>stampa_dati_partita()
+: <a class="el" href="DBG_8cc.html#a968ef622a2b4bb18f0c60f248aacc220">DBG.cc</a>
+, <a class="el" href="DBG_8h.html#a968ef622a2b4bb18f0c60f248aacc220">DBG.h</a>
+</li>
+</ul>
+
+
+<h3><a class="anchor" id="index_u"></a>- u -</h3><ul>
+<li>UpdateBackground()
+: <a class="el" href="aggiorna_8cc.html#a297d198b0f91390b755038091ea18860">aggiorna.cc</a>
+, <a class="el" href="aggiorna_8h.html#a297d198b0f91390b755038091ea18860">aggiorna.h</a>
+</li>
+</ul>
+</div><!-- contents -->
+<!-- start footer part -->
+<hr class="footer"/><address class="footer"><small>
+Generato Lun 10 Giu 2013 16:16:52 per Angry Tom da &#160;<a href="http://www.doxygen.org/index.html">
+<img class="footer" src="doxygen.png" alt="doxygen"/>
+</a> 1.8.3.1
+</small></address>
+</body>
+</html>

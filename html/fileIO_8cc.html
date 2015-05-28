@@ -1,0 +1,390 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9"/>
+<meta name="generator" content="Doxygen 1.8.3.1"/>
+<title>Angry Tom: Riferimenti per il file fileIO.cc</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="search/search.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="search/search.js"></script>
+<script type="text/javascript">
+  $(document).ready(function() { searchBox.OnSelectItem(0); });
+</script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr style="height: 56px;">
+  <td style="padding-left: 0.5em;">
+   <div id="projectname">Angry Tom
+   </div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- Generato da Doxygen 1.8.3.1 -->
+<script type="text/javascript">
+var searchBox = new SearchBox("searchBox", "search",false,'Cerca');
+</script>
+  <div id="navrow1" class="tabs">
+    <ul class="tablist">
+      <li><a href="index.html"><span>Pagina&#160;Principale</span></a></li>
+      <li><a href="annotated.html"><span>Classi</span></a></li>
+      <li class="current"><a href="files.html"><span>File</span></a></li>
+      <li>
+        <div id="MSearchBox" class="MSearchBoxInactive">
+        <span class="left">
+          <img id="MSearchSelect" src="search/mag_sel.png"
+               onmouseover="return searchBox.OnSearchSelectShow()"
+               onmouseout="return searchBox.OnSearchSelectHide()"
+               alt=""/>
+          <input type="text" id="MSearchField" value="Cerca" accesskey="S"
+               onfocus="searchBox.OnSearchFieldFocus(true)" 
+               onblur="searchBox.OnSearchFieldFocus(false)" 
+               onkeyup="searchBox.OnSearchFieldChange(event)"/>
+          </span><span class="right">
+            <a id="MSearchClose" href="javascript:searchBox.CloseResultsWindow()"><img id="MSearchCloseImg" border="0" src="search/close.png" alt=""/></a>
+          </span>
+        </div>
+      </li>
+    </ul>
+  </div>
+  <div id="navrow2" class="tabs2">
+    <ul class="tablist">
+      <li><a href="files.html"><span>Elenco&#160;dei&#160;file</span></a></li>
+      <li><a href="globals.html"><span>Elementi&#160;dei&#160;file</span></a></li>
+    </ul>
+  </div>
+<!-- window showing the filter options -->
+<div id="MSearchSelectWindow"
+     onmouseover="return searchBox.OnSearchSelectShow()"
+     onmouseout="return searchBox.OnSearchSelectHide()"
+     onkeydown="return searchBox.OnSearchSelectKey(event)">
+<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>Tutto</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classi</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>File</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Funzioni</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Variabili</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Ridefinizioni di tipo (typedef)</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Tipi enumerati (enum)</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(7)"><span class="SelectionMark">&#160;</span>Valori del tipo enumerato</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(8)"><span class="SelectionMark">&#160;</span>Definizioni</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(9)"><span class="SelectionMark">&#160;</span>Pagine</a></div>
+
+<!-- iframe showing the search results (closed by default) -->
+<div id="MSearchResultsWindow">
+<iframe src="javascript:void(0)" frameborder="0" 
+        name="MSearchResults" id="MSearchResults">
+</iframe>
+</div>
+
+</div><!-- top -->
+<div class="header">
+  <div class="summary">
+<a href="#func-members">Funzioni</a>  </div>
+  <div class="headertitle">
+<div class="title">Riferimenti per il file fileIO.cc</div>  </div>
+</div><!--header-->
+<div class="contents">
+
+<p>File contenente il modulo Salva/Carica.  
+<a href="#details">Continua...</a></p>
+<div class="textblock"><code>#include &lt;iostream&gt;</code><br/>
+<code>#include &lt;fstream&gt;</code><br/>
+<code>#include &lt;allegro5/allegro.h&gt;</code><br/>
+<code>#include &lt;allegro5/allegro_primitives.h&gt;</code><br/>
+<code>#include &lt;allegro5/allegro_font.h&gt;</code><br/>
+<code>#include &lt;allegro5/allegro_ttf.h&gt;</code><br/>
+<code>#include &lt;allegro5/allegro_image.h&gt;</code><br/>
+<code>#include &lt;allegro5/allegro_audio.h&gt;</code><br/>
+<code>#include &lt;allegro5/allegro_acodec.h&gt;</code><br/>
+<code>#include &quot;<a class="el" href="objects_8h_source.html">objects.h</a>&quot;</code><br/>
+<code>#include &quot;<a class="el" href="disegno_8h_source.html">disegno.h</a>&quot;</code><br/>
+<code>#include &quot;<a class="el" href="inizializzazioni_8h_source.html">inizializzazioni.h</a>&quot;</code><br/>
+<code>#include &quot;<a class="el" href="fileIO_8h_source.html">fileIO.h</a>&quot;</code><br/>
+</div><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
+Funzioni</h2></td></tr>
+<tr class="memitem:adb9d3575b187b41479501fafacfec429"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="fileIO_8cc.html#adb9d3575b187b41479501fafacfec429">salva</a> (<a class="el" href="structGioco.html">Gioco</a> <a class="el" href="dichiarazioni_8h.html#a6697be1fef616e47330f96de1f63d318">partita</a>, <a class="el" href="structStatistiche.html">Statistiche</a> <a class="el" href="dichiarazioni_8h.html#a4cb231eee96ecab7c0f3040153da3cc2">stat</a>)</td></tr>
+<tr class="memdesc:adb9d3575b187b41479501fafacfec429"><td class="mdescLeft">&#160;</td><td class="mdescRight">Salvataggio della partita.  <a href="#adb9d3575b187b41479501fafacfec429">Continua...</a><br/></td></tr>
+<tr class="separator:adb9d3575b187b41479501fafacfec429"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5230cd05305ca979046048b96894e64b"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="fileIO_8cc.html#a5230cd05305ca979046048b96894e64b">carica</a> (<a class="el" href="structGioco.html">Gioco</a> &amp;<a class="el" href="dichiarazioni_8h.html#a6697be1fef616e47330f96de1f63d318">partita</a>, <a class="el" href="structStatistiche.html">Statistiche</a> &amp;<a class="el" href="dichiarazioni_8h.html#a4cb231eee96ecab7c0f3040153da3cc2">stat</a>)</td></tr>
+<tr class="memdesc:a5230cd05305ca979046048b96894e64b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Caricamento della partita.  <a href="#a5230cd05305ca979046048b96894e64b">Continua...</a><br/></td></tr>
+<tr class="separator:a5230cd05305ca979046048b96894e64b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a85e8557e57e20d73e2e8f5653181a093"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="fileIO_8cc.html#a85e8557e57e20d73e2e8f5653181a093">CaricaPunteggi</a> (<a class="el" href="objects_8h.html#ad9c01679d3fd1e264a7bf6c37fd24294">Punteggi</a> &amp;<a class="el" href="dichiarazioni_8h.html#af764a0977111f6a3a10038e17f735ca1">p</a>)</td></tr>
+<tr class="memdesc:a85e8557e57e20d73e2e8f5653181a093"><td class="mdescLeft">&#160;</td><td class="mdescRight">Caricamento dei punteggi.  <a href="#a85e8557e57e20d73e2e8f5653181a093">Continua...</a><br/></td></tr>
+<tr class="separator:a85e8557e57e20d73e2e8f5653181a093"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad179e739255a7d799a3ce43c0bb1ee4a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="fileIO_8cc.html#ad179e739255a7d799a3ce43c0bb1ee4a">OrdinaPunteggi</a> (<a class="el" href="objects_8h.html#ad9c01679d3fd1e264a7bf6c37fd24294">Punteggi</a> &amp;<a class="el" href="dichiarazioni_8h.html#af764a0977111f6a3a10038e17f735ca1">p</a>)</td></tr>
+<tr class="memdesc:ad179e739255a7d799a3ce43c0bb1ee4a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Ordinamento dei punteggi.  <a href="#ad179e739255a7d799a3ce43c0bb1ee4a">Continua...</a><br/></td></tr>
+<tr class="separator:ad179e739255a7d799a3ce43c0bb1ee4a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab5877e3e93231c69ca458a21c39290fc"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="fileIO_8cc.html#ab5877e3e93231c69ca458a21c39290fc">CercaMinimo</a> (<a class="el" href="objects_8h.html#ad9c01679d3fd1e264a7bf6c37fd24294">Punteggi</a> &amp;<a class="el" href="dichiarazioni_8h.html#af764a0977111f6a3a10038e17f735ca1">p</a>)</td></tr>
+<tr class="memdesc:ab5877e3e93231c69ca458a21c39290fc"><td class="mdescLeft">&#160;</td><td class="mdescRight">Ricerca del minimo dei punteggi.  <a href="#ab5877e3e93231c69ca458a21c39290fc">Continua...</a><br/></td></tr>
+<tr class="separator:ab5877e3e93231c69ca458a21c39290fc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7e92957b6ce26c8ef2be6dc75033f20e"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="fileIO_8cc.html#a7e92957b6ce26c8ef2be6dc75033f20e">AggiornaPunteggi</a> (<a class="el" href="objects_8h.html#ad9c01679d3fd1e264a7bf6c37fd24294">Punteggi</a> &amp;<a class="el" href="dichiarazioni_8h.html#af764a0977111f6a3a10038e17f735ca1">p</a>, <a class="el" href="structGioco.html">Gioco</a> <a class="el" href="dichiarazioni_8h.html#a6697be1fef616e47330f96de1f63d318">partita</a>, bool &amp;<a class="el" href="dichiarazioni_8h.html#a51ae2426fad1b70fa083815a4bd11942">HSaggiornati</a>)</td></tr>
+<tr class="memdesc:a7e92957b6ce26c8ef2be6dc75033f20e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Aggiornamento dei punteggi.  <a href="#a7e92957b6ce26c8ef2be6dc75033f20e">Continua...</a><br/></td></tr>
+<tr class="separator:a7e92957b6ce26c8ef2be6dc75033f20e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<a name="details" id="details"></a><h2 class="groupheader">Descrizione dettagliata</h2>
+<div class="textblock"><p>File contenente il modulo Salva/Carica. </p>
+</div><h2 class="groupheader">Documentazione delle funzioni</h2>
+<a class="anchor" id="a7e92957b6ce26c8ef2be6dc75033f20e"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool AggiornaPunteggi </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="objects_8h.html#ad9c01679d3fd1e264a7bf6c37fd24294">Punteggi</a> &amp;&#160;</td>
+          <td class="paramname"><em>p</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="structGioco.html">Gioco</a>&#160;</td>
+          <td class="paramname"><em>partita</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool &amp;&#160;</td>
+          <td class="paramname"><em>HSaggiornati</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Aggiornamento dei punteggi. </p>
+<p>Funzione che inserisce nella struttura dei punteggi, il risultato appena ottenuto dal giocatore, dopodichè aggiorna il file binario <a class="el" href="objects_8h.html#ae16ec0b053e9a39ad46ed6f366f6a5e2" title="File dove sono salvati i punteggi di ogni partita.">HSfile</a> con anche il nuovo valore inserito. </p>
+<dl class="params"><dt>Parametri</dt><dd>
+  <table class="params">
+    <tr><td class="paramdir">[in]</td><td class="paramname">p</td><td>Struttura dei punteggi da aggiornare </td></tr>
+    <tr><td class="paramdir">[in]</td><td class="paramname">partita</td><td>Partita di cui salvare il punteggio </td></tr>
+    <tr><td class="paramdir">[in]</td><td class="paramname">HSaggiornati</td><td>Booleano che indica se il punteggio è già stato aggiornato </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Restituisce</dt><dd>Ritorna vero solo se il salvataggio è andato a buon fine, falso altrimenti. </dd></dl>
+<div class="fragment"><div class="line"><a name="l00089"></a><span class="lineno">   89</span>&#160;{</div>
+<div class="line"><a name="l00090"></a><span class="lineno">   90</span>&#160;        <a class="code" href="dichiarazioni_8cc.html#a51ae2426fad1b70fa083815a4bd11942" title="Array dei tasti.">HSaggiornati</a> = <span class="keyword">true</span>;    </div>
+<div class="line"><a name="l00091"></a><span class="lineno">   91</span>&#160;        <span class="keywordflow">if</span>(partita.<a class="code" href="structGioco.html#abb550fca51d240607e54cbb492fec9e2" title="Punti accumulati dal giocatore.">punti</a> &gt; <a class="code" href="dichiarazioni_8cc.html#af764a0977111f6a3a10038e17f735ca1" title="Array di bottoni, tipo Bottoni.">p</a>[<a class="code" href="fileIO_8cc.html#ab5877e3e93231c69ca458a21c39290fc" title="Ricerca del minimo dei punteggi.">CercaMinimo</a>(<a class="code" href="dichiarazioni_8cc.html#af764a0977111f6a3a10038e17f735ca1" title="Array di bottoni, tipo Bottoni.">p</a>)])</div>
+<div class="line"><a name="l00092"></a><span class="lineno">   92</span>&#160;                <a class="code" href="dichiarazioni_8cc.html#af764a0977111f6a3a10038e17f735ca1" title="Array di bottoni, tipo Bottoni.">p</a>[<a class="code" href="fileIO_8cc.html#ab5877e3e93231c69ca458a21c39290fc" title="Ricerca del minimo dei punteggi.">CercaMinimo</a>(<a class="code" href="dichiarazioni_8cc.html#af764a0977111f6a3a10038e17f735ca1" title="Array di bottoni, tipo Bottoni.">p</a>)] = partita.<a class="code" href="structGioco.html#abb550fca51d240607e54cbb492fec9e2" title="Punti accumulati dal giocatore.">punti</a>;</div>
+<div class="line"><a name="l00093"></a><span class="lineno">   93</span>&#160;                </div>
+<div class="line"><a name="l00094"></a><span class="lineno">   94</span>&#160;        <a class="code" href="fileIO_8cc.html#ad179e739255a7d799a3ce43c0bb1ee4a" title="Ordinamento dei punteggi.">OrdinaPunteggi</a> (<a class="code" href="dichiarazioni_8cc.html#af764a0977111f6a3a10038e17f735ca1" title="Array di bottoni, tipo Bottoni.">p</a>);</div>
+<div class="line"><a name="l00095"></a><span class="lineno">   95</span>&#160;        ofstream f(<a class="code" href="objects_8h.html#ae16ec0b053e9a39ad46ed6f366f6a5e2" title="File dove sono salvati i punteggi di ogni partita.">HSfile</a>);</div>
+<div class="line"><a name="l00096"></a><span class="lineno">   96</span>&#160;        <span class="keywordflow">if</span>(!f)</div>
+<div class="line"><a name="l00097"></a><span class="lineno">   97</span>&#160;                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><a name="l00098"></a><span class="lineno">   98</span>&#160;        f.write(reinterpret_cast&lt;const char *&gt;(&amp;<a class="code" href="dichiarazioni_8cc.html#af764a0977111f6a3a10038e17f735ca1" title="Array di bottoni, tipo Bottoni.">p</a>),<span class="keyword">sizeof</span>(<a class="code" href="objects_8h.html#ad9c01679d3fd1e264a7bf6c37fd24294" title="Tipo Punteggi.">Punteggi</a>));</div>
+<div class="line"><a name="l00099"></a><span class="lineno">   99</span>&#160;        f.close();</div>
+<div class="line"><a name="l00100"></a><span class="lineno">  100</span>&#160;        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><a name="l00101"></a><span class="lineno">  101</span>&#160;}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a class="anchor" id="a5230cd05305ca979046048b96894e64b"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool carica </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="structGioco.html">Gioco</a> &amp;&#160;</td>
+          <td class="paramname"><em>partita</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="structStatistiche.html">Statistiche</a> &amp;&#160;</td>
+          <td class="paramname"><em>stat</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Caricamento della partita. </p>
+<p>La funzione carica una partita, salvata in precedenza, da un file binario. </p>
+<dl class="params"><dt>Parametri</dt><dd>
+  <table class="params">
+    <tr><td class="paramdir">[in]</td><td class="paramname">partita</td><td>Partita di cui caricare i dati </td></tr>
+    <tr><td class="paramdir">[in]</td><td class="paramname">stat</td><td><a class="el" href="structStatistiche.html" title="Struttura delle statische.">Statistiche</a> di cui caricare i dati </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Restituisce</dt><dd>Ritorna vero solo se il caricamento è andato a buon fine, false altrimenti </dd></dl>
+<div class="fragment"><div class="line"><a name="l00036"></a><span class="lineno">   36</span>&#160;{</div>
+<div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160;        ifstream f(<a class="code" href="objects_8h.html#a8767d18000783ef973c114fc2e377ee0" title="File dove sarà salvata e caricata la partita.">file</a>);</div>
+<div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;        <span class="keywordflow">if</span>(!f)</div>
+<div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160;                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160;        f.read(reinterpret_cast&lt;char *&gt;(&amp;partita), <span class="keyword">sizeof</span>(<a class="code" href="structGioco.html" title="Struttura dello gioco.">Gioco</a>)) ;</div>
+<div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;        f.read(reinterpret_cast&lt;char *&gt;(&amp;stat), <span class="keyword">sizeof</span>(<a class="code" href="structStatistiche.html" title="Struttura delle statische.">Statistiche</a>)) ;</div>
+<div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;        f.close();</div>
+<div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160;        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160;}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a class="anchor" id="a85e8557e57e20d73e2e8f5653181a093"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void CaricaPunteggi </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="objects_8h.html#ad9c01679d3fd1e264a7bf6c37fd24294">Punteggi</a> &amp;&#160;</td>
+          <td class="paramname"><em>p</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Caricamento dei punteggi. </p>
+<p>Funzione che carica i punteggi da file binario <a class="el" href="objects_8h.html#ae16ec0b053e9a39ad46ed6f366f6a5e2" title="File dove sono salvati i punteggi di ogni partita.">HSfile</a> </p>
+<dl class="params"><dt>Parametri</dt><dd>
+  <table class="params">
+    <tr><td class="paramdir">[in]</td><td class="paramname">p</td><td>Struttura dei punteggi in cui caricare i dati </td></tr>
+  </table>
+  </dd>
+</dl>
+<div class="fragment"><div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160;{</div>
+<div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160;        ifstream f(<a class="code" href="objects_8h.html#ae16ec0b053e9a39ad46ed6f366f6a5e2" title="File dove sono salvati i punteggi di ogni partita.">HSfile</a>);</div>
+<div class="line"><a name="l00053"></a><span class="lineno">   53</span>&#160;        <span class="keywordflow">if</span>(!f)</div>
+<div class="line"><a name="l00054"></a><span class="lineno">   54</span>&#160;                <a class="code" href="inizializzazioni_8cc.html#ab384f8d3b8ded2c4a30505b756b18c87" title="Inizializzazione dei punteggi.">InizializzaPunteggi</a>(<a class="code" href="dichiarazioni_8cc.html#af764a0977111f6a3a10038e17f735ca1" title="Array di bottoni, tipo Bottoni.">p</a>);</div>
+<div class="line"><a name="l00055"></a><span class="lineno">   55</span>&#160;        <span class="keywordflow">else</span> </div>
+<div class="line"><a name="l00056"></a><span class="lineno">   56</span>&#160;                f.read(reinterpret_cast&lt; char *&gt;(&amp;<a class="code" href="dichiarazioni_8cc.html#af764a0977111f6a3a10038e17f735ca1" title="Array di bottoni, tipo Bottoni.">p</a>),<span class="keyword">sizeof</span>(<a class="code" href="objects_8h.html#ad9c01679d3fd1e264a7bf6c37fd24294" title="Tipo Punteggi.">Punteggi</a>)); </div>
+<div class="line"><a name="l00057"></a><span class="lineno">   57</span>&#160;        f.close();</div>
+<div class="line"><a name="l00058"></a><span class="lineno">   58</span>&#160;}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a class="anchor" id="ab5877e3e93231c69ca458a21c39290fc"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int CercaMinimo </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="objects_8h.html#ad9c01679d3fd1e264a7bf6c37fd24294">Punteggi</a> &amp;&#160;</td>
+          <td class="paramname"><em>p</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Ricerca del minimo dei punteggi. </p>
+<p>Funzione di supporto ad AggiornaPunteggi, serve per trovare il più piccolo punteggio tra gli high scores </p>
+<dl class="params"><dt>Parametri</dt><dd>
+  <table class="params">
+    <tr><td class="paramdir">[in]</td><td class="paramname">p</td><td>Struttura dei punteggi in cui cercare il minimo. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Restituisce</dt><dd>Ritorna l'indice del punteggio minimo. </dd></dl>
+<div class="fragment"><div class="line"><a name="l00078"></a><span class="lineno">   78</span>&#160;{</div>
+<div class="line"><a name="l00079"></a><span class="lineno">   79</span>&#160;        <span class="keywordtype">int</span> min = 0;</div>
+<div class="line"><a name="l00080"></a><span class="lineno">   80</span>&#160;        <span class="keywordflow">for</span>(<span class="keywordtype">int</span> i=0; i&lt;<a class="code" href="objects_8h.html#af7bc52072e0727854f1fe42a0a4fe45c" title="Numero di punteggi salvati.">NUM_PUNTEGGI</a>; i++)</div>
+<div class="line"><a name="l00081"></a><span class="lineno">   81</span>&#160;                <span class="keywordflow">if</span>(<a class="code" href="dichiarazioni_8cc.html#af764a0977111f6a3a10038e17f735ca1" title="Array di bottoni, tipo Bottoni.">p</a>[i]&lt;<a class="code" href="dichiarazioni_8cc.html#af764a0977111f6a3a10038e17f735ca1" title="Array di bottoni, tipo Bottoni.">p</a>[min])</div>
+<div class="line"><a name="l00082"></a><span class="lineno">   82</span>&#160;                        min = i;</div>
+<div class="line"><a name="l00083"></a><span class="lineno">   83</span>&#160;        <span class="keywordflow">return</span> min;</div>
+<div class="line"><a name="l00084"></a><span class="lineno">   84</span>&#160;        </div>
+<div class="line"><a name="l00085"></a><span class="lineno">   85</span>&#160;}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a class="anchor" id="ad179e739255a7d799a3ce43c0bb1ee4a"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void OrdinaPunteggi </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="objects_8h.html#ad9c01679d3fd1e264a7bf6c37fd24294">Punteggi</a> &amp;&#160;</td>
+          <td class="paramname"><em>p</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Ordinamento dei punteggi. </p>
+<p>Funzione che ordina i punteggi attraverso l'algoritmo Bubblesort. E' stato scelto tale algritmo, poco efficente poichè ha un costo computazionale quadratico, poichè i numeri da ordinare sono pochi. </p>
+<dl class="params"><dt>Parametri</dt><dd>
+  <table class="params">
+    <tr><td class="paramdir">[in]</td><td class="paramname">p</td><td>Punteggi da ordinare </td></tr>
+  </table>
+  </dd>
+</dl>
+<div class="fragment"><div class="line"><a name="l00063"></a><span class="lineno">   63</span>&#160;{</div>
+<div class="line"><a name="l00064"></a><span class="lineno">   64</span>&#160;        <span class="keywordtype">int</span> temp;</div>
+<div class="line"><a name="l00065"></a><span class="lineno">   65</span>&#160;        <span class="keywordflow">for</span>(<span class="keywordtype">int</span> i=0; i&lt;<a class="code" href="objects_8h.html#af7bc52072e0727854f1fe42a0a4fe45c" title="Numero di punteggi salvati.">NUM_PUNTEGGI</a>-1; i++)</div>
+<div class="line"><a name="l00066"></a><span class="lineno">   66</span>&#160;                <span class="keywordflow">for</span>(<span class="keywordtype">int</span> j=i+1; j&lt;<a class="code" href="objects_8h.html#af7bc52072e0727854f1fe42a0a4fe45c" title="Numero di punteggi salvati.">NUM_PUNTEGGI</a>; j++)</div>
+<div class="line"><a name="l00067"></a><span class="lineno">   67</span>&#160;                        <span class="keywordflow">if</span>(<a class="code" href="dichiarazioni_8cc.html#af764a0977111f6a3a10038e17f735ca1" title="Array di bottoni, tipo Bottoni.">p</a>[j]&gt;<a class="code" href="dichiarazioni_8cc.html#af764a0977111f6a3a10038e17f735ca1" title="Array di bottoni, tipo Bottoni.">p</a>[i])</div>
+<div class="line"><a name="l00068"></a><span class="lineno">   68</span>&#160;                        {</div>
+<div class="line"><a name="l00069"></a><span class="lineno">   69</span>&#160;                                temp = <a class="code" href="dichiarazioni_8cc.html#af764a0977111f6a3a10038e17f735ca1" title="Array di bottoni, tipo Bottoni.">p</a>[i];</div>
+<div class="line"><a name="l00070"></a><span class="lineno">   70</span>&#160;                                <a class="code" href="dichiarazioni_8cc.html#af764a0977111f6a3a10038e17f735ca1" title="Array di bottoni, tipo Bottoni.">p</a>[i]=<a class="code" href="dichiarazioni_8cc.html#af764a0977111f6a3a10038e17f735ca1" title="Array di bottoni, tipo Bottoni.">p</a>[j];</div>
+<div class="line"><a name="l00071"></a><span class="lineno">   71</span>&#160;                                <a class="code" href="dichiarazioni_8cc.html#af764a0977111f6a3a10038e17f735ca1" title="Array di bottoni, tipo Bottoni.">p</a>[j]=temp;</div>
+<div class="line"><a name="l00072"></a><span class="lineno">   72</span>&#160;                        }</div>
+<div class="line"><a name="l00073"></a><span class="lineno">   73</span>&#160;                                </div>
+<div class="line"><a name="l00074"></a><span class="lineno">   74</span>&#160;}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a class="anchor" id="adb9d3575b187b41479501fafacfec429"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool salva </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="structGioco.html">Gioco</a>&#160;</td>
+          <td class="paramname"><em>partita</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="structStatistiche.html">Statistiche</a>&#160;</td>
+          <td class="paramname"><em>stat</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Salvataggio della partita. </p>
+<p>La funzione salva la partita in un file binario nel file <a class="el" href="objects_8h.html#a8767d18000783ef973c114fc2e377ee0" title="File dove sarà salvata e caricata la partita.">file</a>. </p>
+<dl class="params"><dt>Parametri</dt><dd>
+  <table class="params">
+    <tr><td class="paramdir">[in]</td><td class="paramname">partita</td><td>Partita di cui salvare i dati </td></tr>
+    <tr><td class="paramdir">[in]</td><td class="paramname">stat</td><td><a class="el" href="structStatistiche.html" title="Struttura delle statische.">Statistiche</a> di cui salvare i dati </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Restituisce</dt><dd>Ritorna vero solo se il salvataggio è andato a buon fine, false altrimenti </dd></dl>
+<div class="fragment"><div class="line"><a name="l00024"></a><span class="lineno">   24</span>&#160;{</div>
+<div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160;        ofstream f(<a class="code" href="objects_8h.html#a8767d18000783ef973c114fc2e377ee0" title="File dove sarà salvata e caricata la partita.">file</a>);</div>
+<div class="line"><a name="l00026"></a><span class="lineno">   26</span>&#160;        <span class="keywordflow">if</span>(!f)</div>
+<div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160;                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><a name="l00028"></a><span class="lineno">   28</span>&#160;        f.write(reinterpret_cast&lt;const char *&gt;(&amp;partita), <span class="keyword">sizeof</span>(<a class="code" href="structGioco.html" title="Struttura dello gioco.">Gioco</a>)) ;</div>
+<div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160;        f.write(reinterpret_cast&lt;const char *&gt;(&amp;stat), <span class="keyword">sizeof</span>(<a class="code" href="structStatistiche.html" title="Struttura delle statische.">Statistiche</a>)) ;</div>
+<div class="line"><a name="l00030"></a><span class="lineno">   30</span>&#160;        f.close();</div>
+<div class="line"><a name="l00031"></a><span class="lineno">   31</span>&#160;        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><a name="l00032"></a><span class="lineno">   32</span>&#160;}</div>
+</div><!-- fragment -->
+</div>
+</div>
+</div><!-- contents -->
+<!-- start footer part -->
+<hr class="footer"/><address class="footer"><small>
+Generato Lun 10 Giu 2013 16:16:52 per Angry Tom da &#160;<a href="http://www.doxygen.org/index.html">
+<img class="footer" src="doxygen.png" alt="doxygen"/>
+</a> 1.8.3.1
+</small></address>
+</body>
+</html>

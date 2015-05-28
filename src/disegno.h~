@@ -1,0 +1,133 @@
+/**
+ * @file 
+ * Header file contenente l'interfaccia del modulo Disegno.
+ */
+
+/** Disegno del giocatore.
+ *
+ * Funzione che disegna il ::Giocatore sullo schermo.
+ * @param[in] tom 	Giocatore da disegnare
+ */
+void Disegna_giocatore(Giocatore &tom);
+
+/** Disegno delle vite del giocatore.
+ *
+ * La funzione disegna un cuore per ogni vita che il giocatore ancora possiede.
+ * @param[in] image	Immagine del cuore
+ * @param[in] tom 	Giocatore a cui sono associate le vite	
+ */
+void Disegna_cuori( ALLEGRO_BITMAP *image, Giocatore &tom);
+
+/** Disegno dei nemici.
+ *
+ * Funzione che disegna i ::Nemici sullo schermo.
+ * Vengono disegnati solo il tipo di nemici presenti in un certo livello 
+ * @param[in] nemici 	Nemici da disegnare
+ */
+void Disegna_Nemici(Nemici nemici[]);
+
+/** Disegno del colpo.
+ *
+ * Funzione che disegna il ::Colpo del giocatore sullo schermo.
+ * @param[in] colpi	Colpi da disegnare
+ */
+void Disegna_colpo(Colpo colpi[]);
+
+/** Disegno degli impatti. 
+ *
+ * Funzione che disegna gli ::Impatti col nemico di tipo 1 o quello di tipo 2
+ * @param[in] impatti	Impatti da disegnare
+ */
+void Disegna_impatti(Impatti impatti[]);
+
+/** Disegno dello sfondo.
+ *
+ * La funzione disegna sullo schermo lo ::Sfondo passato
+ * @param[in] s	Sfondo.
+ */
+void DrawBackground(Sfondo &s);
+
+
+/** Disegna lo stato INIZIO.
+ *
+ * La funzione semplicemente disegna gli eventuali bottoni, immagini
+ * e testi della fase INIZIO.
+ * @param[in] s		Sfondo 1 della fase.
+ * @param[in] s2	Sfondo 2 della fase.
+ * @param[in] s3	Sfondo 3 della fase.
+ */
+void DisegnaInizio(Sfondo &s,Sfondo &s2,Sfondo &s3);
+
+/** Disegna lo stato CREDITS.
+ *
+ * La funzione semplicemente disegna gli eventuali bottoni, immagini
+ * e testi della fase CREDITS.
+ * @param[in] s	Sfondo della fase.
+ */
+void DisegnaCredits(Sfondo &s);
+
+/** Disegna lo stato IN_GIOCO.
+ *
+ * La funzione semplicemente disegna gli eventuali bottoni, immagini
+ * e testi della fase IN_GIOCO.
+ * @param[in] s		Sfondo della fase.
+ * @param[in] tom	Giocatore in gioco.
+ * @param[in] nemici	Nemici in gioco.
+ * @param[in] colpi	Colpi in gioco.
+ * @param[in] impatti	Impatti in gioco.
+ * @param[in] s2	Uno sfondo della fase.
+ * @param[in] s3	Un altro sfondo della fase.
+ * @param[in] immagine_cuori	Immagine dei cuori (vite).
+ * @param[in] font18	Font utilizzato in questa fase.
+ */
+void DisegnaInGioco(Sfondo &s, Giocatore &tom, Nemici nemici[], Colpo colpi[], Impatti impatti[], Sfondo & s2,Sfondo & s3, ALLEGRO_BITMAP * immagine_cuori, ALLEGRO_FONT* font18);
+
+/** Disegna lo stato PAUSA.
+ *
+ * La funzione semplicemente disegna gli eventuali bottoni, immagini
+ * e testi della fase PAUSA.
+ * @param[in] s	Sfondo della fase.
+ */
+void DisegnaPausa(Sfondo &s);
+
+
+/** Disegna lo stato HOWTO.
+ *
+ * La funzione semplicemente disegna gli eventuali bottoni, immagini
+ * e testi della fase HOWTO.-
+ * @param[in] s	Sfondo della fase.
+ */
+void DisegnaHowTo(Sfondo &s);
+
+/** Disegna lo stato PUNTEGGI.
+ *
+ * La funzione semplicemente disegna gli eventuali bottoni, immagini
+ * e testi della fase PUNTEGGI.
+ * @param[in] s	Sfondo della fase.
+ * @param[in] p	Punteggi da visualizzare.
+ */
+void DisegnaPunteggi(Sfondo &s, Punteggi p);
+
+/** Disegna lo stato LIVELLO.
+ *
+ * La funzione semplicemente disegna gli eventuali bottoni, immagini
+ * e testi della fase LIVELLO.
+ * @param[in] s	Sfondo della fase.
+ */
+void DisegnaCambioLivello(Sfondo &s);
+
+/** Disegna lo stato GAMEOVER.
+ *
+ * La funzione semplicemente disegna gli eventuali bottoni, immagini
+ * e testi della fase GAMEOVER.
+ * @param[in] s		Sfondo 1 della fase.
+ * @param[in] s2	Sfondo 2 della fase.
+ * @param[in] s3	Sfondo 3 della fase.
+
+ */
+void DisegnaGameOver(Sfondo &s,Sfondo &s2,Sfondo &s3);
+
+
+/**
+ * Fine dell'interfaccia del modulo Disegna
+ */

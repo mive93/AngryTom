@@ -1,0 +1,334 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9"/>
+<meta name="generator" content="Doxygen 1.8.3.1"/>
+<title>Angry Tom: Membri dei composti - Variabili</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="search/search.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="search/search.js"></script>
+<script type="text/javascript">
+  $(document).ready(function() { searchBox.OnSelectItem(0); });
+</script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr style="height: 56px;">
+  <td style="padding-left: 0.5em;">
+   <div id="projectname">Angry Tom
+   </div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- Generato da Doxygen 1.8.3.1 -->
+<script type="text/javascript">
+var searchBox = new SearchBox("searchBox", "search",false,'Cerca');
+</script>
+  <div id="navrow1" class="tabs">
+    <ul class="tablist">
+      <li><a href="index.html"><span>Pagina&#160;Principale</span></a></li>
+      <li class="current"><a href="annotated.html"><span>Classi</span></a></li>
+      <li><a href="files.html"><span>File</span></a></li>
+      <li>
+        <div id="MSearchBox" class="MSearchBoxInactive">
+        <span class="left">
+          <img id="MSearchSelect" src="search/mag_sel.png"
+               onmouseover="return searchBox.OnSearchSelectShow()"
+               onmouseout="return searchBox.OnSearchSelectHide()"
+               alt=""/>
+          <input type="text" id="MSearchField" value="Cerca" accesskey="S"
+               onfocus="searchBox.OnSearchFieldFocus(true)" 
+               onblur="searchBox.OnSearchFieldFocus(false)" 
+               onkeyup="searchBox.OnSearchFieldChange(event)"/>
+          </span><span class="right">
+            <a id="MSearchClose" href="javascript:searchBox.CloseResultsWindow()"><img id="MSearchCloseImg" border="0" src="search/close.png" alt=""/></a>
+          </span>
+        </div>
+      </li>
+    </ul>
+  </div>
+  <div id="navrow2" class="tabs2">
+    <ul class="tablist">
+      <li><a href="annotated.html"><span>Elenco&#160;dei&#160;tipi&#160;composti</span></a></li>
+      <li><a href="classes.html"><span>Indice&#160;dei&#160;tipi&#160;composti</span></a></li>
+      <li class="current"><a href="functions.html"><span>Membri&#160;dei&#160;composti</span></a></li>
+    </ul>
+  </div>
+  <div id="navrow3" class="tabs2">
+    <ul class="tablist">
+      <li><a href="functions.html"><span>Tutto</span></a></li>
+      <li class="current"><a href="functions_vars.html"><span>Variabili</span></a></li>
+    </ul>
+  </div>
+  <div id="navrow4" class="tabs3">
+    <ul class="tablist">
+      <li><a href="#index_a"><span>a</span></a></li>
+      <li><a href="#index_b"><span>b</span></a></li>
+      <li><a href="#index_c"><span>c</span></a></li>
+      <li><a href="#index_d"><span>d</span></a></li>
+      <li><a href="#index_f"><span>f</span></a></li>
+      <li><a href="#index_i"><span>i</span></a></li>
+      <li><a href="#index_l"><span>l</span></a></li>
+      <li><a href="#index_m"><span>m</span></a></li>
+      <li><a href="#index_n"><span>n</span></a></li>
+      <li><a href="#index_p"><span>p</span></a></li>
+      <li><a href="#index_v"><span>v</span></a></li>
+      <li><a href="#index_x"><span>x</span></a></li>
+      <li><a href="#index_y"><span>y</span></a></li>
+    </ul>
+  </div>
+</div><!-- top -->
+<!-- window showing the filter options -->
+<div id="MSearchSelectWindow"
+     onmouseover="return searchBox.OnSearchSelectShow()"
+     onmouseout="return searchBox.OnSearchSelectHide()"
+     onkeydown="return searchBox.OnSearchSelectKey(event)">
+<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>Tutto</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classi</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>File</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Funzioni</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Variabili</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Ridefinizioni di tipo (typedef)</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Tipi enumerati (enum)</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(7)"><span class="SelectionMark">&#160;</span>Valori del tipo enumerato</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(8)"><span class="SelectionMark">&#160;</span>Definizioni</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(9)"><span class="SelectionMark">&#160;</span>Pagine</a></div>
+
+<!-- iframe showing the search results (closed by default) -->
+<div id="MSearchResultsWindow">
+<iframe src="javascript:void(0)" frameborder="0" 
+        name="MSearchResults" id="MSearchResults">
+</iframe>
+</div>
+
+<div class="contents">
+&#160;
+
+<h3><a class="anchor" id="index_a"></a>- a -</h3><ul>
+<li>altezza
+: <a class="el" href="structSfondo.html#afc2d9efd652659b7fbf23e883f310e33">Sfondo</a>
+</li>
+<li>altezzaFrame
+: <a class="el" href="structBottoni.html#a631ced9e7a70a5102782ca592333b5df">Bottoni</a>
+</li>
+<li>animationCol
+: <a class="el" href="structNemici.html#ae9f5fe178fcad649b7e9b79f0060ee5b">Nemici</a>
+, <a class="el" href="structImpatti.html#aa12a46d5908ed90cf1d99c29ccab9c17">Impatti</a>
+, <a class="el" href="structGiocatore.html#a833391b1233f80b46227020558b9a272">Giocatore</a>
+</li>
+<li>animationDir
+: <a class="el" href="structImpatti.html#acf041cb974e00a3e13c932b996359584">Impatti</a>
+, <a class="el" href="structGiocatore.html#a29e149febc37366293906fe85bea57ab">Giocatore</a>
+, <a class="el" href="structNemici.html#a368980b0739d312d86f7db161bcb8057">Nemici</a>
+</li>
+<li>animationRow
+: <a class="el" href="structImpatti.html#a1635b6a7c165bc444713afc2a221fb7c">Impatti</a>
+, <a class="el" href="structGiocatore.html#a7eaa8e72406929985c28a718331f9c7b">Giocatore</a>
+, <a class="el" href="structColpo.html#ac4bae0a0e3130f050611bf0af20b6dd3">Colpo</a>
+, <a class="el" href="structNemici.html#a6703c9976ce5acb24632974e3b48e140">Nemici</a>
+</li>
+<li>attacco
+: <a class="el" href="structGiocatore.html#ab3167a19db79c4c1f3f5f07822060506">Giocatore</a>
+</li>
+<li>attivo
+: <a class="el" href="structImpatti.html#a92927e9f992451bff4bfd4fc2f188340">Impatti</a>
+</li>
+</ul>
+
+
+<h3><a class="anchor" id="index_b"></a>- b -</h3><ul>
+<li>bordox
+: <a class="el" href="structGiocatore.html#aebfbf976aae920230dbe184a3824ae51">Giocatore</a>
+, <a class="el" href="structNemici.html#ad4a86efbca1abb0fd395c676c95fd315">Nemici</a>
+</li>
+<li>bordoy
+: <a class="el" href="structGiocatore.html#a4cda0f651f73b2536a759f669ee297ec">Giocatore</a>
+, <a class="el" href="structNemici.html#a6f82c3f5508464a65efef2bc150a8f98">Nemici</a>
+</li>
+</ul>
+
+
+<h3><a class="anchor" id="index_c"></a>- c -</h3><ul>
+<li>colpi
+: <a class="el" href="structStatistiche.html#a2ac8f3fe4f3fab96c7b609ccd8dfe127">Statistiche</a>
+</li>
+<li>colpito
+: <a class="el" href="structGiocatore.html#a648e172deccd5b54429e0388468dbfeb">Giocatore</a>
+</li>
+<li>corFrame
+: <a class="el" href="structImpatti.html#ab867fa75610fc669e7f20455827cdd0c">Impatti</a>
+, <a class="el" href="structNemici.html#a5229a669444c9f714c73701e455d78c5">Nemici</a>
+, <a class="el" href="structGiocatore.html#aad5a88a127a609e034f2a56486b83202">Giocatore</a>
+</li>
+<li>curFrame
+: <a class="el" href="structBottoni.html#a8c3b95edc6dc20ba88204e4aff359936">Bottoni</a>
+</li>
+</ul>
+
+
+<h3><a class="anchor" id="index_d"></a>- d -</h3><ul>
+<li>difficolta
+: <a class="el" href="structGioco.html#ac99479fcf98c9adf076e8454335ebcf7">Gioco</a>
+</li>
+<li>dirX
+: <a class="el" href="structSfondo.html#acaee3bc03f8313e2b8bac00c37eaf10e">Sfondo</a>
+</li>
+<li>dirY
+: <a class="el" href="structSfondo.html#a7ecf9c5622870d6adcb1649cb0a48f0a">Sfondo</a>
+</li>
+<li>distanza
+: <a class="el" href="structBottoni.html#a8496a92cc017a8d9f0cc7e6120e4d561">Bottoni</a>
+</li>
+</ul>
+
+
+<h3><a class="anchor" id="index_f"></a>- f -</h3><ul>
+<li>fase
+: <a class="el" href="structGioco.html#afaa876a3f18bd15bfe537f0fcd2f7e44">Gioco</a>
+</li>
+<li>frameAlt
+: <a class="el" href="structGiocatore.html#a78a643da27e5086f673446d6edf8576a">Giocatore</a>
+, <a class="el" href="structNemici.html#a62aabf6a589d2f006840830465e692ec">Nemici</a>
+, <a class="el" href="structImpatti.html#ad636d10a6752bb4fe34340ac6a8db321">Impatti</a>
+, <a class="el" href="structColpo.html#aa931d613ad709fbd7691c95b5be10080">Colpo</a>
+</li>
+<li>frameCont
+: <a class="el" href="structImpatti.html#a738da9fb6dd4efe17de01aed79471404">Impatti</a>
+, <a class="el" href="structGiocatore.html#a7bb622da15ad7b508fc93d8d5047a95d">Giocatore</a>
+, <a class="el" href="structNemici.html#a9e43db516e15131e672e36e5b21639fe">Nemici</a>
+</li>
+<li>frameLun
+: <a class="el" href="structNemici.html#a4aa6485f20c17767327ac70eb6596146">Nemici</a>
+, <a class="el" href="structGiocatore.html#ac7ee7848fd75c8b022e806f463ca6996">Giocatore</a>
+, <a class="el" href="structColpo.html#acdbfb614ae8582d6e6359f56700dcc7f">Colpo</a>
+, <a class="el" href="structImpatti.html#a63dae522d8cdeb15ffba69b43c172e06">Impatti</a>
+</li>
+<li>frameRit
+: <a class="el" href="structImpatti.html#a92a1552e149a2f55df3c842a16d9f903">Impatti</a>
+, <a class="el" href="structNemici.html#a6aad2cc0e1fbfe6025599a8c5db5bda6">Nemici</a>
+, <a class="el" href="structGiocatore.html#a6d03f33f091d51c0ac21d8c4443e24f6">Giocatore</a>
+</li>
+</ul>
+
+
+<h3><a class="anchor" id="index_i"></a>- i -</h3><ul>
+<li>immagine
+: <a class="el" href="structGiocatore.html#a4770a834f4acd96d062d6afca226b925">Giocatore</a>
+, <a class="el" href="structColpo.html#a65ae1eeb081746d7c381f8db519c4aed">Colpo</a>
+, <a class="el" href="structBottoni.html#a4a6574b168503ca8bfbf7cd777f245df">Bottoni</a>
+, <a class="el" href="structSfondo.html#a0fc2d64272af3fec0728887a982a9afd">Sfondo</a>
+, <a class="el" href="structNemici.html#a38d3fc3a948251f9800d016f2ba91544">Nemici</a>
+</li>
+<li>impatto
+: <a class="el" href="structNemici.html#ac4ecc8251dab658ad61f445e69ba9462">Nemici</a>
+</li>
+</ul>
+
+
+<h3><a class="anchor" id="index_l"></a>- l -</h3><ul>
+<li>livello
+: <a class="el" href="structGioco.html#a881d92c7e72e59ce5f36d55991ab2ca5">Gioco</a>
+</li>
+<li>lunghezza
+: <a class="el" href="structSfondo.html#a770ee9179a51f7c0c153495f04998cf0">Sfondo</a>
+</li>
+<li>lunghezzaFrame
+: <a class="el" href="structBottoni.html#a9566cf284ed81ff947a203a64aa5efdf">Bottoni</a>
+</li>
+</ul>
+
+
+<h3><a class="anchor" id="index_m"></a>- m -</h3><ul>
+<li>maxFrame
+: <a class="el" href="structGiocatore.html#ab06b7287246755ee676f7c1b7854eff9">Giocatore</a>
+, <a class="el" href="structImpatti.html#af278f11f626d803e0e87fd8d20c14171">Impatti</a>
+, <a class="el" href="structNemici.html#a750031be1a6f5d71d9d6e5ddbc5e586b">Nemici</a>
+</li>
+</ul>
+
+
+<h3><a class="anchor" id="index_n"></a>- n -</h3><ul>
+<li>n_nemici
+: <a class="el" href="structGioco.html#a87ca57423db01b462618de0b267a68c6">Gioco</a>
+</li>
+<li>Nemico1
+: <a class="el" href="structImpatti.html#abdaf0a55918169bf924fa8cdb3464b09">Impatti</a>
+</li>
+<li>Nemico2
+: <a class="el" href="structImpatti.html#ad371fcf225d081b7b48f1b02c5df21d5">Impatti</a>
+</li>
+</ul>
+
+
+<h3><a class="anchor" id="index_p"></a>- p -</h3><ul>
+<li>posX
+: <a class="el" href="structBottoni.html#aba352722071e8833715840ffb02b48e9">Bottoni</a>
+</li>
+<li>posY
+: <a class="el" href="structBottoni.html#a8dc5bb42472829340e1c6eaaf1bdc0d7">Bottoni</a>
+</li>
+<li>precisione
+: <a class="el" href="structStatistiche.html#a69e2ac9766df2b6e25bea0f804a0fac0">Statistiche</a>
+</li>
+<li>punti
+: <a class="el" href="structGioco.html#abb550fca51d240607e54cbb492fec9e2">Gioco</a>
+</li>
+</ul>
+
+
+<h3><a class="anchor" id="index_v"></a>- v -</h3><ul>
+<li>vel
+: <a class="el" href="structGiocatore.html#a3fd3fc0b5693bf626f7aa1d8c4b7b5f3">Giocatore</a>
+, <a class="el" href="structColpo.html#a37933511daa915dd8695b00f95c4d16a">Colpo</a>
+, <a class="el" href="structNemici.html#a0b03fc7f43673666433ddda07236891e">Nemici</a>
+</li>
+<li>velocita
+: <a class="el" href="structGioco.html#a1fb605a9a2ef76a573685ffe0ec6262a">Gioco</a>
+</li>
+<li>velX
+: <a class="el" href="structSfondo.html#ad040a5082212baac810a74c653148d9e">Sfondo</a>
+</li>
+<li>velY
+: <a class="el" href="structSfondo.html#a5f334d76a72bcdd9300c916b4e9075f9">Sfondo</a>
+</li>
+<li>vite
+: <a class="el" href="structColpo.html#a41fd0ae1b3987c3fcecb1027caae2591">Colpo</a>
+, <a class="el" href="structNemici.html#afae98b972651ce9fe3b6b0f266696d83">Nemici</a>
+, <a class="el" href="structGioco.html#a94e48ce295d8e38cb66b69bb29074dab">Gioco</a>
+</li>
+<li>vite_perse
+: <a class="el" href="structStatistiche.html#a08c1e00089768298083b95074f175aaf">Statistiche</a>
+</li>
+</ul>
+
+
+<h3><a class="anchor" id="index_x"></a>- x -</h3><ul>
+<li>x
+: <a class="el" href="structGiocatore.html#ae3cd96fd365828a2aa0056db133db15a">Giocatore</a>
+, <a class="el" href="structSfondo.html#ad67a51ec529a9ab1bae350d236c8c317">Sfondo</a>
+, <a class="el" href="structImpatti.html#a7a515775bd6eca2ded13b6ce51554fb4">Impatti</a>
+, <a class="el" href="structNemici.html#abc8df94b28bade640027ed5020731e3d">Nemici</a>
+, <a class="el" href="structColpo.html#a48413e32744aa1c695cf8101ed719be5">Colpo</a>
+</li>
+</ul>
+
+
+<h3><a class="anchor" id="index_y"></a>- y -</h3><ul>
+<li>y
+: <a class="el" href="structGiocatore.html#a558c626ab68876f3d7b7c0243bbb8532">Giocatore</a>
+, <a class="el" href="structSfondo.html#a6196f78561c6339b7c58fa80c8e81d02">Sfondo</a>
+, <a class="el" href="structImpatti.html#a9d25f83c44a4cb4e6c11ba2efe17f298">Impatti</a>
+, <a class="el" href="structNemici.html#a7a9dd888946dab6caf542108751bb632">Nemici</a>
+, <a class="el" href="structColpo.html#a489257417f42308e9de0591f9524a491">Colpo</a>
+</li>
+</ul>
+</div><!-- contents -->
+<!-- start footer part -->
+<hr class="footer"/><address class="footer"><small>
+Generato Lun 10 Giu 2013 16:16:52 per Angry Tom da &#160;<a href="http://www.doxygen.org/index.html">
+<img class="footer" src="doxygen.png" alt="doxygen"/>
+</a> 1.8.3.1
+</small></address>
+</body>
+</html>

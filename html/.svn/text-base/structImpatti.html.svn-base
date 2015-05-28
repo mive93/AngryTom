@@ -1,0 +1,354 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9"/>
+<meta name="generator" content="Doxygen 1.8.3.1"/>
+<title>Angry Tom: Riferimenti per la struct Impatti</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="search/search.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="search/search.js"></script>
+<script type="text/javascript">
+  $(document).ready(function() { searchBox.OnSelectItem(0); });
+</script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr style="height: 56px;">
+  <td style="padding-left: 0.5em;">
+   <div id="projectname">Angry Tom
+   </div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- Generato da Doxygen 1.8.3.1 -->
+<script type="text/javascript">
+var searchBox = new SearchBox("searchBox", "search",false,'Cerca');
+</script>
+  <div id="navrow1" class="tabs">
+    <ul class="tablist">
+      <li><a href="index.html"><span>Pagina&#160;Principale</span></a></li>
+      <li class="current"><a href="annotated.html"><span>Classi</span></a></li>
+      <li><a href="files.html"><span>File</span></a></li>
+      <li>
+        <div id="MSearchBox" class="MSearchBoxInactive">
+        <span class="left">
+          <img id="MSearchSelect" src="search/mag_sel.png"
+               onmouseover="return searchBox.OnSearchSelectShow()"
+               onmouseout="return searchBox.OnSearchSelectHide()"
+               alt=""/>
+          <input type="text" id="MSearchField" value="Cerca" accesskey="S"
+               onfocus="searchBox.OnSearchFieldFocus(true)" 
+               onblur="searchBox.OnSearchFieldFocus(false)" 
+               onkeyup="searchBox.OnSearchFieldChange(event)"/>
+          </span><span class="right">
+            <a id="MSearchClose" href="javascript:searchBox.CloseResultsWindow()"><img id="MSearchCloseImg" border="0" src="search/close.png" alt=""/></a>
+          </span>
+        </div>
+      </li>
+    </ul>
+  </div>
+  <div id="navrow2" class="tabs2">
+    <ul class="tablist">
+      <li><a href="annotated.html"><span>Elenco&#160;dei&#160;tipi&#160;composti</span></a></li>
+      <li><a href="classes.html"><span>Indice&#160;dei&#160;tipi&#160;composti</span></a></li>
+      <li><a href="functions.html"><span>Membri&#160;dei&#160;composti</span></a></li>
+    </ul>
+  </div>
+<!-- window showing the filter options -->
+<div id="MSearchSelectWindow"
+     onmouseover="return searchBox.OnSearchSelectShow()"
+     onmouseout="return searchBox.OnSearchSelectHide()"
+     onkeydown="return searchBox.OnSearchSelectKey(event)">
+<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>Tutto</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classi</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>File</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Funzioni</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Variabili</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Ridefinizioni di tipo (typedef)</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Tipi enumerati (enum)</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(7)"><span class="SelectionMark">&#160;</span>Valori del tipo enumerato</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(8)"><span class="SelectionMark">&#160;</span>Definizioni</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(9)"><span class="SelectionMark">&#160;</span>Pagine</a></div>
+
+<!-- iframe showing the search results (closed by default) -->
+<div id="MSearchResultsWindow">
+<iframe src="javascript:void(0)" frameborder="0" 
+        name="MSearchResults" id="MSearchResults">
+</iframe>
+</div>
+
+</div><!-- top -->
+<div class="header">
+  <div class="summary">
+<a href="#pub-attribs">Attributi pubblici</a> &#124;
+<a href="structImpatti-members.html">Elenco di tutti i membri</a>  </div>
+  <div class="headertitle">
+<div class="title">Riferimenti per la struct Impatti</div>  </div>
+</div><!--header-->
+<div class="contents">
+
+<p>Struttura dell'impatto.  
+ <a href="structImpatti.html#details">Continua...</a></p>
+
+<p><code>#include &lt;<a class="el" href="objects_8h_source.html">objects.h</a>&gt;</code></p>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
+Attributi pubblici</h2></td></tr>
+<tr class="memitem:a7a515775bd6eca2ded13b6ce51554fb4"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structImpatti.html#a7a515775bd6eca2ded13b6ce51554fb4">x</a></td></tr>
+<tr class="memdesc:a7a515775bd6eca2ded13b6ce51554fb4"><td class="mdescLeft">&#160;</td><td class="mdescRight">Posizione x dell'impatto.  <a href="#a7a515775bd6eca2ded13b6ce51554fb4">Continua...</a><br/></td></tr>
+<tr class="separator:a7a515775bd6eca2ded13b6ce51554fb4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9d25f83c44a4cb4e6c11ba2efe17f298"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structImpatti.html#a9d25f83c44a4cb4e6c11ba2efe17f298">y</a></td></tr>
+<tr class="memdesc:a9d25f83c44a4cb4e6c11ba2efe17f298"><td class="mdescLeft">&#160;</td><td class="mdescRight">Posizione y dell'impatto.  <a href="#a9d25f83c44a4cb4e6c11ba2efe17f298">Continua...</a><br/></td></tr>
+<tr class="separator:a9d25f83c44a4cb4e6c11ba2efe17f298"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a92927e9f992451bff4bfd4fc2f188340"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structImpatti.html#a92927e9f992451bff4bfd4fc2f188340">attivo</a></td></tr>
+<tr class="memdesc:a92927e9f992451bff4bfd4fc2f188340"><td class="mdescLeft">&#160;</td><td class="mdescRight">Booleano che indica se vi è un impatto.  <a href="#a92927e9f992451bff4bfd4fc2f188340">Continua...</a><br/></td></tr>
+<tr class="separator:a92927e9f992451bff4bfd4fc2f188340"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af278f11f626d803e0e87fd8d20c14171"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structImpatti.html#af278f11f626d803e0e87fd8d20c14171">maxFrame</a></td></tr>
+<tr class="memdesc:af278f11f626d803e0e87fd8d20c14171"><td class="mdescLeft">&#160;</td><td class="mdescRight">Numero massimo di frame dell'impatto.  <a href="#af278f11f626d803e0e87fd8d20c14171">Continua...</a><br/></td></tr>
+<tr class="separator:af278f11f626d803e0e87fd8d20c14171"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab867fa75610fc669e7f20455827cdd0c"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structImpatti.html#ab867fa75610fc669e7f20455827cdd0c">corFrame</a></td></tr>
+<tr class="memdesc:ab867fa75610fc669e7f20455827cdd0c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Numero della frame corrente.  <a href="#ab867fa75610fc669e7f20455827cdd0c">Continua...</a><br/></td></tr>
+<tr class="separator:ab867fa75610fc669e7f20455827cdd0c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a738da9fb6dd4efe17de01aed79471404"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structImpatti.html#a738da9fb6dd4efe17de01aed79471404">frameCont</a></td></tr>
+<tr class="memdesc:a738da9fb6dd4efe17de01aed79471404"><td class="mdescLeft">&#160;</td><td class="mdescRight">Contatore per le frame.  <a href="#a738da9fb6dd4efe17de01aed79471404">Continua...</a><br/></td></tr>
+<tr class="separator:a738da9fb6dd4efe17de01aed79471404"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a92a1552e149a2f55df3c842a16d9f903"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structImpatti.html#a92a1552e149a2f55df3c842a16d9f903">frameRit</a></td></tr>
+<tr class="memdesc:a92a1552e149a2f55df3c842a16d9f903"><td class="mdescLeft">&#160;</td><td class="mdescRight">Contatore per il ritardo delle frame.  <a href="#a92a1552e149a2f55df3c842a16d9f903">Continua...</a><br/></td></tr>
+<tr class="separator:a92a1552e149a2f55df3c842a16d9f903"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad636d10a6752bb4fe34340ac6a8db321"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structImpatti.html#ad636d10a6752bb4fe34340ac6a8db321">frameAlt</a></td></tr>
+<tr class="memdesc:ad636d10a6752bb4fe34340ac6a8db321"><td class="mdescLeft">&#160;</td><td class="mdescRight">Altezza della frame dell'impatto.  <a href="#ad636d10a6752bb4fe34340ac6a8db321">Continua...</a><br/></td></tr>
+<tr class="separator:ad636d10a6752bb4fe34340ac6a8db321"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a63dae522d8cdeb15ffba69b43c172e06"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structImpatti.html#a63dae522d8cdeb15ffba69b43c172e06">frameLun</a></td></tr>
+<tr class="memdesc:a63dae522d8cdeb15ffba69b43c172e06"><td class="mdescLeft">&#160;</td><td class="mdescRight">Lunghezza della frame dell'impatto.  <a href="#a63dae522d8cdeb15ffba69b43c172e06">Continua...</a><br/></td></tr>
+<tr class="separator:a63dae522d8cdeb15ffba69b43c172e06"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa12a46d5908ed90cf1d99c29ccab9c17"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structImpatti.html#aa12a46d5908ed90cf1d99c29ccab9c17">animationCol</a></td></tr>
+<tr class="memdesc:aa12a46d5908ed90cf1d99c29ccab9c17"><td class="mdescLeft">&#160;</td><td class="mdescRight">Numero della colonna dell'animazione.  <a href="#aa12a46d5908ed90cf1d99c29ccab9c17">Continua...</a><br/></td></tr>
+<tr class="separator:aa12a46d5908ed90cf1d99c29ccab9c17"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acf041cb974e00a3e13c932b996359584"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structImpatti.html#acf041cb974e00a3e13c932b996359584">animationDir</a></td></tr>
+<tr class="memdesc:acf041cb974e00a3e13c932b996359584"><td class="mdescLeft">&#160;</td><td class="mdescRight"><pre class="fragment">      Direzione dell'animazione 
+</pre><p> (1: avanti; -1:indietro)  <a href="#acf041cb974e00a3e13c932b996359584">Continua...</a><br/></td></tr>
+<tr class="separator:acf041cb974e00a3e13c932b996359584"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1635b6a7c165bc444713afc2a221fb7c"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structImpatti.html#a1635b6a7c165bc444713afc2a221fb7c">animationRow</a></td></tr>
+<tr class="memdesc:a1635b6a7c165bc444713afc2a221fb7c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Numero della riga di animazione.  <a href="#a1635b6a7c165bc444713afc2a221fb7c">Continua...</a><br/></td></tr>
+<tr class="separator:a1635b6a7c165bc444713afc2a221fb7c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abdaf0a55918169bf924fa8cdb3464b09"><td class="memItemLeft" align="right" valign="top">ALLEGRO_BITMAP *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structImpatti.html#abdaf0a55918169bf924fa8cdb3464b09">Nemico1</a></td></tr>
+<tr class="memdesc:abdaf0a55918169bf924fa8cdb3464b09"><td class="mdescLeft">&#160;</td><td class="mdescRight">Immagine associata al l'impatto col nemico di tipo 1.  <a href="#abdaf0a55918169bf924fa8cdb3464b09">Continua...</a><br/></td></tr>
+<tr class="separator:abdaf0a55918169bf924fa8cdb3464b09"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad371fcf225d081b7b48f1b02c5df21d5"><td class="memItemLeft" align="right" valign="top">ALLEGRO_BITMAP *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structImpatti.html#ad371fcf225d081b7b48f1b02c5df21d5">Nemico2</a></td></tr>
+<tr class="memdesc:ad371fcf225d081b7b48f1b02c5df21d5"><td class="mdescLeft">&#160;</td><td class="mdescRight">Immagine associata al l'impatto col nemico di tipo 2.  <a href="#ad371fcf225d081b7b48f1b02c5df21d5">Continua...</a><br/></td></tr>
+<tr class="separator:ad371fcf225d081b7b48f1b02c5df21d5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<a name="details" id="details"></a><h2 class="groupheader">Descrizione dettagliata</h2>
+<div class="textblock"><p>Struttura dell'impatto. </p>
+<p>L'impatto ha bisogno di una posizione, un booleano per sapere se è avvenuto e dei campi per la gestione dell'animazione. </p>
+</div><h2 class="groupheader">Documentazione dei membri dato</h2>
+<a class="anchor" id="aa12a46d5908ed90cf1d99c29ccab9c17"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int Impatti::animationCol</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Numero della colonna dell'animazione. </p>
+
+</div>
+</div>
+<a class="anchor" id="acf041cb974e00a3e13c932b996359584"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int Impatti::animationDir</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p><pre class="fragment">      Direzione dell'animazione 
+</pre><p> (1: avanti; -1:indietro) </p>
+
+</div>
+</div>
+<a class="anchor" id="a1635b6a7c165bc444713afc2a221fb7c"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int Impatti::animationRow</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Numero della riga di animazione. </p>
+
+</div>
+</div>
+<a class="anchor" id="a92927e9f992451bff4bfd4fc2f188340"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool Impatti::attivo</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Booleano che indica se vi è un impatto. </p>
+
+</div>
+</div>
+<a class="anchor" id="ab867fa75610fc669e7f20455827cdd0c"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int Impatti::corFrame</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Numero della frame corrente. </p>
+
+</div>
+</div>
+<a class="anchor" id="ad636d10a6752bb4fe34340ac6a8db321"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int Impatti::frameAlt</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Altezza della frame dell'impatto. </p>
+
+</div>
+</div>
+<a class="anchor" id="a738da9fb6dd4efe17de01aed79471404"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int Impatti::frameCont</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Contatore per le frame. </p>
+
+</div>
+</div>
+<a class="anchor" id="a63dae522d8cdeb15ffba69b43c172e06"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int Impatti::frameLun</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Lunghezza della frame dell'impatto. </p>
+
+</div>
+</div>
+<a class="anchor" id="a92a1552e149a2f55df3c842a16d9f903"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int Impatti::frameRit</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Contatore per il ritardo delle frame. </p>
+
+</div>
+</div>
+<a class="anchor" id="af278f11f626d803e0e87fd8d20c14171"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int Impatti::maxFrame</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Numero massimo di frame dell'impatto. </p>
+
+</div>
+</div>
+<a class="anchor" id="abdaf0a55918169bf924fa8cdb3464b09"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">ALLEGRO_BITMAP* Impatti::Nemico1</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Immagine associata al l'impatto col nemico di tipo 1. </p>
+
+</div>
+</div>
+<a class="anchor" id="ad371fcf225d081b7b48f1b02c5df21d5"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">ALLEGRO_BITMAP* Impatti::Nemico2</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Immagine associata al l'impatto col nemico di tipo 2. </p>
+
+</div>
+</div>
+<a class="anchor" id="a7a515775bd6eca2ded13b6ce51554fb4"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int Impatti::x</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Posizione x dell'impatto. </p>
+
+</div>
+</div>
+<a class="anchor" id="a9d25f83c44a4cb4e6c11ba2efe17f298"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int Impatti::y</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Posizione y dell'impatto. </p>
+
+</div>
+</div>
+<hr/>La documentazione per questa struct è stata generata a partire dal seguente file:<ul>
+<li><a class="el" href="objects_8h_source.html">objects.h</a></li>
+</ul>
+</div><!-- contents -->
+<!-- start footer part -->
+<hr class="footer"/><address class="footer"><small>
+Generato Lun 10 Giu 2013 16:16:52 per Angry Tom da &#160;<a href="http://www.doxygen.org/index.html">
+<img class="footer" src="doxygen.png" alt="doxygen"/>
+</a> 1.8.3.1
+</small></address>
+</body>
+</html>

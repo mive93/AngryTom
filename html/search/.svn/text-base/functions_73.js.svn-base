@@ -1,0 +1,9 @@
+var searchData=
+[
+  ['salva',['salva',['../fileIO_8cc.html#adb9d3575b187b41479501fafacfec429',1,'salva(Gioco partita, Statistiche stat):&#160;fileIO.cc'],['../fileIO_8h.html#adb9d3575b187b41479501fafacfec429',1,'salva(Gioco partita, Statistiche stat):&#160;fileIO.cc']]],
+  ['spara_5fcolpo',['Spara_colpo',['../aggiorna_8cc.html#a36825fdb511e2f46ba432137a33bf55f',1,'Spara_colpo(Colpo colpi[], Giocatore &amp;tom, int Row, ALLEGRO_SAMPLE *shot):&#160;aggiorna.cc'],['../aggiorna_8h.html#a36825fdb511e2f46ba432137a33bf55f',1,'Spara_colpo(Colpo colpi[], Giocatore &amp;tom, int Row, ALLEGRO_SAMPLE *shot):&#160;aggiorna.cc']]],
+  ['spawn_5fnemici',['Spawn_Nemici',['../aggiorna_8cc.html#ace1020dc5af01046c683f12749d3d674',1,'Spawn_Nemici(Nemici nemici[]):&#160;aggiorna.cc'],['../aggiorna_8h.html#ace1020dc5af01046c683f12749d3d674',1,'Spawn_Nemici(Nemici nemici[]):&#160;aggiorna.cc']]],
+  ['sposta_5fgiocatore',['Sposta_giocatore',['../aggiorna_8cc.html#a7f417c7f9530aa993cffec94295c098c',1,'Sposta_giocatore(Giocatore &amp;tom):&#160;aggiorna.cc'],['../aggiorna_8h.html#a7f417c7f9530aa993cffec94295c098c',1,'Sposta_giocatore(Giocatore &amp;tom):&#160;aggiorna.cc']]],
+  ['stampa_5fdati_5fin_5fgioco',['stampa_dati_in_gioco',['../DBG_8cc.html#ae60433cba0426fb7d3ff4c895e8190eb',1,'stampa_dati_in_gioco(const Colpo colpi[], const Nemici nemici[], Giocatore tom, const Impatti impatti[]):&#160;DBG.cc'],['../DBG_8h.html#ae60433cba0426fb7d3ff4c895e8190eb',1,'stampa_dati_in_gioco(const Colpo colpi[], const Nemici nemici[], Giocatore tom, const Impatti impatti[]):&#160;DBG.cc']]],
+  ['stampa_5fdati_5fpartita',['stampa_dati_partita',['../DBG_8cc.html#a968ef622a2b4bb18f0c60f248aacc220',1,'stampa_dati_partita():&#160;DBG.cc'],['../DBG_8h.html#a968ef622a2b4bb18f0c60f248aacc220',1,'stampa_dati_partita():&#160;DBG.cc']]]
+];

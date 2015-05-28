@@ -1,0 +1,126 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9"/>
+<meta name="generator" content="Doxygen 1.8.3.1"/>
+<title>Angry Tom:  File sorgente disegno.h</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="search/search.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="search/search.js"></script>
+<script type="text/javascript">
+  $(document).ready(function() { searchBox.OnSelectItem(0); });
+</script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr style="height: 56px;">
+  <td style="padding-left: 0.5em;">
+   <div id="projectname">Angry Tom
+   </div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- Generato da Doxygen 1.8.3.1 -->
+<script type="text/javascript">
+var searchBox = new SearchBox("searchBox", "search",false,'Cerca');
+</script>
+  <div id="navrow1" class="tabs">
+    <ul class="tablist">
+      <li><a href="index.html"><span>Pagina&#160;Principale</span></a></li>
+      <li><a href="annotated.html"><span>Classi</span></a></li>
+      <li class="current"><a href="files.html"><span>File</span></a></li>
+      <li>
+        <div id="MSearchBox" class="MSearchBoxInactive">
+        <span class="left">
+          <img id="MSearchSelect" src="search/mag_sel.png"
+               onmouseover="return searchBox.OnSearchSelectShow()"
+               onmouseout="return searchBox.OnSearchSelectHide()"
+               alt=""/>
+          <input type="text" id="MSearchField" value="Cerca" accesskey="S"
+               onfocus="searchBox.OnSearchFieldFocus(true)" 
+               onblur="searchBox.OnSearchFieldFocus(false)" 
+               onkeyup="searchBox.OnSearchFieldChange(event)"/>
+          </span><span class="right">
+            <a id="MSearchClose" href="javascript:searchBox.CloseResultsWindow()"><img id="MSearchCloseImg" border="0" src="search/close.png" alt=""/></a>
+          </span>
+        </div>
+      </li>
+    </ul>
+  </div>
+  <div id="navrow2" class="tabs2">
+    <ul class="tablist">
+      <li><a href="files.html"><span>Elenco&#160;dei&#160;file</span></a></li>
+      <li><a href="globals.html"><span>Elementi&#160;dei&#160;file</span></a></li>
+    </ul>
+  </div>
+</div><!-- top -->
+<!-- window showing the filter options -->
+<div id="MSearchSelectWindow"
+     onmouseover="return searchBox.OnSearchSelectShow()"
+     onmouseout="return searchBox.OnSearchSelectHide()"
+     onkeydown="return searchBox.OnSearchSelectKey(event)">
+<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>Tutto</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classi</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>File</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Funzioni</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Variabili</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Ridefinizioni di tipo (typedef)</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Tipi enumerati (enum)</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(7)"><span class="SelectionMark">&#160;</span>Valori del tipo enumerato</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(8)"><span class="SelectionMark">&#160;</span>Definizioni</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(9)"><span class="SelectionMark">&#160;</span>Pagine</a></div>
+
+<!-- iframe showing the search results (closed by default) -->
+<div id="MSearchResultsWindow">
+<iframe src="javascript:void(0)" frameborder="0" 
+        name="MSearchResults" id="MSearchResults">
+</iframe>
+</div>
+
+<div class="header">
+  <div class="headertitle">
+<div class="title">disegno.h</div>  </div>
+</div><!--header-->
+<div class="contents">
+<a href="disegno_8h.html">Vai alla documentazione di questo file.</a><div class="fragment"><div class="line"><a name="l00001"></a><span class="lineno">    1</span>&#160;</div>
+<div class="line"><a name="l00011"></a><span class="lineno">   11</span>&#160;<span class="keywordtype">void</span> <a class="code" href="disegno_8cc.html#ac1ebdcd43a228e6dea510b3c1b40b4bf" title="Disegno del giocatore.">Disegna_giocatore</a>(<a class="code" href="structGiocatore.html" title="Struttura del giocatore.">Giocatore</a> &amp;tom);</div>
+<div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160;</div>
+<div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160;<span class="keywordtype">void</span> <a class="code" href="disegno_8cc.html#a42060d47bacceb6786614beb1ec561a3" title="Disegno delle vite del giocatore.">Disegna_cuori</a>( ALLEGRO_BITMAP *image, <a class="code" href="structGiocatore.html" title="Struttura del giocatore.">Giocatore</a> &amp;tom);</div>
+<div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;</div>
+<div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160;<span class="keywordtype">void</span> <a class="code" href="disegno_8cc.html#a3db6065bdc1c60b1145c2928e1629ad3" title="Disegno dei nemici.">Disegna_Nemici</a>(<a class="code" href="structNemici.html" title="Struttura del nemico.">Nemici</a> nemici[]);</div>
+<div class="line"><a name="l00028"></a><span class="lineno">   28</span>&#160;</div>
+<div class="line"><a name="l00034"></a><span class="lineno">   34</span>&#160;<span class="keywordtype">void</span> <a class="code" href="disegno_8cc.html#a0f0e9173cd6de1652eb52e73c0fe9066" title="Disegno del colpo.">Disegna_colpo</a>(<a class="code" href="structColpo.html" title="Struttura del proiettile.">Colpo</a> colpi[]);</div>
+<div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160;</div>
+<div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;<span class="keywordtype">void</span> <a class="code" href="disegno_8cc.html#a46bc0b2e4c847354cb3b297e555ddccf" title="Disegno degli impatti.">Disegna_impatti</a>(<a class="code" href="structImpatti.html" title="Struttura dell&#39;impatto.">Impatti</a> impatti[]);</div>
+<div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;</div>
+<div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160;<span class="keywordtype">void</span> <a class="code" href="disegno_8cc.html#aef6d377daebd43d8e18e6df292357888" title="Disegno dello sfondo.">DrawBackground</a>(<a class="code" href="structSfondo.html" title="Struttura dello sfondo.">Sfondo</a> &amp;s);</div>
+<div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;</div>
+<div class="line"><a name="l00050"></a><span class="lineno">   50</span>&#160;</div>
+<div class="line"><a name="l00059"></a><span class="lineno">   59</span>&#160;<span class="keywordtype">void</span> <a class="code" href="disegno_8cc.html#aa6de324595ac4b26a2c427c5767106d0" title="Disegna lo stato INIZIO.">DisegnaInizio</a>(<a class="code" href="structSfondo.html" title="Struttura dello sfondo.">Sfondo</a> &amp;s,<a class="code" href="structSfondo.html" title="Struttura dello sfondo.">Sfondo</a> &amp;s2,<a class="code" href="structSfondo.html" title="Struttura dello sfondo.">Sfondo</a> &amp;s3);</div>
+<div class="line"><a name="l00060"></a><span class="lineno">   60</span>&#160;</div>
+<div class="line"><a name="l00067"></a><span class="lineno">   67</span>&#160;<span class="keywordtype">void</span> <a class="code" href="disegno_8cc.html#a16dd89ecead17f5f4698eb48e4fcfd24" title="Disegna lo stato CREDITS.">DisegnaCredits</a>(<a class="code" href="structSfondo.html" title="Struttura dello sfondo.">Sfondo</a> &amp;s);</div>
+<div class="line"><a name="l00068"></a><span class="lineno">   68</span>&#160;</div>
+<div class="line"><a name="l00083"></a><span class="lineno">   83</span>&#160;<span class="keywordtype">void</span> <a class="code" href="disegno_8cc.html#a83a7ebf42f5e788108db77c8abd40e98" title="Disegna lo stato IN_GIOCO.">DisegnaInGioco</a>(<a class="code" href="structSfondo.html" title="Struttura dello sfondo.">Sfondo</a> &amp;s, <a class="code" href="structGiocatore.html" title="Struttura del giocatore.">Giocatore</a> &amp;tom, <a class="code" href="structNemici.html" title="Struttura del nemico.">Nemici</a> nemici[], <a class="code" href="structColpo.html" title="Struttura del proiettile.">Colpo</a> colpi[], <a class="code" href="structImpatti.html" title="Struttura dell&#39;impatto.">Impatti</a> impatti[], <a class="code" href="structSfondo.html" title="Struttura dello sfondo.">Sfondo</a> &amp; s2,<a class="code" href="structSfondo.html" title="Struttura dello sfondo.">Sfondo</a> &amp; s3, ALLEGRO_BITMAP * immagine_cuori, ALLEGRO_FONT* <a class="code" href="dichiarazioni_8cc.html#af46a718ca708066d76159ef58af6b9f2" title="Font utilizzato nel Menu.">font18</a>);</div>
+<div class="line"><a name="l00084"></a><span class="lineno">   84</span>&#160;</div>
+<div class="line"><a name="l00091"></a><span class="lineno">   91</span>&#160;<span class="keywordtype">void</span> <a class="code" href="disegno_8cc.html#a91aa13324ba6480e98b54aa45f43b940" title="Disegna lo stato PAUSA.">DisegnaPausa</a>(<a class="code" href="structSfondo.html" title="Struttura dello sfondo.">Sfondo</a> &amp;s);</div>
+<div class="line"><a name="l00092"></a><span class="lineno">   92</span>&#160;</div>
+<div class="line"><a name="l00093"></a><span class="lineno">   93</span>&#160;</div>
+<div class="line"><a name="l00100"></a><span class="lineno">  100</span>&#160;<span class="keywordtype">void</span> <a class="code" href="disegno_8cc.html#a9c5ffbe616b1fafbc5e395c0598ce576" title="Disegna lo stato HOWTO.">DisegnaHowTo</a>(<a class="code" href="structSfondo.html" title="Struttura dello sfondo.">Sfondo</a> &amp;s);</div>
+<div class="line"><a name="l00101"></a><span class="lineno">  101</span>&#160;</div>
+<div class="line"><a name="l00109"></a><span class="lineno">  109</span>&#160;<span class="keywordtype">void</span> <a class="code" href="disegno_8cc.html#a3213d5e0500614e86d4bfe6886eb81f5" title="Disegna lo stato PUNTEGGI.">DisegnaPunteggi</a>(<a class="code" href="structSfondo.html" title="Struttura dello sfondo.">Sfondo</a> &amp;s, <a class="code" href="objects_8h.html#ad9c01679d3fd1e264a7bf6c37fd24294" title="Tipo Punteggi.">Punteggi</a> <a class="code" href="dichiarazioni_8cc.html#af764a0977111f6a3a10038e17f735ca1" title="Array di bottoni, tipo Bottoni.">p</a>);</div>
+<div class="line"><a name="l00110"></a><span class="lineno">  110</span>&#160;</div>
+<div class="line"><a name="l00117"></a><span class="lineno">  117</span>&#160;<span class="keywordtype">void</span> <a class="code" href="disegno_8cc.html#aebfcf07fabf8c3182ca6392d2271b6f7" title="Disegna lo stato LIVELLO.">DisegnaCambioLivello</a>(<a class="code" href="structSfondo.html" title="Struttura dello sfondo.">Sfondo</a> &amp;s);</div>
+<div class="line"><a name="l00118"></a><span class="lineno">  118</span>&#160;</div>
+<div class="line"><a name="l00128"></a><span class="lineno">  128</span>&#160;<span class="keywordtype">void</span> <a class="code" href="disegno_8cc.html#adb98145160c5957a44f123438ae44c62" title="Disegna lo stato GAMEOVER.">DisegnaGameOver</a>(<a class="code" href="structSfondo.html" title="Struttura dello sfondo.">Sfondo</a> &amp;s,<a class="code" href="structSfondo.html" title="Struttura dello sfondo.">Sfondo</a> &amp;s2,<a class="code" href="structSfondo.html" title="Struttura dello sfondo.">Sfondo</a> &amp;s3);</div>
+<div class="line"><a name="l00129"></a><span class="lineno">  129</span>&#160;</div>
+<div class="line"><a name="l00130"></a><span class="lineno">  130</span>&#160;</div>
+</div><!-- fragment --></div><!-- contents -->
+<!-- start footer part -->
+<hr class="footer"/><address class="footer"><small>
+Generato Lun 10 Giu 2013 16:16:52 per Angry Tom da &#160;<a href="http://www.doxygen.org/index.html">
+<img class="footer" src="doxygen.png" alt="doxygen"/>
+</a> 1.8.3.1
+</small></address>
+</body>
+</html>

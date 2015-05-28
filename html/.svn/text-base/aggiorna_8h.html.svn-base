@@ -1,0 +1,1082 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9"/>
+<meta name="generator" content="Doxygen 1.8.3.1"/>
+<title>Angry Tom: Riferimenti per il file aggiorna.h</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="search/search.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="search/search.js"></script>
+<script type="text/javascript">
+  $(document).ready(function() { searchBox.OnSelectItem(0); });
+</script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr style="height: 56px;">
+  <td style="padding-left: 0.5em;">
+   <div id="projectname">Angry Tom
+   </div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- Generato da Doxygen 1.8.3.1 -->
+<script type="text/javascript">
+var searchBox = new SearchBox("searchBox", "search",false,'Cerca');
+</script>
+  <div id="navrow1" class="tabs">
+    <ul class="tablist">
+      <li><a href="index.html"><span>Pagina&#160;Principale</span></a></li>
+      <li><a href="annotated.html"><span>Classi</span></a></li>
+      <li class="current"><a href="files.html"><span>File</span></a></li>
+      <li>
+        <div id="MSearchBox" class="MSearchBoxInactive">
+        <span class="left">
+          <img id="MSearchSelect" src="search/mag_sel.png"
+               onmouseover="return searchBox.OnSearchSelectShow()"
+               onmouseout="return searchBox.OnSearchSelectHide()"
+               alt=""/>
+          <input type="text" id="MSearchField" value="Cerca" accesskey="S"
+               onfocus="searchBox.OnSearchFieldFocus(true)" 
+               onblur="searchBox.OnSearchFieldFocus(false)" 
+               onkeyup="searchBox.OnSearchFieldChange(event)"/>
+          </span><span class="right">
+            <a id="MSearchClose" href="javascript:searchBox.CloseResultsWindow()"><img id="MSearchCloseImg" border="0" src="search/close.png" alt=""/></a>
+          </span>
+        </div>
+      </li>
+    </ul>
+  </div>
+  <div id="navrow2" class="tabs2">
+    <ul class="tablist">
+      <li><a href="files.html"><span>Elenco&#160;dei&#160;file</span></a></li>
+      <li><a href="globals.html"><span>Elementi&#160;dei&#160;file</span></a></li>
+    </ul>
+  </div>
+<!-- window showing the filter options -->
+<div id="MSearchSelectWindow"
+     onmouseover="return searchBox.OnSearchSelectShow()"
+     onmouseout="return searchBox.OnSearchSelectHide()"
+     onkeydown="return searchBox.OnSearchSelectKey(event)">
+<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>Tutto</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classi</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>File</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Funzioni</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Variabili</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Ridefinizioni di tipo (typedef)</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Tipi enumerati (enum)</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(7)"><span class="SelectionMark">&#160;</span>Valori del tipo enumerato</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(8)"><span class="SelectionMark">&#160;</span>Definizioni</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(9)"><span class="SelectionMark">&#160;</span>Pagine</a></div>
+
+<!-- iframe showing the search results (closed by default) -->
+<div id="MSearchResultsWindow">
+<iframe src="javascript:void(0)" frameborder="0" 
+        name="MSearchResults" id="MSearchResults">
+</iframe>
+</div>
+
+</div><!-- top -->
+<div class="header">
+  <div class="summary">
+<a href="#func-members">Funzioni</a>  </div>
+  <div class="headertitle">
+<div class="title">Riferimenti per il file aggiorna.h</div>  </div>
+</div><!--header-->
+<div class="contents">
+
+<p>Header file contenente l'interfaccia del modulo Aggiorna.  
+<a href="#details">Continua...</a></p>
+
+<p><a href="aggiorna_8h_source.html">Vai al codice sorgente di questo file.</a></p>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
+Funzioni</h2></td></tr>
+<tr class="memitem:a6548a345b3969b72c5bc7136a2d8c453"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="aggiorna_8h.html#a6548a345b3969b72c5bc7136a2d8c453">Inizia_partita</a> ()</td></tr>
+<tr class="memdesc:a6548a345b3969b72c5bc7136a2d8c453"><td class="mdescLeft">&#160;</td><td class="mdescRight">Inizia la partita.  <a href="#a6548a345b3969b72c5bc7136a2d8c453">Continua...</a><br/></td></tr>
+<tr class="separator:a6548a345b3969b72c5bc7136a2d8c453"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abb6adb68d98ef4294ff4d1d818456633"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="aggiorna_8h.html#abb6adb68d98ef4294ff4d1d818456633">Nuovo_livello</a> ()</td></tr>
+<tr class="memdesc:abb6adb68d98ef4294ff4d1d818456633"><td class="mdescLeft">&#160;</td><td class="mdescRight">Cambio di livello.  <a href="#abb6adb68d98ef4294ff4d1d818456633">Continua...</a><br/></td></tr>
+<tr class="separator:abb6adb68d98ef4294ff4d1d818456633"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a21293b18f57f17b344f58527019656b4"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="aggiorna_8h.html#a21293b18f57f17b344f58527019656b4">Cambia_fase</a> (<a class="el" href="objects_8h.html#a50bf84c042e3d4b30ee2ab55f9b3744d">FASE</a> nuova, <a class="el" href="structNemici.html">Nemici</a> nemici[], <a class="el" href="structColpo.html">Colpo</a> colpi[], <a class="el" href="structGiocatore.html">Giocatore</a> &amp;tom, <a class="el" href="structImpatti.html">Impatti</a> impatti[])</td></tr>
+<tr class="memdesc:a21293b18f57f17b344f58527019656b4"><td class="mdescLeft">&#160;</td><td class="mdescRight">Routine dei cambi di fase.  <a href="#a21293b18f57f17b344f58527019656b4">Continua...</a><br/></td></tr>
+<tr class="separator:a21293b18f57f17b344f58527019656b4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a06320562d5a1f70e3bf24e5f1eb132bd"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="aggiorna_8h.html#a06320562d5a1f70e3bf24e5f1eb132bd">Aggiorna_anim_giocatore</a> (<a class="el" href="structGiocatore.html">Giocatore</a> &amp;tom)</td></tr>
+<tr class="memdesc:a06320562d5a1f70e3bf24e5f1eb132bd"><td class="mdescLeft">&#160;</td><td class="mdescRight">Aggiornamento dell'animazione del giocatore.  <a href="#a06320562d5a1f70e3bf24e5f1eb132bd">Continua...</a><br/></td></tr>
+<tr class="separator:a06320562d5a1f70e3bf24e5f1eb132bd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7f417c7f9530aa993cffec94295c098c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="aggiorna_8h.html#a7f417c7f9530aa993cffec94295c098c">Sposta_giocatore</a> (<a class="el" href="structGiocatore.html">Giocatore</a> &amp;tom)</td></tr>
+<tr class="memdesc:a7f417c7f9530aa993cffec94295c098c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Spostamento del giocatore.  <a href="#a7f417c7f9530aa993cffec94295c098c">Continua...</a><br/></td></tr>
+<tr class="separator:a7f417c7f9530aa993cffec94295c098c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ace1020dc5af01046c683f12749d3d674"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="aggiorna_8h.html#ace1020dc5af01046c683f12749d3d674">Spawn_Nemici</a> (<a class="el" href="structNemici.html">Nemici</a> nemici[])</td></tr>
+<tr class="memdesc:ace1020dc5af01046c683f12749d3d674"><td class="mdescLeft">&#160;</td><td class="mdescRight">Generazione delle posizioni iniziale casuali dei nemici.  <a href="#ace1020dc5af01046c683f12749d3d674">Continua...</a><br/></td></tr>
+<tr class="separator:ace1020dc5af01046c683f12749d3d674"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acef564172bcd2d86813e1ee8efef677c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="aggiorna_8h.html#acef564172bcd2d86813e1ee8efef677c">Aggiorna_Nemici</a> (<a class="el" href="structNemici.html">Nemici</a> nemici[])</td></tr>
+<tr class="memdesc:acef564172bcd2d86813e1ee8efef677c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Aggiornamento delle animazioni dei nemici.  <a href="#acef564172bcd2d86813e1ee8efef677c">Continua...</a><br/></td></tr>
+<tr class="separator:acef564172bcd2d86813e1ee8efef677c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaa3d8f5f4c36f5cb90fd95f460e3ccf2"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="aggiorna_8h.html#aaa3d8f5f4c36f5cb90fd95f460e3ccf2">Impatto_Nemici</a> (<a class="el" href="structNemici.html">Nemici</a> nemici[], <a class="el" href="structGiocatore.html">Giocatore</a> &amp;tom)</td></tr>
+<tr class="memdesc:aaa3d8f5f4c36f5cb90fd95f460e3ccf2"><td class="mdescLeft">&#160;</td><td class="mdescRight">Impatto del giocatore con i nemici.  <a href="#aaa3d8f5f4c36f5cb90fd95f460e3ccf2">Continua...</a><br/></td></tr>
+<tr class="separator:aaa3d8f5f4c36f5cb90fd95f460e3ccf2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a36825fdb511e2f46ba432137a33bf55f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="aggiorna_8h.html#a36825fdb511e2f46ba432137a33bf55f">Spara_colpo</a> (<a class="el" href="structColpo.html">Colpo</a> colpi[], <a class="el" href="structGiocatore.html">Giocatore</a> &amp;tom, int Row, ALLEGRO_SAMPLE *<a class="el" href="dichiarazioni_8h.html#ab22ce8a8f989211c6059e8b685fa78d0">shot</a>)</td></tr>
+<tr class="memdesc:a36825fdb511e2f46ba432137a33bf55f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Sparo del colpo.  <a href="#a36825fdb511e2f46ba432137a33bf55f">Continua...</a><br/></td></tr>
+<tr class="separator:a36825fdb511e2f46ba432137a33bf55f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adc9ab8b8d4aa942b11500c533879537c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="aggiorna_8h.html#adc9ab8b8d4aa942b11500c533879537c">Aggiorna_colpo</a> (<a class="el" href="structColpo.html">Colpo</a> colpi[])</td></tr>
+<tr class="memdesc:adc9ab8b8d4aa942b11500c533879537c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Aggiornamento del colpo.  <a href="#adc9ab8b8d4aa942b11500c533879537c">Continua...</a><br/></td></tr>
+<tr class="separator:adc9ab8b8d4aa942b11500c533879537c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7c3409a64a15dd98ebe54ae5e100416c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="aggiorna_8h.html#a7c3409a64a15dd98ebe54ae5e100416c">Impatto_colpo</a> (<a class="el" href="structColpo.html">Colpo</a> colpi[], <a class="el" href="structNemici.html">Nemici</a> nemici[], <a class="el" href="structGiocatore.html">Giocatore</a> &amp;tom, <a class="el" href="structImpatti.html">Impatti</a> impatti[], ALLEGRO_SAMPLE *<a class="el" href="dichiarazioni_8h.html#a9232fd432946b4eb040504a9c9009d6a">morte1</a>)</td></tr>
+<tr class="memdesc:a7c3409a64a15dd98ebe54ae5e100416c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Impatto del colpo col nemico.  <a href="#a7c3409a64a15dd98ebe54ae5e100416c">Continua...</a><br/></td></tr>
+<tr class="separator:a7c3409a64a15dd98ebe54ae5e100416c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa7105157027beb3ffa8ab9f3dec5430d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="aggiorna_8h.html#aa7105157027beb3ffa8ab9f3dec5430d">Inizia_impatti</a> (<a class="el" href="structImpatti.html">Impatti</a> impatti[], int x, int y, int j)</td></tr>
+<tr class="memdesc:aa7105157027beb3ffa8ab9f3dec5430d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Inizio degli impatti.  <a href="#aa7105157027beb3ffa8ab9f3dec5430d">Continua...</a><br/></td></tr>
+<tr class="separator:aa7105157027beb3ffa8ab9f3dec5430d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a255890c65c02a9fba3c893dba8acdbc4"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="aggiorna_8h.html#a255890c65c02a9fba3c893dba8acdbc4">Aggiorna_impatti</a> (<a class="el" href="structImpatti.html">Impatti</a> impatti[])</td></tr>
+<tr class="memdesc:a255890c65c02a9fba3c893dba8acdbc4"><td class="mdescLeft">&#160;</td><td class="mdescRight">Aggiornamento degli impatti.  <a href="#a255890c65c02a9fba3c893dba8acdbc4">Continua...</a><br/></td></tr>
+<tr class="separator:a255890c65c02a9fba3c893dba8acdbc4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4f9c9e053bc1762f478152d03900a470"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="aggiorna_8h.html#a4f9c9e053bc1762f478152d03900a470">CursoresuBottone</a> (ALLEGRO_EVENT ev, int bottonex, int bottoney, int dist, int altezza, int lunghezza)</td></tr>
+<tr class="memdesc:a4f9c9e053bc1762f478152d03900a470"><td class="mdescLeft">&#160;</td><td class="mdescRight">Ritorna se il cursore del mouse è su un bottone.  <a href="#a4f9c9e053bc1762f478152d03900a470">Continua...</a><br/></td></tr>
+<tr class="separator:a4f9c9e053bc1762f478152d03900a470"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a297d198b0f91390b755038091ea18860"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="aggiorna_8h.html#a297d198b0f91390b755038091ea18860">UpdateBackground</a> (<a class="el" href="structSfondo.html">Sfondo</a> &amp;s)</td></tr>
+<tr class="memdesc:a297d198b0f91390b755038091ea18860"><td class="mdescLeft">&#160;</td><td class="mdescRight">Aggiornamento dello sfondo.  <a href="#a297d198b0f91390b755038091ea18860">Continua...</a><br/></td></tr>
+<tr class="separator:a297d198b0f91390b755038091ea18860"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<a name="details" id="details"></a><h2 class="groupheader">Descrizione dettagliata</h2>
+<div class="textblock"><p>Header file contenente l'interfaccia del modulo Aggiorna. </p>
+<p>In questo Header file sono contenuti gli aggiornamenti del giocatore, dei nemici, degli impatti ma anche della fase di gioco, del background e della posizione del mouse. </p>
+</div><h2 class="groupheader">Documentazione delle funzioni</h2>
+<a class="anchor" id="a06320562d5a1f70e3bf24e5f1eb132bd"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void Aggiorna_anim_giocatore </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="structGiocatore.html">Giocatore</a> &amp;&#160;</td>
+          <td class="paramname"><em>tom</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Aggiornamento dell'animazione del giocatore. </p>
+<p>Funzione che aggiorna l'animazione del <a class="el" href="structGiocatore.html" title="Struttura del giocatore.">Giocatore</a>.</p>
+<p>Vi sono quattro tipi di animazioni : se il giocatore sta attaccando; se il giocatore è stato colpito; se il giocatore si sta muovendo nelle varie direzioni, o se è fermo sul posto e cammina. </p>
+<dl class="params"><dt>Parametri</dt><dd>
+  <table class="params">
+    <tr><td class="paramdir">[in]</td><td class="paramname">tom</td><td><a class="el" href="structGiocatore.html" title="Struttura del giocatore.">Giocatore</a> da spostare </td></tr>
+  </table>
+  </dd>
+</dl>
+<div class="fragment"><div class="line"><a name="l00071"></a><span class="lineno">   71</span>&#160;{       <span class="keywordflow">if</span>(!tom.<a class="code" href="structGiocatore.html#a648e172deccd5b54429e0388468dbfeb" title="              Booleano che indica se il giocatore è  stato colpito o meno">colpito</a> &amp;&amp; !tom.<a class="code" href="structGiocatore.html#ab3167a19db79c4c1f3f5f07822060506" title="              Booleano che indica se il giocatore sta  attaccando o meno">attacco</a>)</div>
+<div class="line"><a name="l00072"></a><span class="lineno">   72</span>&#160;        {       <span class="keywordflow">if</span>(<a class="code" href="dichiarazioni_8cc.html#a00bbc162675fac5d733d54a62ee216e1" title="Punteggi del gioco di tipo Punteggi.">keys</a>[<a class="code" href="objects_8h.html#a917cb2ad6b731b390f8c57aa48656211a7911229e7fd613f96aeaf9413c8251bc">SU</a>])</div>
+<div class="line"><a name="l00073"></a><span class="lineno">   73</span>&#160;                {       <span class="keywordflow">if</span>(tom.<a class="code" href="structGiocatore.html#a7bb622da15ad7b508fc93d8d5047a95d" title="Contatore per le frame.">frameCont</a>&gt;=tom.<a class="code" href="structGiocatore.html#a6d03f33f091d51c0ac21d8c4443e24f6" title="Contatore per il ritardo delle frame.">frameRit</a>)</div>
+<div class="line"><a name="l00074"></a><span class="lineno">   74</span>&#160;                        {</div>
+<div class="line"><a name="l00075"></a><span class="lineno">   75</span>&#160;                        tom.<a class="code" href="structGiocatore.html#aad5a88a127a609e034f2a56486b83202" title="Numero della frame corrente.">corFrame</a> ++;</div>
+<div class="line"><a name="l00076"></a><span class="lineno">   76</span>&#160;                        tom.<a class="code" href="structGiocatore.html#a7bb622da15ad7b508fc93d8d5047a95d" title="Contatore per le frame.">frameCont</a>=0;</div>
+<div class="line"><a name="l00077"></a><span class="lineno">   77</span>&#160;                        }</div>
+<div class="line"><a name="l00078"></a><span class="lineno">   78</span>&#160;                        <span class="keywordflow">if</span>(tom.<a class="code" href="structGiocatore.html#aad5a88a127a609e034f2a56486b83202" title="Numero della frame corrente.">corFrame</a>&gt;tom.<a class="code" href="structGiocatore.html#a833391b1233f80b46227020558b9a272" title="Numero della colonna dell&#39;animazione.">animationCol</a>)</div>
+<div class="line"><a name="l00079"></a><span class="lineno">   79</span>&#160;                                tom.<a class="code" href="structGiocatore.html#aad5a88a127a609e034f2a56486b83202" title="Numero della frame corrente.">corFrame</a>=0;</div>
+<div class="line"><a name="l00080"></a><span class="lineno">   80</span>&#160;                        tom.<a class="code" href="structGiocatore.html#a7eaa8e72406929985c28a718331f9c7b" title="Numero della riga di animazione.">animationRow</a> = 0;   </div>
+<div class="line"><a name="l00081"></a><span class="lineno">   81</span>&#160;                }       </div>
+<div class="line"><a name="l00082"></a><span class="lineno">   82</span>&#160;                <span class="keywordflow">if</span>(<a class="code" href="dichiarazioni_8cc.html#a00bbc162675fac5d733d54a62ee216e1" title="Punteggi del gioco di tipo Punteggi.">keys</a>[<a class="code" href="objects_8h.html#a917cb2ad6b731b390f8c57aa48656211a5387bb29e78bfce7c11164018e81ab7b">GIU</a>])</div>
+<div class="line"><a name="l00083"></a><span class="lineno">   83</span>&#160;                {       <span class="keywordflow">if</span>(tom.<a class="code" href="structGiocatore.html#a7bb622da15ad7b508fc93d8d5047a95d" title="Contatore per le frame.">frameCont</a>&gt;=tom.<a class="code" href="structGiocatore.html#a6d03f33f091d51c0ac21d8c4443e24f6" title="Contatore per il ritardo delle frame.">frameRit</a>)</div>
+<div class="line"><a name="l00084"></a><span class="lineno">   84</span>&#160;                        {</div>
+<div class="line"><a name="l00085"></a><span class="lineno">   85</span>&#160;                        tom.<a class="code" href="structGiocatore.html#aad5a88a127a609e034f2a56486b83202" title="Numero della frame corrente.">corFrame</a> ++;</div>
+<div class="line"><a name="l00086"></a><span class="lineno">   86</span>&#160;                        tom.<a class="code" href="structGiocatore.html#a7bb622da15ad7b508fc93d8d5047a95d" title="Contatore per le frame.">frameCont</a>=0;</div>
+<div class="line"><a name="l00087"></a><span class="lineno">   87</span>&#160;                        }</div>
+<div class="line"><a name="l00088"></a><span class="lineno">   88</span>&#160;                        <span class="keywordflow">if</span>(tom.<a class="code" href="structGiocatore.html#aad5a88a127a609e034f2a56486b83202" title="Numero della frame corrente.">corFrame</a>&gt;tom.<a class="code" href="structGiocatore.html#a833391b1233f80b46227020558b9a272" title="Numero della colonna dell&#39;animazione.">animationCol</a>)</div>
+<div class="line"><a name="l00089"></a><span class="lineno">   89</span>&#160;                                tom.<a class="code" href="structGiocatore.html#aad5a88a127a609e034f2a56486b83202" title="Numero della frame corrente.">corFrame</a>=0;</div>
+<div class="line"><a name="l00090"></a><span class="lineno">   90</span>&#160;                        tom.<a class="code" href="structGiocatore.html#a7eaa8e72406929985c28a718331f9c7b" title="Numero della riga di animazione.">animationRow</a> = 2;   </div>
+<div class="line"><a name="l00091"></a><span class="lineno">   91</span>&#160;                }       </div>
+<div class="line"><a name="l00092"></a><span class="lineno">   92</span>&#160;                <span class="keywordflow">if</span>(<a class="code" href="dichiarazioni_8cc.html#a00bbc162675fac5d733d54a62ee216e1" title="Punteggi del gioco di tipo Punteggi.">keys</a>[<a class="code" href="objects_8h.html#a917cb2ad6b731b390f8c57aa48656211ad2dde39551c1898dc393ed164cff9d42">SINISTRA</a>])</div>
+<div class="line"><a name="l00093"></a><span class="lineno">   93</span>&#160;                {       <span class="keywordflow">if</span>(tom.<a class="code" href="structGiocatore.html#a7bb622da15ad7b508fc93d8d5047a95d" title="Contatore per le frame.">frameCont</a>&gt;=tom.<a class="code" href="structGiocatore.html#a6d03f33f091d51c0ac21d8c4443e24f6" title="Contatore per il ritardo delle frame.">frameRit</a>)</div>
+<div class="line"><a name="l00094"></a><span class="lineno">   94</span>&#160;                        {</div>
+<div class="line"><a name="l00095"></a><span class="lineno">   95</span>&#160;                        tom.<a class="code" href="structGiocatore.html#aad5a88a127a609e034f2a56486b83202" title="Numero della frame corrente.">corFrame</a> --;</div>
+<div class="line"><a name="l00096"></a><span class="lineno">   96</span>&#160;                        tom.<a class="code" href="structGiocatore.html#a7bb622da15ad7b508fc93d8d5047a95d" title="Contatore per le frame.">frameCont</a>=0;</div>
+<div class="line"><a name="l00097"></a><span class="lineno">   97</span>&#160;                        }</div>
+<div class="line"><a name="l00098"></a><span class="lineno">   98</span>&#160;                        <span class="keywordflow">if</span>(tom.<a class="code" href="structGiocatore.html#aad5a88a127a609e034f2a56486b83202" title="Numero della frame corrente.">corFrame</a>&lt;0)</div>
+<div class="line"><a name="l00099"></a><span class="lineno">   99</span>&#160;                                tom.<a class="code" href="structGiocatore.html#aad5a88a127a609e034f2a56486b83202" title="Numero della frame corrente.">corFrame</a>=tom.<a class="code" href="structGiocatore.html#a833391b1233f80b46227020558b9a272" title="Numero della colonna dell&#39;animazione.">animationCol</a>;</div>
+<div class="line"><a name="l00100"></a><span class="lineno">  100</span>&#160;                        tom.<a class="code" href="structGiocatore.html#a7eaa8e72406929985c28a718331f9c7b" title="Numero della riga di animazione.">animationRow</a> = 6;           </div>
+<div class="line"><a name="l00101"></a><span class="lineno">  101</span>&#160;                }</div>
+<div class="line"><a name="l00102"></a><span class="lineno">  102</span>&#160;                <span class="keywordflow">if</span>(<a class="code" href="dichiarazioni_8cc.html#a00bbc162675fac5d733d54a62ee216e1" title="Punteggi del gioco di tipo Punteggi.">keys</a>[<a class="code" href="objects_8h.html#a917cb2ad6b731b390f8c57aa48656211a7c7d65423f4380773e1770f6955eecc1">DESTRA</a>])</div>
+<div class="line"><a name="l00103"></a><span class="lineno">  103</span>&#160;                {       <span class="keywordflow">if</span>(tom.<a class="code" href="structGiocatore.html#a7bb622da15ad7b508fc93d8d5047a95d" title="Contatore per le frame.">frameCont</a>&gt;=tom.<a class="code" href="structGiocatore.html#a6d03f33f091d51c0ac21d8c4443e24f6" title="Contatore per il ritardo delle frame.">frameRit</a>)</div>
+<div class="line"><a name="l00104"></a><span class="lineno">  104</span>&#160;                        {</div>
+<div class="line"><a name="l00105"></a><span class="lineno">  105</span>&#160;                        tom.<a class="code" href="structGiocatore.html#aad5a88a127a609e034f2a56486b83202" title="Numero della frame corrente.">corFrame</a> ++;</div>
+<div class="line"><a name="l00106"></a><span class="lineno">  106</span>&#160;                        tom.<a class="code" href="structGiocatore.html#a7bb622da15ad7b508fc93d8d5047a95d" title="Contatore per le frame.">frameCont</a>=0;</div>
+<div class="line"><a name="l00107"></a><span class="lineno">  107</span>&#160;                        }</div>
+<div class="line"><a name="l00108"></a><span class="lineno">  108</span>&#160;                        <span class="keywordflow">if</span>(tom.<a class="code" href="structGiocatore.html#aad5a88a127a609e034f2a56486b83202" title="Numero della frame corrente.">corFrame</a>&gt;tom.<a class="code" href="structGiocatore.html#a833391b1233f80b46227020558b9a272" title="Numero della colonna dell&#39;animazione.">animationCol</a>)</div>
+<div class="line"><a name="l00109"></a><span class="lineno">  109</span>&#160;                                tom.<a class="code" href="structGiocatore.html#aad5a88a127a609e034f2a56486b83202" title="Numero della frame corrente.">corFrame</a>=0;</div>
+<div class="line"><a name="l00110"></a><span class="lineno">  110</span>&#160;                        tom.<a class="code" href="structGiocatore.html#a7eaa8e72406929985c28a718331f9c7b" title="Numero della riga di animazione.">animationRow</a> = 1;</div>
+<div class="line"><a name="l00111"></a><span class="lineno">  111</span>&#160;                }</div>
+<div class="line"><a name="l00112"></a><span class="lineno">  112</span>&#160;        }</div>
+<div class="line"><a name="l00113"></a><span class="lineno">  113</span>&#160;        <span class="keywordflow">if</span>(tom.<a class="code" href="structGiocatore.html#a648e172deccd5b54429e0388468dbfeb" title="              Booleano che indica se il giocatore è  stato colpito o meno">colpito</a>)</div>
+<div class="line"><a name="l00114"></a><span class="lineno">  114</span>&#160;        {       tom.<a class="code" href="structGiocatore.html#a7eaa8e72406929985c28a718331f9c7b" title="Numero della riga di animazione.">animationRow</a> = 7;</div>
+<div class="line"><a name="l00115"></a><span class="lineno">  115</span>&#160;                <span class="keywordflow">if</span>(tom.<a class="code" href="structGiocatore.html#a7bb622da15ad7b508fc93d8d5047a95d" title="Contatore per le frame.">frameCont</a>&gt;=tom.<a class="code" href="structGiocatore.html#a6d03f33f091d51c0ac21d8c4443e24f6" title="Contatore per il ritardo delle frame.">frameRit</a>)</div>
+<div class="line"><a name="l00116"></a><span class="lineno">  116</span>&#160;                        {</div>
+<div class="line"><a name="l00117"></a><span class="lineno">  117</span>&#160;                        tom.<a class="code" href="structGiocatore.html#aad5a88a127a609e034f2a56486b83202" title="Numero della frame corrente.">corFrame</a> ++;</div>
+<div class="line"><a name="l00118"></a><span class="lineno">  118</span>&#160;                        tom.<a class="code" href="structGiocatore.html#a7bb622da15ad7b508fc93d8d5047a95d" title="Contatore per le frame.">frameCont</a>=0;</div>
+<div class="line"><a name="l00119"></a><span class="lineno">  119</span>&#160;                        }</div>
+<div class="line"><a name="l00120"></a><span class="lineno">  120</span>&#160;                        <span class="keywordflow">if</span>(tom.<a class="code" href="structGiocatore.html#aad5a88a127a609e034f2a56486b83202" title="Numero della frame corrente.">corFrame</a>&gt;6)</div>
+<div class="line"><a name="l00121"></a><span class="lineno">  121</span>&#160;                        {       tom.<a class="code" href="structGiocatore.html#a648e172deccd5b54429e0388468dbfeb" title="              Booleano che indica se il giocatore è  stato colpito o meno">colpito</a>=<span class="keyword">false</span>;</div>
+<div class="line"><a name="l00122"></a><span class="lineno">  122</span>&#160;                                tom.<a class="code" href="structGiocatore.html#aad5a88a127a609e034f2a56486b83202" title="Numero della frame corrente.">corFrame</a>=0;</div>
+<div class="line"><a name="l00123"></a><span class="lineno">  123</span>&#160;                                <a class="code" href="aggiorna_8cc.html#a06320562d5a1f70e3bf24e5f1eb132bd" title="Aggiornamento dell&#39;animazione del giocatore.">Aggiorna_anim_giocatore</a>(tom);</div>
+<div class="line"><a name="l00124"></a><span class="lineno">  124</span>&#160;                        }</div>
+<div class="line"><a name="l00125"></a><span class="lineno">  125</span>&#160;        }</div>
+<div class="line"><a name="l00126"></a><span class="lineno">  126</span>&#160;        <span class="keywordflow">if</span>(tom.<a class="code" href="structGiocatore.html#ab3167a19db79c4c1f3f5f07822060506" title="              Booleano che indica se il giocatore sta  attaccando o meno">attacco</a>)</div>
+<div class="line"><a name="l00127"></a><span class="lineno">  127</span>&#160;        {</div>
+<div class="line"><a name="l00128"></a><span class="lineno">  128</span>&#160;                tom.<a class="code" href="structGiocatore.html#a7eaa8e72406929985c28a718331f9c7b" title="Numero della riga di animazione.">animationRow</a> = 4;</div>
+<div class="line"><a name="l00129"></a><span class="lineno">  129</span>&#160;                <span class="keywordflow">if</span>(tom.<a class="code" href="structGiocatore.html#a7bb622da15ad7b508fc93d8d5047a95d" title="Contatore per le frame.">frameCont</a>&gt;=tom.<a class="code" href="structGiocatore.html#a6d03f33f091d51c0ac21d8c4443e24f6" title="Contatore per il ritardo delle frame.">frameRit</a>)</div>
+<div class="line"><a name="l00130"></a><span class="lineno">  130</span>&#160;                        {</div>
+<div class="line"><a name="l00131"></a><span class="lineno">  131</span>&#160;                        tom.<a class="code" href="structGiocatore.html#aad5a88a127a609e034f2a56486b83202" title="Numero della frame corrente.">corFrame</a> ++;</div>
+<div class="line"><a name="l00132"></a><span class="lineno">  132</span>&#160;                        tom.<a class="code" href="structGiocatore.html#a7bb622da15ad7b508fc93d8d5047a95d" title="Contatore per le frame.">frameCont</a>=0;</div>
+<div class="line"><a name="l00133"></a><span class="lineno">  133</span>&#160;                        }</div>
+<div class="line"><a name="l00134"></a><span class="lineno">  134</span>&#160;                        <span class="keywordflow">if</span>(tom.<a class="code" href="structGiocatore.html#aad5a88a127a609e034f2a56486b83202" title="Numero della frame corrente.">corFrame</a>&gt;tom.<a class="code" href="structGiocatore.html#a833391b1233f80b46227020558b9a272" title="Numero della colonna dell&#39;animazione.">animationCol</a>)</div>
+<div class="line"><a name="l00135"></a><span class="lineno">  135</span>&#160;                        {       tom.<a class="code" href="structGiocatore.html#ab3167a19db79c4c1f3f5f07822060506" title="              Booleano che indica se il giocatore sta  attaccando o meno">attacco</a>=<span class="keyword">false</span>;</div>
+<div class="line"><a name="l00136"></a><span class="lineno">  136</span>&#160;                                tom.<a class="code" href="structGiocatore.html#aad5a88a127a609e034f2a56486b83202" title="Numero della frame corrente.">corFrame</a>=0;</div>
+<div class="line"><a name="l00137"></a><span class="lineno">  137</span>&#160;                                <a class="code" href="aggiorna_8cc.html#a06320562d5a1f70e3bf24e5f1eb132bd" title="Aggiornamento dell&#39;animazione del giocatore.">Aggiorna_anim_giocatore</a>(tom);</div>
+<div class="line"><a name="l00138"></a><span class="lineno">  138</span>&#160;                        }</div>
+<div class="line"><a name="l00139"></a><span class="lineno">  139</span>&#160;        }</div>
+<div class="line"><a name="l00140"></a><span class="lineno">  140</span>&#160;        <span class="keywordflow">if</span>(!<a class="code" href="dichiarazioni_8cc.html#a00bbc162675fac5d733d54a62ee216e1" title="Punteggi del gioco di tipo Punteggi.">keys</a>[SU]&amp;&amp;!<a class="code" href="dichiarazioni_8cc.html#a00bbc162675fac5d733d54a62ee216e1" title="Punteggi del gioco di tipo Punteggi.">keys</a>[GIU]&amp;&amp;!<a class="code" href="dichiarazioni_8cc.html#a00bbc162675fac5d733d54a62ee216e1" title="Punteggi del gioco di tipo Punteggi.">keys</a>[DESTRA]&amp;&amp;!<a class="code" href="dichiarazioni_8cc.html#a00bbc162675fac5d733d54a62ee216e1" title="Punteggi del gioco di tipo Punteggi.">keys</a>[SINISTRA]&amp;&amp;!tom.<a class="code" href="structGiocatore.html#ab3167a19db79c4c1f3f5f07822060506" title="              Booleano che indica se il giocatore sta  attaccando o meno">attacco</a>&amp;&amp;!tom.<a class="code" href="structGiocatore.html#a648e172deccd5b54429e0388468dbfeb" title="              Booleano che indica se il giocatore è  stato colpito o meno">colpito</a>)</div>
+<div class="line"><a name="l00141"></a><span class="lineno">  141</span>&#160;        {       </div>
+<div class="line"><a name="l00142"></a><span class="lineno">  142</span>&#160;                tom.<a class="code" href="structGiocatore.html#a7eaa8e72406929985c28a718331f9c7b" title="Numero della riga di animazione.">animationRow</a> = 6;</div>
+<div class="line"><a name="l00143"></a><span class="lineno">  143</span>&#160;                <span class="keywordflow">if</span>(tom.<a class="code" href="structGiocatore.html#a7bb622da15ad7b508fc93d8d5047a95d" title="Contatore per le frame.">frameCont</a>&gt;=tom.<a class="code" href="structGiocatore.html#a6d03f33f091d51c0ac21d8c4443e24f6" title="Contatore per il ritardo delle frame.">frameRit</a>+4)</div>
+<div class="line"><a name="l00144"></a><span class="lineno">  144</span>&#160;                        {</div>
+<div class="line"><a name="l00145"></a><span class="lineno">  145</span>&#160;                        tom.<a class="code" href="structGiocatore.html#aad5a88a127a609e034f2a56486b83202" title="Numero della frame corrente.">corFrame</a> ++;</div>
+<div class="line"><a name="l00146"></a><span class="lineno">  146</span>&#160;                        tom.<a class="code" href="structGiocatore.html#a7bb622da15ad7b508fc93d8d5047a95d" title="Contatore per le frame.">frameCont</a>=0;</div>
+<div class="line"><a name="l00147"></a><span class="lineno">  147</span>&#160;                        }</div>
+<div class="line"><a name="l00148"></a><span class="lineno">  148</span>&#160;                        <span class="keywordflow">if</span>(tom.<a class="code" href="structGiocatore.html#aad5a88a127a609e034f2a56486b83202" title="Numero della frame corrente.">corFrame</a>&gt;tom.<a class="code" href="structGiocatore.html#a833391b1233f80b46227020558b9a272" title="Numero della colonna dell&#39;animazione.">animationCol</a>)</div>
+<div class="line"><a name="l00149"></a><span class="lineno">  149</span>&#160;                        tom.<a class="code" href="structGiocatore.html#aad5a88a127a609e034f2a56486b83202" title="Numero della frame corrente.">corFrame</a>=0;</div>
+<div class="line"><a name="l00150"></a><span class="lineno">  150</span>&#160;        }</div>
+<div class="line"><a name="l00151"></a><span class="lineno">  151</span>&#160;        </div>
+<div class="line"><a name="l00152"></a><span class="lineno">  152</span>&#160;}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a class="anchor" id="adc9ab8b8d4aa942b11500c533879537c"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void Aggiorna_colpo </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="structColpo.html">Colpo</a>&#160;</td>
+          <td class="paramname"><em>colpi</em>[]</td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Aggiornamento del colpo. </p>
+<p>Funzione che gestisce l'aggiornamento dei colpi. I colpi vengono eliminati se escono dallo schermo. </p>
+<dl class="params"><dt>Parametri</dt><dd>
+  <table class="params">
+    <tr><td class="paramdir">[in]</td><td class="paramname">colpi</td><td>Colpi da aggiornare </td></tr>
+  </table>
+  </dd>
+</dl>
+<div class="fragment"><div class="line"><a name="l00254"></a><span class="lineno">  254</span>&#160;{</div>
+<div class="line"><a name="l00255"></a><span class="lineno">  255</span>&#160;        <span class="keywordflow">for</span>(<span class="keywordtype">int</span> i = 0; i &lt; <a class="code" href="objects_8h.html#a88176b74d68d2564c625ad72b0ca3c29" title="Numero di colpi del giocatore.">NUM_COLPI</a>; i++)</div>
+<div class="line"><a name="l00256"></a><span class="lineno">  256</span>&#160;        {</div>
+<div class="line"><a name="l00257"></a><span class="lineno">  257</span>&#160;                <span class="keywordflow">if</span>(colpi[i].vite)</div>
+<div class="line"><a name="l00258"></a><span class="lineno">  258</span>&#160;                {</div>
+<div class="line"><a name="l00259"></a><span class="lineno">  259</span>&#160;                        colpi[i].<a class="code" href="structColpo.html#a48413e32744aa1c695cf8101ed719be5" title="Posizione x del proiettile.">x</a> += colpi[i].<a class="code" href="structColpo.html#a37933511daa915dd8695b00f95c4d16a" title="Velocità del proiettile.">vel</a>;</div>
+<div class="line"><a name="l00260"></a><span class="lineno">  260</span>&#160;                        <span class="keywordflow">if</span>(colpi[i].x &gt; <a class="code" href="objects_8h.html#af5ff0cda81efb37e7ade6fbef58c1b47" title="Lunghezza del display.">LARGHEZZA</a>)</div>
+<div class="line"><a name="l00261"></a><span class="lineno">  261</span>&#160;                                colpi[i].<a class="code" href="structColpo.html#a41fd0ae1b3987c3fcecb1027caae2591" title="Vita del proiettile.">vite</a> = 0;</div>
+<div class="line"><a name="l00262"></a><span class="lineno">  262</span>&#160;                }</div>
+<div class="line"><a name="l00263"></a><span class="lineno">  263</span>&#160;        }</div>
+<div class="line"><a name="l00264"></a><span class="lineno">  264</span>&#160;}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a class="anchor" id="a255890c65c02a9fba3c893dba8acdbc4"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void Aggiorna_impatti </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="structImpatti.html">Impatti</a>&#160;</td>
+          <td class="paramname"><em>impatti</em>[]</td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Aggiornamento degli impatti. </p>
+<p>Funzione che gestisce l'animazione degli <a class="el" href="structImpatti.html" title="Struttura dell&#39;impatto.">Impatti</a>, ovvero delle frame delle morti dei nemici di tipo 1 e 2. </p>
+<dl class="params"><dt>Parametri</dt><dd>
+  <table class="params">
+    <tr><td class="paramdir">[in]</td><td class="paramname">impatti</td><td><a class="el" href="structImpatti.html" title="Struttura dell&#39;impatto.">Impatti</a> da aggiornare </td></tr>
+  </table>
+  </dd>
+</dl>
+<div class="fragment"><div class="line"><a name="l00318"></a><span class="lineno">  318</span>&#160;{</div>
+<div class="line"><a name="l00319"></a><span class="lineno">  319</span>&#160;        <span class="keywordflow">for</span>(<span class="keywordtype">int</span> i = 0; i &lt; <a class="code" href="objects_8h.html#ab64fc4909ad64c8ec715cfcb15f235c6" title="Numero di impatti.">NUM_IMPATTI</a>; i++)</div>
+<div class="line"><a name="l00320"></a><span class="lineno">  320</span>&#160;        {</div>
+<div class="line"><a name="l00321"></a><span class="lineno">  321</span>&#160;                <span class="keywordflow">if</span>(impatti[i].attivo)</div>
+<div class="line"><a name="l00322"></a><span class="lineno">  322</span>&#160;                {</div>
+<div class="line"><a name="l00323"></a><span class="lineno">  323</span>&#160;                        <span class="keywordflow">if</span>(++impatti[i].frameCont &gt;= impatti[i].frameRit)</div>
+<div class="line"><a name="l00324"></a><span class="lineno">  324</span>&#160;                        {</div>
+<div class="line"><a name="l00325"></a><span class="lineno">  325</span>&#160;                                impatti[i].<a class="code" href="structImpatti.html#ab867fa75610fc669e7f20455827cdd0c" title="Numero della frame corrente.">corFrame</a> += impatti[i].<a class="code" href="structImpatti.html#acf041cb974e00a3e13c932b996359584" title="      Direzione dell&#39;animazione   (1: avanti; -1:indietro)">animationDir</a>;</div>
+<div class="line"><a name="l00326"></a><span class="lineno">  326</span>&#160;                                <span class="keywordflow">if</span>(impatti[i].corFrame &gt;= impatti[i].maxFrame)</div>
+<div class="line"><a name="l00327"></a><span class="lineno">  327</span>&#160;                                {</div>
+<div class="line"><a name="l00328"></a><span class="lineno">  328</span>&#160;                                        impatti[i].<a class="code" href="structImpatti.html#ab867fa75610fc669e7f20455827cdd0c" title="Numero della frame corrente.">corFrame</a> = 0;</div>
+<div class="line"><a name="l00329"></a><span class="lineno">  329</span>&#160;                                        impatti[i].<a class="code" href="structImpatti.html#a92927e9f992451bff4bfd4fc2f188340" title="Booleano che indica se vi è un impatto.">attivo</a>= <span class="keyword">false</span>;</div>
+<div class="line"><a name="l00330"></a><span class="lineno">  330</span>&#160;                                }</div>
+<div class="line"><a name="l00331"></a><span class="lineno">  331</span>&#160;</div>
+<div class="line"><a name="l00332"></a><span class="lineno">  332</span>&#160;                                impatti[i].<a class="code" href="structImpatti.html#a738da9fb6dd4efe17de01aed79471404" title="Contatore per le frame.">frameCont</a> = 0;</div>
+<div class="line"><a name="l00333"></a><span class="lineno">  333</span>&#160;                        }</div>
+<div class="line"><a name="l00334"></a><span class="lineno">  334</span>&#160;                }</div>
+<div class="line"><a name="l00335"></a><span class="lineno">  335</span>&#160;        }</div>
+<div class="line"><a name="l00336"></a><span class="lineno">  336</span>&#160;}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a class="anchor" id="acef564172bcd2d86813e1ee8efef677c"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void Aggiorna_Nemici </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="structNemici.html">Nemici</a>&#160;</td>
+          <td class="paramname"><em>nemici</em>[]</td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Aggiornamento delle animazioni dei nemici. </p>
+<p>La funzione aggiorna le animazioni dei diversi nemici, nel caso in cui essi siano in vita.</p>
+<p>Sono gestiti due diversi tipi di animazioni : il nemico che avanza; il nemico colpito. </p>
+<dl class="params"><dt>Parametri</dt><dd>
+  <table class="params">
+    <tr><td class="paramdir">[in]</td><td class="paramname">nemici</td><td><a class="el" href="structNemici.html" title="Struttura del nemico.">Nemici</a> di cui aggiornare l'animazione </td></tr>
+  </table>
+  </dd>
+</dl>
+<div class="fragment"><div class="line"><a name="l00174"></a><span class="lineno">  174</span>&#160;{</div>
+<div class="line"><a name="l00175"></a><span class="lineno">  175</span>&#160;        <span class="keywordflow">for</span>(<span class="keywordtype">int</span> i = (<a class="code" href="dichiarazioni_8cc.html#a6697be1fef616e47330f96de1f63d318">partita</a>.<a class="code" href="structGioco.html#a881d92c7e72e59ce5f36d55991ab2ca5" title="Livello del gioco.">livello</a>-1); i &lt; (<a class="code" href="objects_8h.html#a7c695132734ed573880bd2289bd654a4" title="Numero di nemici.">NUM_NEMICI</a>/2 -2 +<a class="code" href="dichiarazioni_8cc.html#a6697be1fef616e47330f96de1f63d318">partita</a>.<a class="code" href="structGioco.html#a881d92c7e72e59ce5f36d55991ab2ca5" title="Livello del gioco.">livello</a>); i++)</div>
+<div class="line"><a name="l00176"></a><span class="lineno">  176</span>&#160;        {</div>
+<div class="line"><a name="l00177"></a><span class="lineno">  177</span>&#160;                <span class="keywordflow">if</span>(nemici[i].vite)</div>
+<div class="line"><a name="l00178"></a><span class="lineno">  178</span>&#160;                {</div>
+<div class="line"><a name="l00179"></a><span class="lineno">  179</span>&#160;                        <span class="keywordflow">if</span>(++nemici[i].frameCont &gt;= nemici[i].frameRit)</div>
+<div class="line"><a name="l00180"></a><span class="lineno">  180</span>&#160;                        {</div>
+<div class="line"><a name="l00181"></a><span class="lineno">  181</span>&#160;                                nemici[i].<a class="code" href="structNemici.html#a5229a669444c9f714c73701e455d78c5" title="Numero della frame corrente.">corFrame</a> += nemici[i].<a class="code" href="structNemici.html#a368980b0739d312d86f7db161bcb8057" title="      Direzione dell&#39;animazione   (1: avanti; -1:indietro)">animationDir</a>;</div>
+<div class="line"><a name="l00182"></a><span class="lineno">  182</span>&#160;</div>
+<div class="line"><a name="l00183"></a><span class="lineno">  183</span>&#160;                                <span class="keywordflow">if</span>(!nemici[i].impatto)</div>
+<div class="line"><a name="l00184"></a><span class="lineno">  184</span>&#160;                                {       </div>
+<div class="line"><a name="l00185"></a><span class="lineno">  185</span>&#160;                                        nemici[i].<a class="code" href="structNemici.html#a6703c9976ce5acb24632974e3b48e140" title="Numero della riga di animazione.">animationRow</a>=0;</div>
+<div class="line"><a name="l00186"></a><span class="lineno">  186</span>&#160;                                        <span class="keywordflow">if</span>(nemici[i].corFrame &gt;= nemici[i].maxFrame)</div>
+<div class="line"><a name="l00187"></a><span class="lineno">  187</span>&#160;                                                nemici[i].<a class="code" href="structNemici.html#a5229a669444c9f714c73701e455d78c5" title="Numero della frame corrente.">corFrame</a> = 0;</div>
+<div class="line"><a name="l00188"></a><span class="lineno">  188</span>&#160;                                        <span class="keywordflow">else</span> <span class="keywordflow">if</span>( nemici[i].corFrame &lt;= 0)</div>
+<div class="line"><a name="l00189"></a><span class="lineno">  189</span>&#160;                                                nemici[i].<a class="code" href="structNemici.html#a5229a669444c9f714c73701e455d78c5" title="Numero della frame corrente.">corFrame</a> = nemici[i].<a class="code" href="structNemici.html#a750031be1a6f5d71d9d6e5ddbc5e586b" title="Numero massimo di frame del nemico.">maxFrame</a> - 1;</div>
+<div class="line"><a name="l00190"></a><span class="lineno">  190</span>&#160;                                }<span class="keywordflow">else</span>{</div>
+<div class="line"><a name="l00191"></a><span class="lineno">  191</span>&#160;                                        nemici[i].<a class="code" href="structNemici.html#a6703c9976ce5acb24632974e3b48e140" title="Numero della riga di animazione.">animationRow</a>=1;</div>
+<div class="line"><a name="l00192"></a><span class="lineno">  192</span>&#160;                                        <span class="keywordflow">if</span>(nemici[i].corFrame &gt;= nemici[i].maxFrame)</div>
+<div class="line"><a name="l00193"></a><span class="lineno">  193</span>&#160;                                        {       nemici[i].<a class="code" href="structNemici.html#a5229a669444c9f714c73701e455d78c5" title="Numero della frame corrente.">corFrame</a> = 0;</div>
+<div class="line"><a name="l00194"></a><span class="lineno">  194</span>&#160;                                                nemici[i].<a class="code" href="structNemici.html#ac4ecc8251dab658ad61f445e69ba9462">impatto</a> = <span class="keyword">false</span>; }</div>
+<div class="line"><a name="l00195"></a><span class="lineno">  195</span>&#160;                                        }</div>
+<div class="line"><a name="l00196"></a><span class="lineno">  196</span>&#160;                                nemici[i].<a class="code" href="structNemici.html#a9e43db516e15131e672e36e5b21639fe" title="Contatore per le frame.">frameCont</a> = 0;</div>
+<div class="line"><a name="l00197"></a><span class="lineno">  197</span>&#160;                        }</div>
+<div class="line"><a name="l00198"></a><span class="lineno">  198</span>&#160;</div>
+<div class="line"><a name="l00199"></a><span class="lineno">  199</span>&#160;                        nemici[i].<a class="code" href="structNemici.html#abc8df94b28bade640027ed5020731e3d" title="Posizione x del nemico.">x</a> -= nemici[i].<a class="code" href="structNemici.html#a0b03fc7f43673666433ddda07236891e" title="Velocità del nemico.">vel</a>;</div>
+<div class="line"><a name="l00200"></a><span class="lineno">  200</span>&#160;                }</div>
+<div class="line"><a name="l00201"></a><span class="lineno">  201</span>&#160;        }</div>
+<div class="line"><a name="l00202"></a><span class="lineno">  202</span>&#160;}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a class="anchor" id="a21293b18f57f17b344f58527019656b4"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void Cambia_fase </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="objects_8h.html#a50bf84c042e3d4b30ee2ab55f9b3744d">FASE</a>&#160;</td>
+          <td class="paramname"><em>nuova</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="structNemici.html">Nemici</a>&#160;</td>
+          <td class="paramname"><em>nemici</em>[], </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="structColpo.html">Colpo</a>&#160;</td>
+          <td class="paramname"><em>colpi</em>[], </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="structGiocatore.html">Giocatore</a> &amp;&#160;</td>
+          <td class="paramname"><em>tom</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="structImpatti.html">Impatti</a>&#160;</td>
+          <td class="paramname"><em>impatti</em>[]&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Routine dei cambi di fase. </p>
+<p>Funzione che aggiorna alla nuova fase di gioco sistemando le procedure di uscita fase e quelle di entrata nella nuova. </p>
+<dl class="params"><dt>Parametri</dt><dd>
+  <table class="params">
+    <tr><td class="paramdir">[in]</td><td class="paramname">nuova</td><td>fase a cui si vuole passare </td></tr>
+    <tr><td class="paramdir">[in]</td><td class="paramname">nemici</td><td>nemici che potrebbero subire modifiche </td></tr>
+    <tr><td class="paramdir">[in]</td><td class="paramname">colpi</td><td>colpi che potrebbero subire modifiche </td></tr>
+    <tr><td class="paramdir">[in]</td><td class="paramname">tom</td><td>giocatore che potrebbe subire modifiche </td></tr>
+    <tr><td class="paramdir">[in]</td><td class="paramname">impatti</td><td>impatti che potrebbero subire modifiche </td></tr>
+  </table>
+  </dd>
+</dl>
+<div class="fragment"><div class="line"><a name="l00356"></a><span class="lineno">  356</span>&#160;{       <span class="keywordflow">switch</span>(<a class="code" href="dichiarazioni_8cc.html#a6697be1fef616e47330f96de1f63d318">partita</a>.<a class="code" href="structGioco.html#afaa876a3f18bd15bfe537f0fcd2f7e44" title="Fase di gioco.">fase</a>)</div>
+<div class="line"><a name="l00357"></a><span class="lineno">  357</span>&#160;        {</div>
+<div class="line"><a name="l00358"></a><span class="lineno">  358</span>&#160;        <span class="keywordflow">case</span> <a class="code" href="objects_8h.html#a50bf84c042e3d4b30ee2ab55f9b3744da6ff063e4bc21f66ec2e08f64914b0e17">INIZIO</a>:</div>
+<div class="line"><a name="l00359"></a><span class="lineno">  359</span>&#160;                {       </div>
+<div class="line"><a name="l00360"></a><span class="lineno">  360</span>&#160;                        <span class="keywordflow">if</span>(nuova==<a class="code" href="objects_8h.html#a50bf84c042e3d4b30ee2ab55f9b3744daf1be94f8d898914643fff818db372af2">IN_GIOCO</a>)</div>
+<div class="line"><a name="l00361"></a><span class="lineno">  361</span>&#160;                        {       </div>
+<div class="line"><a name="l00362"></a><span class="lineno">  362</span>&#160;                                al_stop_sample_instance(<a class="code" href="dichiarazioni_8cc.html#a20c8735cb3c0422540cccabbada5a758" title="Suono di gioco.">songInstance_m</a>);</div>
+<div class="line"><a name="l00363"></a><span class="lineno">  363</span>&#160;                                <a class="code" href="aggiorna_8cc.html#a6548a345b3969b72c5bc7136a2d8c453" title="Inizia la partita.">Inizia_partita</a>();</div>
+<div class="line"><a name="l00364"></a><span class="lineno">  364</span>&#160;                                <a class="code" href="inizializzazioni_8cc.html#a9716c6872c9129d5886f442fc01fcfd4" title="Inizializza un nuovo giocatore.">Inizializza_g</a>(tom,<a class="code" href="dichiarazioni_8cc.html#afc42cb85f5e6c61bc416d26b4914236e" title="Immagine del giocatore.">ImmG</a>);</div>
+<div class="line"><a name="l00365"></a><span class="lineno">  365</span>&#160;                                <a class="code" href="inizializzazioni_8cc.html#a384c6597b39746c5c5a5cae33b8b91d3" title="Inizializzazione dei nemici.">Inizializza_Nemici</a>(nemici, <a class="code" href="dichiarazioni_8cc.html#aecdf68e2be94ff934ae01ad2749cb05d" title="Immagine del nemico di tipo 1.">ImmN1</a>, <a class="code" href="dichiarazioni_8cc.html#a4e921820024b22581e04d34ad6ec4506" title="Immagine del nemico di tipo 2.">ImmN2</a>);</div>
+<div class="line"><a name="l00366"></a><span class="lineno">  366</span>&#160;                                <a class="code" href="inizializzazioni_8cc.html#a373b2e8b8545c77678b48e51b2e7b603" title="Inizializzazione del colpo.">Inizializza_colpo</a>(colpi,<a class="code" href="dichiarazioni_8cc.html#ac0812a537823181cfcf68d9e36bc3116" title="Immagine del proiettile.">ImmC</a>);</div>
+<div class="line"><a name="l00367"></a><span class="lineno">  367</span>&#160;                                <a class="code" href="inizializzazioni_8cc.html#a237cfb7fe0e69e255553ac1e8d90d87f" title="Inizializzazione degli impatti.">Inizializza_impatti</a>(impatti,<a class="code" href="dichiarazioni_8cc.html#a92dcebe4b97f11eaa4192c37d2623cda" title="Immagine dell&#39;impatto del nemico 1.">ImmI</a>,<a class="code" href="dichiarazioni_8cc.html#ab28c0af285b316a54b5eff6b0904db84" title="Immagine dell&#39;impatto del nemico 2.">ImmI2</a>);</div>
+<div class="line"><a name="l00368"></a><span class="lineno">  368</span>&#160;                        }</div>
+<div class="line"><a name="l00369"></a><span class="lineno">  369</span>&#160;                }</div>
+<div class="line"><a name="l00370"></a><span class="lineno">  370</span>&#160;                <span class="keywordflow">break</span>;</div>
+<div class="line"><a name="l00371"></a><span class="lineno">  371</span>&#160;        <span class="keywordflow">case</span> <a class="code" href="objects_8h.html#a50bf84c042e3d4b30ee2ab55f9b3744daf1be94f8d898914643fff818db372af2">IN_GIOCO</a>:</div>
+<div class="line"><a name="l00372"></a><span class="lineno">  372</span>&#160;                {</div>
+<div class="line"><a name="l00373"></a><span class="lineno">  373</span>&#160;                <span class="keywordflow">if</span>(nuova!=<a class="code" href="objects_8h.html#a50bf84c042e3d4b30ee2ab55f9b3744da60fc5eaee370304305a60cc7ba79aa45">PAUSA</a>&amp;&amp;nuova!=<a class="code" href="objects_8h.html#a50bf84c042e3d4b30ee2ab55f9b3744da34be1cfd398debce71c013bfec363396">LIVELLO</a>)</div>
+<div class="line"><a name="l00374"></a><span class="lineno">  374</span>&#160;                        al_stop_sample_instance(<a class="code" href="dichiarazioni_8cc.html#a555f617088a763fb8535a9d13439c7f4" title="Suono di gioco.">songInstance_g</a>);</div>
+<div class="line"><a name="l00375"></a><span class="lineno">  375</span>&#160;                <span class="keywordflow">if</span>(nuova == <a class="code" href="objects_8h.html#a50bf84c042e3d4b30ee2ab55f9b3744da42495cc178524da331d4681864c72b72">GAMEOVER</a>)</div>
+<div class="line"><a name="l00376"></a><span class="lineno">  376</span>&#160;                        <span class="keywordflow">if</span>(!<a class="code" href="dichiarazioni_8cc.html#a51ae2426fad1b70fa083815a4bd11942" title="Array dei tasti.">HSaggiornati</a> &amp;&amp; <a class="code" href="dichiarazioni_8cc.html#a6697be1fef616e47330f96de1f63d318">partita</a>.<a class="code" href="structGioco.html#abb550fca51d240607e54cbb492fec9e2" title="Punti accumulati dal giocatore.">punti</a>!=0)</div>
+<div class="line"><a name="l00377"></a><span class="lineno">  377</span>&#160;                        {</div>
+<div class="line"><a name="l00378"></a><span class="lineno">  378</span>&#160;                                <span class="keywordflow">if</span>(<a class="code" href="fileIO_8cc.html#a7e92957b6ce26c8ef2be6dc75033f20e" title="Aggiornamento dei punteggi.">AggiornaPunteggi</a>(<a class="code" href="dichiarazioni_8cc.html#af764a0977111f6a3a10038e17f735ca1" title="Array di bottoni, tipo Bottoni.">p</a>,<a class="code" href="dichiarazioni_8cc.html#a6697be1fef616e47330f96de1f63d318">partita</a>,<a class="code" href="dichiarazioni_8cc.html#a51ae2426fad1b70fa083815a4bd11942" title="Array dei tasti.">HSaggiornati</a>))</div>
+<div class="line"><a name="l00379"></a><span class="lineno">  379</span>&#160;                                        std:: cout&lt;&lt;<span class="stringliteral">&quot;OK&quot;</span>&lt;&lt;endl;</div>
+<div class="line"><a name="l00380"></a><span class="lineno">  380</span>&#160;                                <span class="keywordflow">else</span></div>
+<div class="line"><a name="l00381"></a><span class="lineno">  381</span>&#160;                                        std:: cerr&lt;&lt;<span class="stringliteral">&quot;Errore di apertura del file&quot;</span>&lt;&lt;endl;</div>
+<div class="line"><a name="l00382"></a><span class="lineno">  382</span>&#160;                        }</div>
+<div class="line"><a name="l00383"></a><span class="lineno">  383</span>&#160;                }</div>
+<div class="line"><a name="l00384"></a><span class="lineno">  384</span>&#160;                <span class="keywordflow">break</span>;          </div>
+<div class="line"><a name="l00385"></a><span class="lineno">  385</span>&#160;        <span class="keywordflow">case</span> <a class="code" href="objects_8h.html#a50bf84c042e3d4b30ee2ab55f9b3744da60fc5eaee370304305a60cc7ba79aa45">PAUSA</a>:</div>
+<div class="line"><a name="l00386"></a><span class="lineno">  386</span>&#160;                <span class="keywordflow">break</span>;</div>
+<div class="line"><a name="l00387"></a><span class="lineno">  387</span>&#160;        <span class="keywordflow">case</span> <a class="code" href="objects_8h.html#a50bf84c042e3d4b30ee2ab55f9b3744dacb9e6f410cf374803d7ff561a15bc4ef">CREDITS</a>:</div>
+<div class="line"><a name="l00388"></a><span class="lineno">  388</span>&#160;                <span class="keywordflow">break</span>;</div>
+<div class="line"><a name="l00389"></a><span class="lineno">  389</span>&#160;        <span class="keywordflow">case</span> <a class="code" href="objects_8h.html#a50bf84c042e3d4b30ee2ab55f9b3744daa5b38178bed030098fed3d8d011e0be6">HOWTO</a>:</div>
+<div class="line"><a name="l00390"></a><span class="lineno">  390</span>&#160;                <span class="keywordflow">break</span>;          </div>
+<div class="line"><a name="l00391"></a><span class="lineno">  391</span>&#160;        <span class="keywordflow">case</span> <a class="code" href="objects_8h.html#a50bf84c042e3d4b30ee2ab55f9b3744da34be1cfd398debce71c013bfec363396">LIVELLO</a>:   </div>
+<div class="line"><a name="l00392"></a><span class="lineno">  392</span>&#160;        {       al_stop_sample_instance(<a class="code" href="dichiarazioni_8cc.html#a20c8735cb3c0422540cccabbada5a758" title="Suono di gioco.">songInstance_m</a>);</div>
+<div class="line"><a name="l00393"></a><span class="lineno">  393</span>&#160;                <a class="code" href="aggiorna_8cc.html#abb6adb68d98ef4294ff4d1d818456633" title="Cambio di livello.">Nuovo_livello</a>();</div>
+<div class="line"><a name="l00394"></a><span class="lineno">  394</span>&#160;                <a class="code" href="inizializzazioni_8cc.html#a384c6597b39746c5c5a5cae33b8b91d3" title="Inizializzazione dei nemici.">Inizializza_Nemici</a>(nemici, <a class="code" href="dichiarazioni_8cc.html#aecdf68e2be94ff934ae01ad2749cb05d" title="Immagine del nemico di tipo 1.">ImmN1</a>, <a class="code" href="dichiarazioni_8cc.html#a4e921820024b22581e04d34ad6ec4506" title="Immagine del nemico di tipo 2.">ImmN2</a>);</div>
+<div class="line"><a name="l00395"></a><span class="lineno">  395</span>&#160;                <a class="code" href="inizializzazioni_8cc.html#a373b2e8b8545c77678b48e51b2e7b603" title="Inizializzazione del colpo.">Inizializza_colpo</a>(colpi,<a class="code" href="dichiarazioni_8cc.html#ac0812a537823181cfcf68d9e36bc3116" title="Immagine del proiettile.">ImmC</a>);</div>
+<div class="line"><a name="l00396"></a><span class="lineno">  396</span>&#160;        }</div>
+<div class="line"><a name="l00397"></a><span class="lineno">  397</span>&#160;                <span class="keywordflow">break</span>;          </div>
+<div class="line"><a name="l00398"></a><span class="lineno">  398</span>&#160;        <span class="keywordflow">case</span> <a class="code" href="objects_8h.html#a50bf84c042e3d4b30ee2ab55f9b3744da9db62ce21fc29ff42d553854f4e8dced">PUNTEGGI</a>:</div>
+<div class="line"><a name="l00399"></a><span class="lineno">  399</span>&#160;                <span class="keywordflow">if</span>(nuova==<a class="code" href="objects_8h.html#a50bf84c042e3d4b30ee2ab55f9b3744da6ff063e4bc21f66ec2e08f64914b0e17">INIZIO</a>)</div>
+<div class="line"><a name="l00400"></a><span class="lineno">  400</span>&#160;                        al_stop_sample_instance(<a class="code" href="dichiarazioni_8cc.html#a3605fcb9322ab97d95941ef3a8ca5425" title="Suono di gioco.">songInstance_l</a>);</div>
+<div class="line"><a name="l00401"></a><span class="lineno">  401</span>&#160;                <span class="keywordflow">break</span>;</div>
+<div class="line"><a name="l00402"></a><span class="lineno">  402</span>&#160;        <span class="keywordflow">case</span> <a class="code" href="objects_8h.html#a50bf84c042e3d4b30ee2ab55f9b3744da42495cc178524da331d4681864c72b72">GAMEOVER</a>:</div>
+<div class="line"><a name="l00403"></a><span class="lineno">  403</span>&#160;        {       <span class="keywordflow">if</span>(nuova!=<a class="code" href="objects_8h.html#a50bf84c042e3d4b30ee2ab55f9b3744da9db62ce21fc29ff42d553854f4e8dced">PUNTEGGI</a>)</div>
+<div class="line"><a name="l00404"></a><span class="lineno">  404</span>&#160;                al_stop_sample_instance(<a class="code" href="dichiarazioni_8cc.html#a3605fcb9322ab97d95941ef3a8ca5425" title="Suono di gioco.">songInstance_l</a>);</div>
+<div class="line"><a name="l00405"></a><span class="lineno">  405</span>&#160;        }</div>
+<div class="line"><a name="l00406"></a><span class="lineno">  406</span>&#160;                <span class="keywordflow">break</span>;</div>
+<div class="line"><a name="l00407"></a><span class="lineno">  407</span>&#160;        }</div>
+<div class="line"><a name="l00408"></a><span class="lineno">  408</span>&#160;</div>
+<div class="line"><a name="l00409"></a><span class="lineno">  409</span>&#160;        <a class="code" href="dichiarazioni_8cc.html#a6697be1fef616e47330f96de1f63d318">partita</a>.<a class="code" href="structGioco.html#afaa876a3f18bd15bfe537f0fcd2f7e44" title="Fase di gioco.">fase</a>=nuova;</div>
+<div class="line"><a name="l00410"></a><span class="lineno">  410</span>&#160;</div>
+<div class="line"><a name="l00411"></a><span class="lineno">  411</span>&#160;        <span class="keywordflow">switch</span>(<a class="code" href="dichiarazioni_8cc.html#a6697be1fef616e47330f96de1f63d318">partita</a>.<a class="code" href="structGioco.html#afaa876a3f18bd15bfe537f0fcd2f7e44" title="Fase di gioco.">fase</a>)</div>
+<div class="line"><a name="l00412"></a><span class="lineno">  412</span>&#160;        {</div>
+<div class="line"><a name="l00413"></a><span class="lineno">  413</span>&#160;        <span class="keywordflow">case</span> <a class="code" href="objects_8h.html#a50bf84c042e3d4b30ee2ab55f9b3744da6ff063e4bc21f66ec2e08f64914b0e17">INIZIO</a>:</div>
+<div class="line"><a name="l00414"></a><span class="lineno">  414</span>&#160;                al_play_sample_instance(<a class="code" href="dichiarazioni_8cc.html#a20c8735cb3c0422540cccabbada5a758" title="Suono di gioco.">songInstance_m</a>);</div>
+<div class="line"><a name="l00415"></a><span class="lineno">  415</span>&#160;                <span class="keywordflow">break</span>;</div>
+<div class="line"><a name="l00416"></a><span class="lineno">  416</span>&#160;        <span class="keywordflow">case</span> <a class="code" href="objects_8h.html#a50bf84c042e3d4b30ee2ab55f9b3744daf1be94f8d898914643fff818db372af2">IN_GIOCO</a>:</div>
+<div class="line"><a name="l00417"></a><span class="lineno">  417</span>&#160;        {       </div>
+<div class="line"><a name="l00418"></a><span class="lineno">  418</span>&#160;                al_play_sample_instance(<a class="code" href="dichiarazioni_8cc.html#a555f617088a763fb8535a9d13439c7f4" title="Suono di gioco.">songInstance_g</a>);</div>
+<div class="line"><a name="l00419"></a><span class="lineno">  419</span>&#160;        }</div>
+<div class="line"><a name="l00420"></a><span class="lineno">  420</span>&#160;                <span class="keywordflow">break</span>;          </div>
+<div class="line"><a name="l00421"></a><span class="lineno">  421</span>&#160;        <span class="keywordflow">case</span> <a class="code" href="objects_8h.html#a50bf84c042e3d4b30ee2ab55f9b3744da60fc5eaee370304305a60cc7ba79aa45">PAUSA</a>:</div>
+<div class="line"><a name="l00422"></a><span class="lineno">  422</span>&#160;                <span class="keywordflow">break</span>;</div>
+<div class="line"><a name="l00423"></a><span class="lineno">  423</span>&#160;        <span class="keywordflow">case</span> <a class="code" href="objects_8h.html#a50bf84c042e3d4b30ee2ab55f9b3744dacb9e6f410cf374803d7ff561a15bc4ef">CREDITS</a>:</div>
+<div class="line"><a name="l00424"></a><span class="lineno">  424</span>&#160;                <span class="keywordflow">break</span>;</div>
+<div class="line"><a name="l00425"></a><span class="lineno">  425</span>&#160;        <span class="keywordflow">case</span> <a class="code" href="objects_8h.html#a50bf84c042e3d4b30ee2ab55f9b3744daa5b38178bed030098fed3d8d011e0be6">HOWTO</a>:</div>
+<div class="line"><a name="l00426"></a><span class="lineno">  426</span>&#160;                <span class="keywordflow">break</span>;          </div>
+<div class="line"><a name="l00427"></a><span class="lineno">  427</span>&#160;        <span class="keywordflow">case</span> <a class="code" href="objects_8h.html#a50bf84c042e3d4b30ee2ab55f9b3744da34be1cfd398debce71c013bfec363396">LIVELLO</a>:</div>
+<div class="line"><a name="l00428"></a><span class="lineno">  428</span>&#160;                {                                       </div>
+<div class="line"><a name="l00429"></a><span class="lineno">  429</span>&#160;                al_clear_to_color(al_map_rgb(0,0,0));</div>
+<div class="line"><a name="l00430"></a><span class="lineno">  430</span>&#160;                <span class="keywordflow">if</span>(<a class="code" href="fileIO_8cc.html#adb9d3575b187b41479501fafacfec429" title="Salvataggio della partita.">salva</a>(<a class="code" href="dichiarazioni_8cc.html#a6697be1fef616e47330f96de1f63d318">partita</a>, <a class="code" href="dichiarazioni_8cc.html#a4cb231eee96ecab7c0f3040153da3cc2" title="Oggetto partita, tipo Gioco.">stat</a>))</div>
+<div class="line"><a name="l00431"></a><span class="lineno">  431</span>&#160;                        al_draw_textf(<a class="code" href="dichiarazioni_8cc.html#af46a718ca708066d76159ef58af6b9f2" title="Font utilizzato nel Menu.">font18</a>, al_map_rgb(28,57,187), <a class="code" href="objects_8h.html#af5ff0cda81efb37e7ade6fbef58c1b47" title="Lunghezza del display.">LARGHEZZA</a>/2,</div>
+<div class="line"><a name="l00432"></a><span class="lineno">  432</span>&#160;                                        <a class="code" href="objects_8h.html#ae378d72a75a0289ad47e89cc4e47eba9" title="Altezza del display.">ALTEZZA</a>/2, ALLEGRO_ALIGN_CENTRE , <span class="stringliteral">&quot;Salvataggio riuscito&quot;</span>);</div>
+<div class="line"><a name="l00433"></a><span class="lineno">  433</span>&#160;                <span class="keywordflow">else</span></div>
+<div class="line"><a name="l00434"></a><span class="lineno">  434</span>&#160;                        al_draw_textf(<a class="code" href="dichiarazioni_8cc.html#af46a718ca708066d76159ef58af6b9f2" title="Font utilizzato nel Menu.">font18</a>, al_map_rgb(28,57,187), <a class="code" href="objects_8h.html#af5ff0cda81efb37e7ade6fbef58c1b47" title="Lunghezza del display.">LARGHEZZA</a>/2,</div>
+<div class="line"><a name="l00435"></a><span class="lineno">  435</span>&#160;                                         <a class="code" href="objects_8h.html#ae378d72a75a0289ad47e89cc4e47eba9" title="Altezza del display.">ALTEZZA</a>/2, ALLEGRO_ALIGN_CENTRE , <span class="stringliteral">&quot;Salvataggio non riuscito&quot;</span>);</div>
+<div class="line"><a name="l00436"></a><span class="lineno">  436</span>&#160;                al_flip_display();</div>
+<div class="line"><a name="l00437"></a><span class="lineno">  437</span>&#160;                al_rest(1);</div>
+<div class="line"><a name="l00438"></a><span class="lineno">  438</span>&#160;                }       </div>
+<div class="line"><a name="l00439"></a><span class="lineno">  439</span>&#160;                <span class="keywordflow">break</span>;          </div>
+<div class="line"><a name="l00440"></a><span class="lineno">  440</span>&#160;        <span class="keywordflow">case</span> <a class="code" href="objects_8h.html#a50bf84c042e3d4b30ee2ab55f9b3744da9db62ce21fc29ff42d553854f4e8dced">PUNTEGGI</a>:</div>
+<div class="line"><a name="l00441"></a><span class="lineno">  441</span>&#160;                <span class="keywordflow">break</span>;</div>
+<div class="line"><a name="l00442"></a><span class="lineno">  442</span>&#160;        <span class="keywordflow">case</span> <a class="code" href="objects_8h.html#a50bf84c042e3d4b30ee2ab55f9b3744da42495cc178524da331d4681864c72b72">GAMEOVER</a>:</div>
+<div class="line"><a name="l00443"></a><span class="lineno">  443</span>&#160;        {</div>
+<div class="line"><a name="l00444"></a><span class="lineno">  444</span>&#160;                <a class="code" href="dichiarazioni_8cc.html#a4cb231eee96ecab7c0f3040153da3cc2" title="Oggetto partita, tipo Gioco.">stat</a>.<a class="code" href="structStatistiche.html#a69e2ac9766df2b6e25bea0f804a0fac0" title="Precisione di tiro del giocatore.">precisione</a> = <a class="code" href="dichiarazioni_8cc.html#a6697be1fef616e47330f96de1f63d318">partita</a>.<a class="code" href="structGioco.html#abb550fca51d240607e54cbb492fec9e2" title="Punti accumulati dal giocatore.">punti</a>/<a class="code" href="dichiarazioni_8cc.html#a4cb231eee96ecab7c0f3040153da3cc2" title="Oggetto partita, tipo Gioco.">stat</a>.<a class="code" href="structStatistiche.html#a2ac8f3fe4f3fab96c7b609ccd8dfe127" title="Colpi totalizzati dal giocatore.">colpi</a> *100;</div>
+<div class="line"><a name="l00445"></a><span class="lineno">  445</span>&#160;                al_play_sample_instance(<a class="code" href="dichiarazioni_8cc.html#a3605fcb9322ab97d95941ef3a8ca5425" title="Suono di gioco.">songInstance_l</a>);</div>
+<div class="line"><a name="l00446"></a><span class="lineno">  446</span>&#160;        }</div>
+<div class="line"><a name="l00447"></a><span class="lineno">  447</span>&#160;</div>
+<div class="line"><a name="l00448"></a><span class="lineno">  448</span>&#160;                <span class="keywordflow">break</span>;</div>
+<div class="line"><a name="l00449"></a><span class="lineno">  449</span>&#160;        }</div>
+<div class="line"><a name="l00450"></a><span class="lineno">  450</span>&#160;}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a class="anchor" id="a4f9c9e053bc1762f478152d03900a470"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool CursoresuBottone </td>
+          <td>(</td>
+          <td class="paramtype">ALLEGRO_EVENT&#160;</td>
+          <td class="paramname"><em>ev</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>bottonex</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>bottoney</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>dist</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>altezza</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>lunghezza</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Ritorna se il cursore del mouse è su un bottone. </p>
+<p>La funzione serve a verificare se il cursore del mouse si trova sulla parte dello schermo sulla quale è disegnato un certo bottone. Si passano diversi parametri per identificare il bottone. </p>
+<dl class="params"><dt>Parametri</dt><dd>
+  <table class="params">
+    <tr><td class="paramdir">[in]</td><td class="paramname">ev</td><td>Evento, serve per ottenere la posizione del mouse </td></tr>
+    <tr><td class="paramdir">[in]</td><td class="paramname">bottonex</td><td>Posizione x del bottone </td></tr>
+    <tr><td class="paramdir">[in]</td><td class="paramname">bottoney</td><td>Posizione y del bottone </td></tr>
+    <tr><td class="paramdir">[in]</td><td class="paramname">dist</td><td>Distanza del bottone dagli altri </td></tr>
+    <tr><td class="paramdir">[in]</td><td class="paramname">altezza</td><td>Altezza del bottone </td></tr>
+    <tr><td class="paramdir">[in]</td><td class="paramname">lunghezza</td><td>Lunghezza del bottone </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Restituisce</dt><dd>Ritorna vero solo se il mouse è nella porzione di schermo occupata dal bottone. </dd></dl>
+<div class="fragment"><div class="line"><a name="l00346"></a><span class="lineno">  346</span>&#160;{</div>
+<div class="line"><a name="l00347"></a><span class="lineno">  347</span>&#160;        <span class="keywordflow">if</span>(     (ev.mouse.y &gt;bottoney + dist) &amp;&amp; </div>
+<div class="line"><a name="l00348"></a><span class="lineno">  348</span>&#160;                (ev.mouse.y&lt;bottoney + dist+altezza) &amp;&amp; </div>
+<div class="line"><a name="l00349"></a><span class="lineno">  349</span>&#160;                (ev.mouse.x&gt;bottonex) &amp;&amp; </div>
+<div class="line"><a name="l00350"></a><span class="lineno">  350</span>&#160;                (ev.mouse.x&lt;bottonex+ lunghezza)        )</div>
+<div class="line"><a name="l00351"></a><span class="lineno">  351</span>&#160;                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><a name="l00352"></a><span class="lineno">  352</span>&#160;        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><a name="l00353"></a><span class="lineno">  353</span>&#160;}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a class="anchor" id="a7c3409a64a15dd98ebe54ae5e100416c"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void Impatto_colpo </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="structColpo.html">Colpo</a>&#160;</td>
+          <td class="paramname"><em>colpi</em>[], </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="structNemici.html">Nemici</a>&#160;</td>
+          <td class="paramname"><em>nemici</em>[], </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="structGiocatore.html">Giocatore</a> &amp;&#160;</td>
+          <td class="paramname"><em>tom</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="structImpatti.html">Impatti</a>&#160;</td>
+          <td class="paramname"><em>impatti</em>[], </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">ALLEGRO_SAMPLE *&#160;</td>
+          <td class="paramname"><em>morte1</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Impatto del colpo col nemico. </p>
+<p>Funzione che gestisce l'impatto del <a class="el" href="structColpo.html" title="Struttura del proiettile.">Colpo</a> coi <a class="el" href="structNemici.html" title="Struttura del nemico.">Nemici</a> Se un colpo ha un impatto con un nemico, il nemico perde una vita e i punti del giocatore sono incrementati di 1. </p>
+<dl class="params"><dt>Parametri</dt><dd>
+  <table class="params">
+    <tr><td class="paramdir">[in]</td><td class="paramname">colpi</td><td>Colpi da aggiornare </td></tr>
+    <tr><td class="paramdir">[in]</td><td class="paramname">tom</td><td><a class="el" href="structGiocatore.html" title="Struttura del giocatore.">Giocatore</a> che spara i colpi </td></tr>
+    <tr><td class="paramdir">[in]</td><td class="paramname">nemici</td><td><a class="el" href="structNemici.html" title="Struttura del nemico.">Nemici</a> che possono subire l'impatto con i colpi </td></tr>
+    <tr><td class="paramdir">[in]</td><td class="paramname">impatti</td><td><a class="el" href="structImpatti.html" title="Struttura dell&#39;impatto.">Impatti</a> che possono avvenire </td></tr>
+    <tr><td class="paramdir">[in]</td><td class="paramname">morte1</td><td>Suono per la morte dei nemici, se colpiti </td></tr>
+  </table>
+  </dd>
+</dl>
+<div class="fragment"><div class="line"><a name="l00267"></a><span class="lineno">  267</span>&#160;{</div>
+<div class="line"><a name="l00268"></a><span class="lineno">  268</span>&#160;        <span class="keywordflow">for</span>(<span class="keywordtype">int</span> i = 0; i &lt; <a class="code" href="objects_8h.html#a88176b74d68d2564c625ad72b0ca3c29" title="Numero di colpi del giocatore.">NUM_COLPI</a>; i++)</div>
+<div class="line"><a name="l00269"></a><span class="lineno">  269</span>&#160;        {</div>
+<div class="line"><a name="l00270"></a><span class="lineno">  270</span>&#160;                <span class="keywordflow">if</span>(colpi[i].vite)</div>
+<div class="line"><a name="l00271"></a><span class="lineno">  271</span>&#160;                {</div>
+<div class="line"><a name="l00272"></a><span class="lineno">  272</span>&#160;                        <span class="keywordflow">for</span>(<span class="keywordtype">int</span> j = (<a class="code" href="dichiarazioni_8cc.html#a6697be1fef616e47330f96de1f63d318">partita</a>.<a class="code" href="structGioco.html#a881d92c7e72e59ce5f36d55991ab2ca5" title="Livello del gioco.">livello</a>-1); j &lt; (<a class="code" href="objects_8h.html#a7c695132734ed573880bd2289bd654a4" title="Numero di nemici.">NUM_NEMICI</a>/2 -2 +<a class="code" href="dichiarazioni_8cc.html#a6697be1fef616e47330f96de1f63d318">partita</a>.<a class="code" href="structGioco.html#a881d92c7e72e59ce5f36d55991ab2ca5" title="Livello del gioco.">livello</a>); j++)</div>
+<div class="line"><a name="l00273"></a><span class="lineno">  273</span>&#160;                        {</div>
+<div class="line"><a name="l00274"></a><span class="lineno">  274</span>&#160;                                <span class="keywordflow">if</span>(nemici[j].vite)</div>
+<div class="line"><a name="l00275"></a><span class="lineno">  275</span>&#160;                                {       </div>
+<div class="line"><a name="l00276"></a><span class="lineno">  276</span>&#160;                                        <span class="keywordflow">if</span>(colpi[i].x &gt; (nemici[j].x - nemici[j].bordox) &amp;&amp;</div>
+<div class="line"><a name="l00277"></a><span class="lineno">  277</span>&#160;                                                colpi[i].x &lt; (nemici[j].x + nemici[j].bordox) &amp;&amp;</div>
+<div class="line"><a name="l00278"></a><span class="lineno">  278</span>&#160;                                                colpi[i].y &gt; (nemici[j].y - nemici[j].bordoy) &amp;&amp;</div>
+<div class="line"><a name="l00279"></a><span class="lineno">  279</span>&#160;                                                colpi[i].y &lt; (nemici[j].y + nemici[j].bordoy))</div>
+<div class="line"><a name="l00280"></a><span class="lineno">  280</span>&#160;                                        {</div>
+<div class="line"><a name="l00281"></a><span class="lineno">  281</span>&#160;                                                al_play_sample(<a class="code" href="dichiarazioni_8cc.html#a9232fd432946b4eb040504a9c9009d6a" title="Suono di nemico ucciso.">morte1</a>, 1.5, 0, 1.5, ALLEGRO_PLAYMODE_ONCE, NULL);</div>
+<div class="line"><a name="l00282"></a><span class="lineno">  282</span>&#160;                                                colpi[i].<a class="code" href="structColpo.html#a41fd0ae1b3987c3fcecb1027caae2591" title="Vita del proiettile.">vite</a> =0;</div>
+<div class="line"><a name="l00283"></a><span class="lineno">  283</span>&#160;                                                nemici[j].<a class="code" href="structNemici.html#afae98b972651ce9fe3b6b0f266696d83">vite</a>--;</div>
+<div class="line"><a name="l00284"></a><span class="lineno">  284</span>&#160;</div>
+<div class="line"><a name="l00285"></a><span class="lineno">  285</span>&#160;                                                <a class="code" href="dichiarazioni_8cc.html#a6697be1fef616e47330f96de1f63d318">partita</a>.<a class="code" href="structGioco.html#abb550fca51d240607e54cbb492fec9e2" title="Punti accumulati dal giocatore.">punti</a>++;</div>
+<div class="line"><a name="l00286"></a><span class="lineno">  286</span>&#160;                                                <span class="keywordflow">if</span>(nemici[j].vite==0)</div>
+<div class="line"><a name="l00287"></a><span class="lineno">  287</span>&#160;                                                        <a class="code" href="aggiorna_8cc.html#aa7105157027beb3ffa8ab9f3dec5430d" title="Inizio degli impatti.">Inizia_impatti</a>(impatti, colpi[i].x, colpi[i].y,j);</div>
+<div class="line"><a name="l00288"></a><span class="lineno">  288</span>&#160;                                                <span class="keywordflow">else</span> {</div>
+<div class="line"><a name="l00289"></a><span class="lineno">  289</span>&#160;                                                        nemici[j].<a class="code" href="structNemici.html#ac4ecc8251dab658ad61f445e69ba9462">impatto</a>=<span class="keyword">true</span>;</div>
+<div class="line"><a name="l00290"></a><span class="lineno">  290</span>&#160;                                                        nemici[j].<a class="code" href="structNemici.html#a5229a669444c9f714c73701e455d78c5" title="Numero della frame corrente.">corFrame</a>=0;</div>
+<div class="line"><a name="l00291"></a><span class="lineno">  291</span>&#160;                                                        }</div>
+<div class="line"><a name="l00292"></a><span class="lineno">  292</span>&#160;                                        }</div>
+<div class="line"><a name="l00293"></a><span class="lineno">  293</span>&#160;                                }</div>
+<div class="line"><a name="l00294"></a><span class="lineno">  294</span>&#160;                        }</div>
+<div class="line"><a name="l00295"></a><span class="lineno">  295</span>&#160;                }</div>
+<div class="line"><a name="l00296"></a><span class="lineno">  296</span>&#160;        }</div>
+<div class="line"><a name="l00297"></a><span class="lineno">  297</span>&#160;}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a class="anchor" id="aaa3d8f5f4c36f5cb90fd95f460e3ccf2"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void Impatto_Nemici </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="structNemici.html">Nemici</a>&#160;</td>
+          <td class="paramname"><em>nemici</em>[], </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="structGiocatore.html">Giocatore</a> &amp;&#160;</td>
+          <td class="paramname"><em>tom</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Impatto del giocatore con i nemici. </p>
+<p>Funzione che gestisce l'impatto tra il giocatore e i vari <a class="el" href="structNemici.html" title="Struttura del nemico.">Nemici</a>. Da tale funzione si nota la necessità dei campi bordox e bordoy.</p>
+<p>Tale funzione gestisce anche le vite del giocatore : Se il giocatore viene colpito da un nemico, o un nemico non viene ucciso dal giocatore ma riesce ad uscire dallo schermo vivo, allora il giocatore perde una vita. </p>
+<dl class="params"><dt>Parametri</dt><dd>
+  <table class="params">
+    <tr><td class="paramdir">[in]</td><td class="paramname">nemici</td><td><a class="el" href="structNemici.html" title="Struttura del nemico.">Nemici</a> che possono subire l'impatto </td></tr>
+    <tr><td class="paramdir">[in]</td><td class="paramname">tom</td><td><a class="el" href="structGiocatore.html" title="Struttura del giocatore.">Giocatore</a> che può subire l'impatto </td></tr>
+  </table>
+  </dd>
+</dl>
+<div class="fragment"><div class="line"><a name="l00205"></a><span class="lineno">  205</span>&#160;{</div>
+<div class="line"><a name="l00206"></a><span class="lineno">  206</span>&#160;        <span class="keywordflow">for</span>(<span class="keywordtype">int</span> i = (<a class="code" href="dichiarazioni_8cc.html#a6697be1fef616e47330f96de1f63d318">partita</a>.<a class="code" href="structGioco.html#a881d92c7e72e59ce5f36d55991ab2ca5" title="Livello del gioco.">livello</a>-1); i &lt; (<a class="code" href="objects_8h.html#a7c695132734ed573880bd2289bd654a4" title="Numero di nemici.">NUM_NEMICI</a>/2 -2 +<a class="code" href="dichiarazioni_8cc.html#a6697be1fef616e47330f96de1f63d318">partita</a>.<a class="code" href="structGioco.html#a881d92c7e72e59ce5f36d55991ab2ca5" title="Livello del gioco.">livello</a>); i++)</div>
+<div class="line"><a name="l00207"></a><span class="lineno">  207</span>&#160;        {</div>
+<div class="line"><a name="l00208"></a><span class="lineno">  208</span>&#160;                <span class="keywordflow">if</span>(nemici[i].vite)</div>
+<div class="line"><a name="l00209"></a><span class="lineno">  209</span>&#160;                {</div>
+<div class="line"><a name="l00210"></a><span class="lineno">  210</span>&#160;                        <span class="keywordflow">if</span>(nemici[i].x - nemici[i].bordox &lt; tom.<a class="code" href="structGiocatore.html#ae3cd96fd365828a2aa0056db133db15a" title="Posizione x del giocatore.">x</a> + tom.<a class="code" href="structGiocatore.html#aebfbf976aae920230dbe184a3824ae51" title="Bordo lungo x, utile per le collisioni.">bordox</a> &amp;&amp;</div>
+<div class="line"><a name="l00211"></a><span class="lineno">  211</span>&#160;                                nemici[i].<a class="code" href="structNemici.html#abc8df94b28bade640027ed5020731e3d" title="Posizione x del nemico.">x</a> + nemici[i].<a class="code" href="structNemici.html#ad4a86efbca1abb0fd395c676c95fd315" title="Bordo lungo x, utile per le collisioni.">bordox</a> &gt; tom.<a class="code" href="structGiocatore.html#ae3cd96fd365828a2aa0056db133db15a" title="Posizione x del giocatore.">x</a> - tom.<a class="code" href="structGiocatore.html#aebfbf976aae920230dbe184a3824ae51" title="Bordo lungo x, utile per le collisioni.">bordox</a> &amp;&amp;</div>
+<div class="line"><a name="l00212"></a><span class="lineno">  212</span>&#160;                                nemici[i].<a class="code" href="structNemici.html#a7a9dd888946dab6caf542108751bb632" title="Posizione y del nemico.">y</a> - nemici[i].<a class="code" href="structNemici.html#a6f82c3f5508464a65efef2bc150a8f98" title="Bordo lungo y, utile per le collisioni.">bordoy</a> &lt; tom.<a class="code" href="structGiocatore.html#a558c626ab68876f3d7b7c0243bbb8532" title="Posizione y del giocatore.">y</a> + tom.<a class="code" href="structGiocatore.html#a4cda0f651f73b2536a759f669ee297ec" title="Bordo lungo y, utile per le collisioni.">bordoy</a> &amp;&amp;</div>
+<div class="line"><a name="l00213"></a><span class="lineno">  213</span>&#160;                                nemici[i].<a class="code" href="structNemici.html#a7a9dd888946dab6caf542108751bb632" title="Posizione y del nemico.">y</a> + nemici[i].<a class="code" href="structNemici.html#a6f82c3f5508464a65efef2bc150a8f98" title="Bordo lungo y, utile per le collisioni.">bordoy</a> &gt; tom.<a class="code" href="structGiocatore.html#a558c626ab68876f3d7b7c0243bbb8532" title="Posizione y del giocatore.">y</a> - tom.<a class="code" href="structGiocatore.html#a4cda0f651f73b2536a759f669ee297ec" title="Bordo lungo y, utile per le collisioni.">bordoy</a>)</div>
+<div class="line"><a name="l00214"></a><span class="lineno">  214</span>&#160;                        {</div>
+<div class="line"><a name="l00215"></a><span class="lineno">  215</span>&#160;                                <a class="code" href="dichiarazioni_8cc.html#a6697be1fef616e47330f96de1f63d318">partita</a>.<a class="code" href="structGioco.html#a94e48ce295d8e38cb66b69bb29074dab" title="Vite del giocatore.">vite</a>--;</div>
+<div class="line"><a name="l00216"></a><span class="lineno">  216</span>&#160;                                tom.<a class="code" href="structGiocatore.html#a648e172deccd5b54429e0388468dbfeb" title="              Booleano che indica se il giocatore è  stato colpito o meno">colpito</a>=<span class="keyword">true</span>;</div>
+<div class="line"><a name="l00217"></a><span class="lineno">  217</span>&#160;                                tom.<a class="code" href="structGiocatore.html#aad5a88a127a609e034f2a56486b83202" title="Numero della frame corrente.">corFrame</a>=0;</div>
+<div class="line"><a name="l00218"></a><span class="lineno">  218</span>&#160;                                <a class="code" href="dichiarazioni_8cc.html#a4cb231eee96ecab7c0f3040153da3cc2" title="Oggetto partita, tipo Gioco.">stat</a>.<a class="code" href="structStatistiche.html#a08c1e00089768298083b95074f175aaf" title="Vite perse del giocatore.">vite_perse</a>++;</div>
+<div class="line"><a name="l00219"></a><span class="lineno">  219</span>&#160;                                nemici[i].<a class="code" href="structNemici.html#afae98b972651ce9fe3b6b0f266696d83">vite</a>=0;</div>
+<div class="line"><a name="l00220"></a><span class="lineno">  220</span>&#160;                        }</div>
+<div class="line"><a name="l00221"></a><span class="lineno">  221</span>&#160;                        <span class="keywordflow">else</span> <span class="keywordflow">if</span>(nemici[i].x &lt; 0)</div>
+<div class="line"><a name="l00222"></a><span class="lineno">  222</span>&#160;                        {</div>
+<div class="line"><a name="l00223"></a><span class="lineno">  223</span>&#160;                                nemici[i].<a class="code" href="structNemici.html#afae98b972651ce9fe3b6b0f266696d83">vite</a>=0;</div>
+<div class="line"><a name="l00224"></a><span class="lineno">  224</span>&#160;                                <a class="code" href="dichiarazioni_8cc.html#a6697be1fef616e47330f96de1f63d318">partita</a>.<a class="code" href="structGioco.html#a94e48ce295d8e38cb66b69bb29074dab" title="Vite del giocatore.">vite</a>--;</div>
+<div class="line"><a name="l00225"></a><span class="lineno">  225</span>&#160;                                <a class="code" href="dichiarazioni_8cc.html#a4cb231eee96ecab7c0f3040153da3cc2" title="Oggetto partita, tipo Gioco.">stat</a>.<a class="code" href="structStatistiche.html#a08c1e00089768298083b95074f175aaf" title="Vite perse del giocatore.">vite_perse</a>++;</div>
+<div class="line"><a name="l00226"></a><span class="lineno">  226</span>&#160;                        }</div>
+<div class="line"><a name="l00227"></a><span class="lineno">  227</span>&#160;                }</div>
+<div class="line"><a name="l00228"></a><span class="lineno">  228</span>&#160;        }</div>
+<div class="line"><a name="l00229"></a><span class="lineno">  229</span>&#160;}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a class="anchor" id="aa7105157027beb3ffa8ab9f3dec5430d"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void Inizia_impatti </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="structImpatti.html">Impatti</a>&#160;</td>
+          <td class="paramname"><em>impatti</em>[], </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>x</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>y</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>j</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Inizio degli impatti. </p>
+<p>Funzione che inizia gli <a class="el" href="structImpatti.html" title="Struttura dell&#39;impatto.">Impatti</a> in caso le vite di un tipo di nemico siano 0. </p>
+<dl class="params"><dt>Parametri</dt><dd>
+  <table class="params">
+    <tr><td class="paramdir">[in]</td><td class="paramname">impatti</td><td><a class="el" href="structImpatti.html" title="Struttura dell&#39;impatto.">Impatti</a> da iniziare </td></tr>
+    <tr><td class="paramdir">[in]</td><td class="paramname">x</td><td>Posizione x che ha avuto l'impatto </td></tr>
+    <tr><td class="paramdir">[in]</td><td class="paramname">y</td><td>Posizione y che ha avuto l'impatto </td></tr>
+    <tr><td class="paramdir">[in]</td><td class="paramname">j</td><td>Indice del tipo di nemico che ha subito l'impatto </td></tr>
+  </table>
+  </dd>
+</dl>
+<div class="fragment"><div class="line"><a name="l00300"></a><span class="lineno">  300</span>&#160;{</div>
+<div class="line"><a name="l00301"></a><span class="lineno">  301</span>&#160;        <span class="keywordflow">for</span>(<span class="keywordtype">int</span> i = 0; i &lt; <a class="code" href="objects_8h.html#ab64fc4909ad64c8ec715cfcb15f235c6" title="Numero di impatti.">NUM_IMPATTI</a>; i++)</div>
+<div class="line"><a name="l00302"></a><span class="lineno">  302</span>&#160;        {</div>
+<div class="line"><a name="l00303"></a><span class="lineno">  303</span>&#160;                <span class="keywordflow">if</span>(!impatti[i].attivo)</div>
+<div class="line"><a name="l00304"></a><span class="lineno">  304</span>&#160;                {       </div>
+<div class="line"><a name="l00305"></a><span class="lineno">  305</span>&#160;                        <span class="keywordflow">if</span>(j&gt;=<a class="code" href="objects_8h.html#a7c695132734ed573880bd2289bd654a4" title="Numero di nemici.">NUM_NEMICI</a>/2 -1)</div>
+<div class="line"><a name="l00306"></a><span class="lineno">  306</span>&#160;                                impatti[i].<a class="code" href="structImpatti.html#a1635b6a7c165bc444713afc2a221fb7c" title="Numero della riga di animazione.">animationRow</a>=2;</div>
+<div class="line"><a name="l00307"></a><span class="lineno">  307</span>&#160;                        <span class="keywordflow">else</span>    impatti[i].<a class="code" href="structImpatti.html#a1635b6a7c165bc444713afc2a221fb7c" title="Numero della riga di animazione.">animationRow</a>=1;</div>
+<div class="line"><a name="l00308"></a><span class="lineno">  308</span>&#160;</div>
+<div class="line"><a name="l00309"></a><span class="lineno">  309</span>&#160;                        impatti[i].<a class="code" href="structImpatti.html#a92927e9f992451bff4bfd4fc2f188340" title="Booleano che indica se vi è un impatto.">attivo</a>= <span class="keyword">true</span>;</div>
+<div class="line"><a name="l00310"></a><span class="lineno">  310</span>&#160;                        impatti[i].<a class="code" href="structImpatti.html#a7a515775bd6eca2ded13b6ce51554fb4" title="Posizione x dell&#39;impatto.">x</a> = x;</div>
+<div class="line"><a name="l00311"></a><span class="lineno">  311</span>&#160;                        impatti[i].<a class="code" href="structImpatti.html#a9d25f83c44a4cb4e6c11ba2efe17f298" title="Posizione y dell&#39;impatto.">y</a> = y;</div>
+<div class="line"><a name="l00312"></a><span class="lineno">  312</span>&#160;                        <span class="keywordflow">break</span>;</div>
+<div class="line"><a name="l00313"></a><span class="lineno">  313</span>&#160;                }</div>
+<div class="line"><a name="l00314"></a><span class="lineno">  314</span>&#160;        }</div>
+<div class="line"><a name="l00315"></a><span class="lineno">  315</span>&#160;}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a class="anchor" id="a6548a345b3969b72c5bc7136a2d8c453"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void Inizia_partita </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Inizia la partita. </p>
+<p>La funzione inizia una nuova partita di tipo <a class="el" href="structGioco.html" title="Struttura dello gioco.">Gioco</a> Si parte con tre vite e dal livello uno. </p>
+<div class="fragment"><div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160;{</div>
+<div class="line"><a name="l00026"></a><span class="lineno">   26</span>&#160;        <a class="code" href="dichiarazioni_8cc.html#a6697be1fef616e47330f96de1f63d318">partita</a>.<a class="code" href="structGioco.html#abb550fca51d240607e54cbb492fec9e2" title="Punti accumulati dal giocatore.">punti</a>=0;</div>
+<div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160;        <a class="code" href="dichiarazioni_8cc.html#a6697be1fef616e47330f96de1f63d318">partita</a>.<a class="code" href="structGioco.html#a94e48ce295d8e38cb66b69bb29074dab" title="Vite del giocatore.">vite</a>=3;</div>
+<div class="line"><a name="l00028"></a><span class="lineno">   28</span>&#160;        <a class="code" href="dichiarazioni_8cc.html#a6697be1fef616e47330f96de1f63d318">partita</a>.<a class="code" href="structGioco.html#a881d92c7e72e59ce5f36d55991ab2ca5" title="Livello del gioco.">livello</a>=1;</div>
+<div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160;        <a class="code" href="dichiarazioni_8cc.html#a6697be1fef616e47330f96de1f63d318">partita</a>.<a class="code" href="structGioco.html#ac99479fcf98c9adf076e8454335ebcf7" title="Difficoltà del livello.">difficolta</a>=500;</div>
+<div class="line"><a name="l00030"></a><span class="lineno">   30</span>&#160;        <a class="code" href="dichiarazioni_8cc.html#a6697be1fef616e47330f96de1f63d318">partita</a>.<a class="code" href="structGioco.html#a87ca57423db01b462618de0b267a68c6" title="Numero di nemici per livello.">n_nemici</a>=10;</div>
+<div class="line"><a name="l00031"></a><span class="lineno">   31</span>&#160;        <a class="code" href="dichiarazioni_8cc.html#a6697be1fef616e47330f96de1f63d318">partita</a>.<a class="code" href="structGioco.html#a1fb605a9a2ef76a573685ffe0ec6262a" title="Velocità della partita, serve per aumentare la velocità dei nemici man mano che i livelli aumentano...">velocita</a>=0;</div>
+<div class="line"><a name="l00032"></a><span class="lineno">   32</span>&#160;}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a class="anchor" id="abb6adb68d98ef4294ff4d1d818456633"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void Nuovo_livello </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Cambio di livello. </p>
+<p>Ogni qualvolta si passi di livello va utilizzata tale funzione. Serve per aumentare il numero di livello, aggiornare la difficoltà e la velocità. Ad ogni livello superato il giocatore riceve anche una vita bonus. </p>
+<div class="fragment"><div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160;{               </div>
+<div class="line"><a name="l00036"></a><span class="lineno">   36</span>&#160;        <span class="keywordflow">if</span>(<a class="code" href="dichiarazioni_8cc.html#a6697be1fef616e47330f96de1f63d318">partita</a>.<a class="code" href="structGioco.html#a94e48ce295d8e38cb66b69bb29074dab" title="Vite del giocatore.">vite</a>&lt;<a class="code" href="objects_8h.html#a3782e4eb3378ce3c03cdadb0c24a732a" title="Numero di vite.">NUM_VITE</a>)</div>
+<div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160;                <a class="code" href="dichiarazioni_8cc.html#a6697be1fef616e47330f96de1f63d318">partita</a>.<a class="code" href="structGioco.html#a94e48ce295d8e38cb66b69bb29074dab" title="Vite del giocatore.">vite</a>++;</div>
+<div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;        <a class="code" href="dichiarazioni_8cc.html#a6697be1fef616e47330f96de1f63d318">partita</a>.<a class="code" href="structGioco.html#a881d92c7e72e59ce5f36d55991ab2ca5" title="Livello del gioco.">livello</a>++;</div>
+<div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160;        <a class="code" href="dichiarazioni_8cc.html#a6697be1fef616e47330f96de1f63d318">partita</a>.<a class="code" href="structGioco.html#ac99479fcf98c9adf076e8454335ebcf7" title="Difficoltà del livello.">difficolta</a>-=15;</div>
+<div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160;        <a class="code" href="dichiarazioni_8cc.html#a6697be1fef616e47330f96de1f63d318">partita</a>.<a class="code" href="structGioco.html#a87ca57423db01b462618de0b267a68c6" title="Numero di nemici per livello.">n_nemici</a>=10;</div>
+<div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;        <a class="code" href="dichiarazioni_8cc.html#a6697be1fef616e47330f96de1f63d318">partita</a>.<a class="code" href="structGioco.html#a1fb605a9a2ef76a573685ffe0ec6262a" title="Velocità della partita, serve per aumentare la velocità dei nemici man mano che i livelli aumentano...">velocita</a>+=0.5;</div>
+<div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a class="anchor" id="a36825fdb511e2f46ba432137a33bf55f"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void Spara_colpo </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="structColpo.html">Colpo</a>&#160;</td>
+          <td class="paramname"><em>colpi</em>[], </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="structGiocatore.html">Giocatore</a> &amp;&#160;</td>
+          <td class="paramname"><em>tom</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>Row</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">ALLEGRO_SAMPLE *&#160;</td>
+          <td class="paramname"><em>shot</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Sparo del colpo. </p>
+<p>Funzione che permette al giocatore di sparare un <a class="el" href="structColpo.html" title="Struttura del proiettile.">Colpo</a>. </p>
+<dl class="params"><dt>Parametri</dt><dd>
+  <table class="params">
+    <tr><td class="paramdir">[in]</td><td class="paramname">colpi</td><td>Colpi sparati </td></tr>
+    <tr><td class="paramdir">[in]</td><td class="paramname">tom</td><td>Gicatore che può sparare il colpo </td></tr>
+    <tr><td class="paramdir">[in]</td><td class="paramname">shot</td><td>Suono associato allo sparo di un colpo </td></tr>
+  </table>
+  </dd>
+</dl>
+<div class="fragment"><div class="line"><a name="l00232"></a><span class="lineno">  232</span>&#160;{</div>
+<div class="line"><a name="l00233"></a><span class="lineno">  233</span>&#160;        <span class="keywordflow">for</span>( <span class="keywordtype">int</span> i = 0; i &lt; <a class="code" href="objects_8h.html#a88176b74d68d2564c625ad72b0ca3c29" title="Numero di colpi del giocatore.">NUM_COLPI</a>; i++)</div>
+<div class="line"><a name="l00234"></a><span class="lineno">  234</span>&#160;        {</div>
+<div class="line"><a name="l00235"></a><span class="lineno">  235</span>&#160;                <span class="keywordflow">if</span>(!colpi[i].vite)</div>
+<div class="line"><a name="l00236"></a><span class="lineno">  236</span>&#160;                {       </div>
+<div class="line"><a name="l00237"></a><span class="lineno">  237</span>&#160;                        al_play_sample(<a class="code" href="dichiarazioni_8cc.html#ab22ce8a8f989211c6059e8b685fa78d0" title="Suono del lancio del proiettile.">shot</a>, 1.5, 0, 1.5, ALLEGRO_PLAYMODE_ONCE, NULL);</div>
+<div class="line"><a name="l00238"></a><span class="lineno">  238</span>&#160;</div>
+<div class="line"><a name="l00239"></a><span class="lineno">  239</span>&#160;                        tom.<a class="code" href="structGiocatore.html#ab3167a19db79c4c1f3f5f07822060506" title="              Booleano che indica se il giocatore sta  attaccando o meno">attacco</a>=<span class="keyword">true</span>;</div>
+<div class="line"><a name="l00240"></a><span class="lineno">  240</span>&#160;                        tom.<a class="code" href="structGiocatore.html#aad5a88a127a609e034f2a56486b83202" title="Numero della frame corrente.">corFrame</a>=0;</div>
+<div class="line"><a name="l00241"></a><span class="lineno">  241</span>&#160;                        <a class="code" href="dichiarazioni_8cc.html#a4cb231eee96ecab7c0f3040153da3cc2" title="Oggetto partita, tipo Gioco.">stat</a>.<a class="code" href="structStatistiche.html#a2ac8f3fe4f3fab96c7b609ccd8dfe127" title="Colpi totalizzati dal giocatore.">colpi</a>++;</div>
+<div class="line"><a name="l00242"></a><span class="lineno">  242</span>&#160;                        colpi[i].<a class="code" href="structColpo.html#a48413e32744aa1c695cf8101ed719be5" title="Posizione x del proiettile.">x</a> = tom.<a class="code" href="structGiocatore.html#ae3cd96fd365828a2aa0056db133db15a" title="Posizione x del giocatore.">x</a> + 17;</div>
+<div class="line"><a name="l00243"></a><span class="lineno">  243</span>&#160;                        colpi[i].<a class="code" href="structColpo.html#a489257417f42308e9de0591f9524a491" title="Posizione y del proiettile.">y</a> = tom.<a class="code" href="structGiocatore.html#a558c626ab68876f3d7b7c0243bbb8532" title="Posizione y del giocatore.">y</a>;</div>
+<div class="line"><a name="l00244"></a><span class="lineno">  244</span>&#160;                        colpi[i].<a class="code" href="structColpo.html#a41fd0ae1b3987c3fcecb1027caae2591" title="Vita del proiettile.">vite</a> = 1;</div>
+<div class="line"><a name="l00245"></a><span class="lineno">  245</span>&#160;                        colpi[i].<a class="code" href="structColpo.html#aa931d613ad709fbd7691c95b5be10080" title="Altezza della frame del proiettile.">frameAlt</a> = 32;</div>
+<div class="line"><a name="l00246"></a><span class="lineno">  246</span>&#160;                        colpi[i].<a class="code" href="structColpo.html#acdbfb614ae8582d6e6359f56700dcc7f" title="Lunghezza della frame del proiettile.">frameLun</a> = 32;</div>
+<div class="line"><a name="l00247"></a><span class="lineno">  247</span>&#160;                        colpi[i].<a class="code" href="structColpo.html#ac4bae0a0e3130f050611bf0af20b6dd3" title="Numero della riga di animazione.">animationRow</a>=2;</div>
+<div class="line"><a name="l00248"></a><span class="lineno">  248</span>&#160;                        <span class="keywordflow">break</span>;</div>
+<div class="line"><a name="l00249"></a><span class="lineno">  249</span>&#160;                }</div>
+<div class="line"><a name="l00250"></a><span class="lineno">  250</span>&#160;        }</div>
+<div class="line"><a name="l00251"></a><span class="lineno">  251</span>&#160;}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a class="anchor" id="ace1020dc5af01046c683f12749d3d674"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void Spawn_Nemici </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="structNemici.html">Nemici</a>&#160;</td>
+          <td class="paramname"><em>nemici</em>[]</td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Generazione delle posizioni iniziale casuali dei nemici. </p>
+<p>La funzione assegna ai <a class="el" href="structNemici.html" title="Struttura del nemico.">Nemici</a> presenti nel livello la posizione x uguale per tutti, ovvero alla fine dello schermo, mentre la posizione y è generata in modo random.</p>
+<p>Tali posizioni sono generate solo se i nemici sono vivi,e solo per i nemici presenti nel tale livello. </p>
+<dl class="params"><dt>Parametri</dt><dd>
+  <table class="params">
+    <tr><td class="paramdir">[in]</td><td class="paramname">nemici</td><td><a class="el" href="structNemici.html" title="Struttura del nemico.">Nemici</a> di cui generare la posizione </td></tr>
+  </table>
+  </dd>
+</dl>
+<div class="fragment"><div class="line"><a name="l00155"></a><span class="lineno">  155</span>&#160;{</div>
+<div class="line"><a name="l00156"></a><span class="lineno">  156</span>&#160;        <span class="keywordflow">for</span>(<span class="keywordtype">int</span> i = (<a class="code" href="dichiarazioni_8cc.html#a6697be1fef616e47330f96de1f63d318">partita</a>.<a class="code" href="structGioco.html#a881d92c7e72e59ce5f36d55991ab2ca5" title="Livello del gioco.">livello</a>-1); i &lt; (<a class="code" href="objects_8h.html#a7c695132734ed573880bd2289bd654a4" title="Numero di nemici.">NUM_NEMICI</a>/2 -2 +<a class="code" href="dichiarazioni_8cc.html#a6697be1fef616e47330f96de1f63d318">partita</a>.<a class="code" href="structGioco.html#a881d92c7e72e59ce5f36d55991ab2ca5" title="Livello del gioco.">livello</a>); i++)</div>
+<div class="line"><a name="l00157"></a><span class="lineno">  157</span>&#160;        {</div>
+<div class="line"><a name="l00158"></a><span class="lineno">  158</span>&#160;                <span class="keywordflow">if</span>(!nemici[i].vite)</div>
+<div class="line"><a name="l00159"></a><span class="lineno">  159</span>&#160;                { </div>
+<div class="line"><a name="l00160"></a><span class="lineno">  160</span>&#160;                        <span class="keywordflow">if</span>((rand() % <a class="code" href="dichiarazioni_8cc.html#a6697be1fef616e47330f96de1f63d318">partita</a>.<a class="code" href="structGioco.html#ac99479fcf98c9adf076e8454335ebcf7" title="Difficoltà del livello.">difficolta</a> )== 0)</div>
+<div class="line"><a name="l00161"></a><span class="lineno">  161</span>&#160;                        {       <span class="keywordflow">if</span>(i&lt;<a class="code" href="objects_8h.html#a7c695132734ed573880bd2289bd654a4" title="Numero di nemici.">NUM_NEMICI</a>/2-1)</div>
+<div class="line"><a name="l00162"></a><span class="lineno">  162</span>&#160;                                nemici[i].<a class="code" href="structNemici.html#afae98b972651ce9fe3b6b0f266696d83">vite</a> = 1; </div>
+<div class="line"><a name="l00163"></a><span class="lineno">  163</span>&#160;                                <span class="keywordflow">else</span>    nemici[i].<a class="code" href="structNemici.html#afae98b972651ce9fe3b6b0f266696d83">vite</a> = 2;</div>
+<div class="line"><a name="l00164"></a><span class="lineno">  164</span>&#160;                                nemici[i].<a class="code" href="structNemici.html#abc8df94b28bade640027ed5020731e3d" title="Posizione x del nemico.">x</a> = <a class="code" href="objects_8h.html#af5ff0cda81efb37e7ade6fbef58c1b47" title="Lunghezza del display.">LARGHEZZA</a>; </div>
+<div class="line"><a name="l00165"></a><span class="lineno">  165</span>&#160;                                nemici[i].<a class="code" href="structNemici.html#a7a9dd888946dab6caf542108751bb632" title="Posizione y del nemico.">y</a> = 30 + rand() % (<a class="code" href="objects_8h.html#ae378d72a75a0289ad47e89cc4e47eba9" title="Altezza del display.">ALTEZZA</a>- 60);</div>
+<div class="line"><a name="l00166"></a><span class="lineno">  166</span>&#160;</div>
+<div class="line"><a name="l00167"></a><span class="lineno">  167</span>&#160;                                <span class="keywordflow">break</span>;</div>
+<div class="line"><a name="l00168"></a><span class="lineno">  168</span>&#160;                        }</div>
+<div class="line"><a name="l00169"></a><span class="lineno">  169</span>&#160;                }</div>
+<div class="line"><a name="l00170"></a><span class="lineno">  170</span>&#160;        }</div>
+<div class="line"><a name="l00171"></a><span class="lineno">  171</span>&#160;}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a class="anchor" id="a7f417c7f9530aa993cffec94295c098c"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void Sposta_giocatore </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="structGiocatore.html">Giocatore</a> &amp;&#160;</td>
+          <td class="paramname"><em>tom</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Spostamento del giocatore. </p>
+<p>Funzione che permette al <a class="el" href="structGiocatore.html" title="Struttura del giocatore.">Giocatore</a> di spostarsi sull schermo, gestendo oppurtamente le sue animazioni.</p>
+<p>I tasti legati al movimento sono <a class="el" href="objects_8h.html#a917cb2ad6b731b390f8c57aa48656211a7911229e7fd613f96aeaf9413c8251bc">SU</a>, <a class="el" href="objects_8h.html#a917cb2ad6b731b390f8c57aa48656211a5387bb29e78bfce7c11164018e81ab7b">GIU</a>, <a class="el" href="objects_8h.html#a917cb2ad6b731b390f8c57aa48656211a7c7d65423f4380773e1770f6955eecc1">DESTRA</a>, <a class="el" href="objects_8h.html#a917cb2ad6b731b390f8c57aa48656211ad2dde39551c1898dc393ed164cff9d42">SINISTRA</a>. </p>
+<dl class="params"><dt>Parametri</dt><dd>
+  <table class="params">
+    <tr><td class="paramdir">[in]</td><td class="paramname">tom</td><td><a class="el" href="structGiocatore.html" title="Struttura del giocatore.">Giocatore</a> da spostare </td></tr>
+  </table>
+  </dd>
+</dl>
+<div class="fragment"><div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160;{</div>
+<div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160;        tom.<a class="code" href="structGiocatore.html#a7eaa8e72406929985c28a718331f9c7b" title="Numero della riga di animazione.">animationRow</a> = 6;</div>
+<div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160;</div>
+<div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160;        <span class="keywordflow">if</span>(<a class="code" href="dichiarazioni_8cc.html#a00bbc162675fac5d733d54a62ee216e1" title="Punteggi del gioco di tipo Punteggi.">keys</a>[<a class="code" href="objects_8h.html#a917cb2ad6b731b390f8c57aa48656211a7911229e7fd613f96aeaf9413c8251bc">SU</a>])</div>
+<div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;        {       tom.<a class="code" href="structGiocatore.html#a558c626ab68876f3d7b7c0243bbb8532" title="Posizione y del giocatore.">y</a> -= tom.<a class="code" href="structGiocatore.html#a3fd3fc0b5693bf626f7aa1d8c4b7b5f3" title="Velocità del giocatore.">vel</a>;</div>
+<div class="line"><a name="l00050"></a><span class="lineno">   50</span>&#160;                <span class="keywordflow">if</span>(tom.<a class="code" href="structGiocatore.html#a558c626ab68876f3d7b7c0243bbb8532" title="Posizione y del giocatore.">y</a> &lt; 0)</div>
+<div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160;                        tom.<a class="code" href="structGiocatore.html#a558c626ab68876f3d7b7c0243bbb8532" title="Posizione y del giocatore.">y</a> = 0;      </div>
+<div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160;        }       </div>
+<div class="line"><a name="l00053"></a><span class="lineno">   53</span>&#160;        <span class="keywordflow">if</span>(<a class="code" href="dichiarazioni_8cc.html#a00bbc162675fac5d733d54a62ee216e1" title="Punteggi del gioco di tipo Punteggi.">keys</a>[<a class="code" href="objects_8h.html#a917cb2ad6b731b390f8c57aa48656211a5387bb29e78bfce7c11164018e81ab7b">GIU</a>])</div>
+<div class="line"><a name="l00054"></a><span class="lineno">   54</span>&#160;        {       tom.<a class="code" href="structGiocatore.html#a558c626ab68876f3d7b7c0243bbb8532" title="Posizione y del giocatore.">y</a> += tom.<a class="code" href="structGiocatore.html#a3fd3fc0b5693bf626f7aa1d8c4b7b5f3" title="Velocità del giocatore.">vel</a>;</div>
+<div class="line"><a name="l00055"></a><span class="lineno">   55</span>&#160;                <span class="keywordflow">if</span>(tom.<a class="code" href="structGiocatore.html#a558c626ab68876f3d7b7c0243bbb8532" title="Posizione y del giocatore.">y</a> &gt; <a class="code" href="objects_8h.html#ae378d72a75a0289ad47e89cc4e47eba9" title="Altezza del display.">ALTEZZA</a>)</div>
+<div class="line"><a name="l00056"></a><span class="lineno">   56</span>&#160;                        tom.<a class="code" href="structGiocatore.html#a558c626ab68876f3d7b7c0243bbb8532" title="Posizione y del giocatore.">y</a> = <a class="code" href="objects_8h.html#ae378d72a75a0289ad47e89cc4e47eba9" title="Altezza del display.">ALTEZZA</a>;</div>
+<div class="line"><a name="l00057"></a><span class="lineno">   57</span>&#160;        }</div>
+<div class="line"><a name="l00058"></a><span class="lineno">   58</span>&#160;        <span class="keywordflow">if</span>(<a class="code" href="dichiarazioni_8cc.html#a00bbc162675fac5d733d54a62ee216e1" title="Punteggi del gioco di tipo Punteggi.">keys</a>[<a class="code" href="objects_8h.html#a917cb2ad6b731b390f8c57aa48656211ad2dde39551c1898dc393ed164cff9d42">SINISTRA</a>])</div>
+<div class="line"><a name="l00059"></a><span class="lineno">   59</span>&#160;        {       tom.<a class="code" href="structGiocatore.html#ae3cd96fd365828a2aa0056db133db15a" title="Posizione x del giocatore.">x</a> -= tom.<a class="code" href="structGiocatore.html#a3fd3fc0b5693bf626f7aa1d8c4b7b5f3" title="Velocità del giocatore.">vel</a>;</div>
+<div class="line"><a name="l00060"></a><span class="lineno">   60</span>&#160;                <span class="keywordflow">if</span>(tom.<a class="code" href="structGiocatore.html#ae3cd96fd365828a2aa0056db133db15a" title="Posizione x del giocatore.">x</a> &lt; 0)</div>
+<div class="line"><a name="l00061"></a><span class="lineno">   61</span>&#160;                        tom.<a class="code" href="structGiocatore.html#ae3cd96fd365828a2aa0056db133db15a" title="Posizione x del giocatore.">x</a> = 0;      </div>
+<div class="line"><a name="l00062"></a><span class="lineno">   62</span>&#160;        }       </div>
+<div class="line"><a name="l00063"></a><span class="lineno">   63</span>&#160;        <span class="keywordflow">if</span>(<a class="code" href="dichiarazioni_8cc.html#a00bbc162675fac5d733d54a62ee216e1" title="Punteggi del gioco di tipo Punteggi.">keys</a>[<a class="code" href="objects_8h.html#a917cb2ad6b731b390f8c57aa48656211a7c7d65423f4380773e1770f6955eecc1">DESTRA</a>])</div>
+<div class="line"><a name="l00064"></a><span class="lineno">   64</span>&#160;        {       tom.<a class="code" href="structGiocatore.html#ae3cd96fd365828a2aa0056db133db15a" title="Posizione x del giocatore.">x</a> += tom.<a class="code" href="structGiocatore.html#a3fd3fc0b5693bf626f7aa1d8c4b7b5f3" title="Velocità del giocatore.">vel</a>;</div>
+<div class="line"><a name="l00065"></a><span class="lineno">   65</span>&#160;                <span class="keywordflow">if</span>(tom.<a class="code" href="structGiocatore.html#ae3cd96fd365828a2aa0056db133db15a" title="Posizione x del giocatore.">x</a> &gt; 450)</div>
+<div class="line"><a name="l00066"></a><span class="lineno">   66</span>&#160;                        tom.<a class="code" href="structGiocatore.html#ae3cd96fd365828a2aa0056db133db15a" title="Posizione x del giocatore.">x</a> = 450;</div>
+<div class="line"><a name="l00067"></a><span class="lineno">   67</span>&#160;        }               </div>
+<div class="line"><a name="l00068"></a><span class="lineno">   68</span>&#160;}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a class="anchor" id="a297d198b0f91390b755038091ea18860"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void UpdateBackground </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="structSfondo.html">Sfondo</a> &amp;&#160;</td>
+          <td class="paramname"><em>s</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Aggiornamento dello sfondo. </p>
+<p>La funzione aggiorna lo <a class="el" href="structSfondo.html" title="Struttura dello sfondo.">Sfondo</a>, ovvero gestisce la sua animazione. </p>
+<dl class="params"><dt>Parametri</dt><dd>
+  <table class="params">
+    <tr><td class="paramdir">[in]</td><td class="paramname">s</td><td><a class="el" href="structSfondo.html" title="Struttura dello sfondo.">Sfondo</a>. </td></tr>
+  </table>
+  </dd>
+</dl>
+<div class="fragment"><div class="line"><a name="l00339"></a><span class="lineno">  339</span>&#160;{</div>
+<div class="line"><a name="l00340"></a><span class="lineno">  340</span>&#160;        s.<a class="code" href="structSfondo.html#ad67a51ec529a9ab1bae350d236c8c317" title="Posizione x dello sfondo.">x</a> += s.<a class="code" href="structSfondo.html#ad040a5082212baac810a74c653148d9e" title="Velocità dello sfondo su x.">velX</a> * s.<a class="code" href="structSfondo.html#acaee3bc03f8313e2b8bac00c37eaf10e" title="Direzione dello sfondo su x.">dirX</a>;</div>
+<div class="line"><a name="l00341"></a><span class="lineno">  341</span>&#160;        <span class="keywordflow">if</span>(s.<a class="code" href="structSfondo.html#ad67a51ec529a9ab1bae350d236c8c317" title="Posizione x dello sfondo.">x</a> + s.<a class="code" href="structSfondo.html#a770ee9179a51f7c0c153495f04998cf0" title="Altezza dello sfondo.">lunghezza</a> &lt;= 0)</div>
+<div class="line"><a name="l00342"></a><span class="lineno">  342</span>&#160;                s.<a class="code" href="structSfondo.html#ad67a51ec529a9ab1bae350d236c8c317" title="Posizione x dello sfondo.">x</a> = 0;</div>
+<div class="line"><a name="l00343"></a><span class="lineno">  343</span>&#160;}</div>
+</div><!-- fragment -->
+</div>
+</div>
+</div><!-- contents -->
+<!-- start footer part -->
+<hr class="footer"/><address class="footer"><small>
+Generato Lun 10 Giu 2013 16:16:52 per Angry Tom da &#160;<a href="http://www.doxygen.org/index.html">
+<img class="footer" src="doxygen.png" alt="doxygen"/>
+</a> 1.8.3.1
+</small></address>
+</body>
+</html>

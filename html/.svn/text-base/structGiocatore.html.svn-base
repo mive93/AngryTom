@@ -1,0 +1,409 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9"/>
+<meta name="generator" content="Doxygen 1.8.3.1"/>
+<title>Angry Tom: Riferimenti per la struct Giocatore</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="search/search.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="search/search.js"></script>
+<script type="text/javascript">
+  $(document).ready(function() { searchBox.OnSelectItem(0); });
+</script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr style="height: 56px;">
+  <td style="padding-left: 0.5em;">
+   <div id="projectname">Angry Tom
+   </div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- Generato da Doxygen 1.8.3.1 -->
+<script type="text/javascript">
+var searchBox = new SearchBox("searchBox", "search",false,'Cerca');
+</script>
+  <div id="navrow1" class="tabs">
+    <ul class="tablist">
+      <li><a href="index.html"><span>Pagina&#160;Principale</span></a></li>
+      <li class="current"><a href="annotated.html"><span>Classi</span></a></li>
+      <li><a href="files.html"><span>File</span></a></li>
+      <li>
+        <div id="MSearchBox" class="MSearchBoxInactive">
+        <span class="left">
+          <img id="MSearchSelect" src="search/mag_sel.png"
+               onmouseover="return searchBox.OnSearchSelectShow()"
+               onmouseout="return searchBox.OnSearchSelectHide()"
+               alt=""/>
+          <input type="text" id="MSearchField" value="Cerca" accesskey="S"
+               onfocus="searchBox.OnSearchFieldFocus(true)" 
+               onblur="searchBox.OnSearchFieldFocus(false)" 
+               onkeyup="searchBox.OnSearchFieldChange(event)"/>
+          </span><span class="right">
+            <a id="MSearchClose" href="javascript:searchBox.CloseResultsWindow()"><img id="MSearchCloseImg" border="0" src="search/close.png" alt=""/></a>
+          </span>
+        </div>
+      </li>
+    </ul>
+  </div>
+  <div id="navrow2" class="tabs2">
+    <ul class="tablist">
+      <li><a href="annotated.html"><span>Elenco&#160;dei&#160;tipi&#160;composti</span></a></li>
+      <li><a href="classes.html"><span>Indice&#160;dei&#160;tipi&#160;composti</span></a></li>
+      <li><a href="functions.html"><span>Membri&#160;dei&#160;composti</span></a></li>
+    </ul>
+  </div>
+<!-- window showing the filter options -->
+<div id="MSearchSelectWindow"
+     onmouseover="return searchBox.OnSearchSelectShow()"
+     onmouseout="return searchBox.OnSearchSelectHide()"
+     onkeydown="return searchBox.OnSearchSelectKey(event)">
+<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>Tutto</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classi</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>File</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Funzioni</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Variabili</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Ridefinizioni di tipo (typedef)</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Tipi enumerati (enum)</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(7)"><span class="SelectionMark">&#160;</span>Valori del tipo enumerato</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(8)"><span class="SelectionMark">&#160;</span>Definizioni</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(9)"><span class="SelectionMark">&#160;</span>Pagine</a></div>
+
+<!-- iframe showing the search results (closed by default) -->
+<div id="MSearchResultsWindow">
+<iframe src="javascript:void(0)" frameborder="0" 
+        name="MSearchResults" id="MSearchResults">
+</iframe>
+</div>
+
+</div><!-- top -->
+<div class="header">
+  <div class="summary">
+<a href="#pub-attribs">Attributi pubblici</a> &#124;
+<a href="structGiocatore-members.html">Elenco di tutti i membri</a>  </div>
+  <div class="headertitle">
+<div class="title">Riferimenti per la struct Giocatore</div>  </div>
+</div><!--header-->
+<div class="contents">
+
+<p>Struttura del giocatore.  
+ <a href="structGiocatore.html#details">Continua...</a></p>
+
+<p><code>#include &lt;<a class="el" href="objects_8h_source.html">objects.h</a>&gt;</code></p>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
+Attributi pubblici</h2></td></tr>
+<tr class="memitem:ae3cd96fd365828a2aa0056db133db15a"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structGiocatore.html#ae3cd96fd365828a2aa0056db133db15a">x</a></td></tr>
+<tr class="memdesc:ae3cd96fd365828a2aa0056db133db15a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Posizione x del giocatore.  <a href="#ae3cd96fd365828a2aa0056db133db15a">Continua...</a><br/></td></tr>
+<tr class="separator:ae3cd96fd365828a2aa0056db133db15a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a558c626ab68876f3d7b7c0243bbb8532"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structGiocatore.html#a558c626ab68876f3d7b7c0243bbb8532">y</a></td></tr>
+<tr class="memdesc:a558c626ab68876f3d7b7c0243bbb8532"><td class="mdescLeft">&#160;</td><td class="mdescRight">Posizione y del giocatore.  <a href="#a558c626ab68876f3d7b7c0243bbb8532">Continua...</a><br/></td></tr>
+<tr class="separator:a558c626ab68876f3d7b7c0243bbb8532"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3fd3fc0b5693bf626f7aa1d8c4b7b5f3"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structGiocatore.html#a3fd3fc0b5693bf626f7aa1d8c4b7b5f3">vel</a></td></tr>
+<tr class="memdesc:a3fd3fc0b5693bf626f7aa1d8c4b7b5f3"><td class="mdescLeft">&#160;</td><td class="mdescRight">Velocità del giocatore.  <a href="#a3fd3fc0b5693bf626f7aa1d8c4b7b5f3">Continua...</a><br/></td></tr>
+<tr class="separator:a3fd3fc0b5693bf626f7aa1d8c4b7b5f3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aebfbf976aae920230dbe184a3824ae51"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structGiocatore.html#aebfbf976aae920230dbe184a3824ae51">bordox</a></td></tr>
+<tr class="memdesc:aebfbf976aae920230dbe184a3824ae51"><td class="mdescLeft">&#160;</td><td class="mdescRight">Bordo lungo x, utile per le collisioni.  <a href="#aebfbf976aae920230dbe184a3824ae51">Continua...</a><br/></td></tr>
+<tr class="separator:aebfbf976aae920230dbe184a3824ae51"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4cda0f651f73b2536a759f669ee297ec"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structGiocatore.html#a4cda0f651f73b2536a759f669ee297ec">bordoy</a></td></tr>
+<tr class="memdesc:a4cda0f651f73b2536a759f669ee297ec"><td class="mdescLeft">&#160;</td><td class="mdescRight">Bordo lungo y, utile per le collisioni.  <a href="#a4cda0f651f73b2536a759f669ee297ec">Continua...</a><br/></td></tr>
+<tr class="separator:a4cda0f651f73b2536a759f669ee297ec"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab06b7287246755ee676f7c1b7854eff9"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structGiocatore.html#ab06b7287246755ee676f7c1b7854eff9">maxFrame</a></td></tr>
+<tr class="memdesc:ab06b7287246755ee676f7c1b7854eff9"><td class="mdescLeft">&#160;</td><td class="mdescRight">Numero massimo di frame del giocatore.  <a href="#ab06b7287246755ee676f7c1b7854eff9">Continua...</a><br/></td></tr>
+<tr class="separator:ab06b7287246755ee676f7c1b7854eff9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aad5a88a127a609e034f2a56486b83202"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structGiocatore.html#aad5a88a127a609e034f2a56486b83202">corFrame</a></td></tr>
+<tr class="memdesc:aad5a88a127a609e034f2a56486b83202"><td class="mdescLeft">&#160;</td><td class="mdescRight">Numero della frame corrente.  <a href="#aad5a88a127a609e034f2a56486b83202">Continua...</a><br/></td></tr>
+<tr class="separator:aad5a88a127a609e034f2a56486b83202"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7bb622da15ad7b508fc93d8d5047a95d"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structGiocatore.html#a7bb622da15ad7b508fc93d8d5047a95d">frameCont</a></td></tr>
+<tr class="memdesc:a7bb622da15ad7b508fc93d8d5047a95d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Contatore per le frame.  <a href="#a7bb622da15ad7b508fc93d8d5047a95d">Continua...</a><br/></td></tr>
+<tr class="separator:a7bb622da15ad7b508fc93d8d5047a95d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6d03f33f091d51c0ac21d8c4443e24f6"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structGiocatore.html#a6d03f33f091d51c0ac21d8c4443e24f6">frameRit</a></td></tr>
+<tr class="memdesc:a6d03f33f091d51c0ac21d8c4443e24f6"><td class="mdescLeft">&#160;</td><td class="mdescRight">Contatore per il ritardo delle frame.  <a href="#a6d03f33f091d51c0ac21d8c4443e24f6">Continua...</a><br/></td></tr>
+<tr class="separator:a6d03f33f091d51c0ac21d8c4443e24f6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a78a643da27e5086f673446d6edf8576a"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structGiocatore.html#a78a643da27e5086f673446d6edf8576a">frameAlt</a></td></tr>
+<tr class="memdesc:a78a643da27e5086f673446d6edf8576a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Altezza della frame del giocatore.  <a href="#a78a643da27e5086f673446d6edf8576a">Continua...</a><br/></td></tr>
+<tr class="separator:a78a643da27e5086f673446d6edf8576a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac7ee7848fd75c8b022e806f463ca6996"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structGiocatore.html#ac7ee7848fd75c8b022e806f463ca6996">frameLun</a></td></tr>
+<tr class="memdesc:ac7ee7848fd75c8b022e806f463ca6996"><td class="mdescLeft">&#160;</td><td class="mdescRight">Lunghezza della frame del giocatore.  <a href="#ac7ee7848fd75c8b022e806f463ca6996">Continua...</a><br/></td></tr>
+<tr class="separator:ac7ee7848fd75c8b022e806f463ca6996"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a833391b1233f80b46227020558b9a272"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structGiocatore.html#a833391b1233f80b46227020558b9a272">animationCol</a></td></tr>
+<tr class="memdesc:a833391b1233f80b46227020558b9a272"><td class="mdescLeft">&#160;</td><td class="mdescRight">Numero della colonna dell'animazione.  <a href="#a833391b1233f80b46227020558b9a272">Continua...</a><br/></td></tr>
+<tr class="separator:a833391b1233f80b46227020558b9a272"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a29e149febc37366293906fe85bea57ab"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structGiocatore.html#a29e149febc37366293906fe85bea57ab">animationDir</a></td></tr>
+<tr class="memdesc:a29e149febc37366293906fe85bea57ab"><td class="mdescLeft">&#160;</td><td class="mdescRight"><pre class="fragment">      Direzione dell'animazione 
+</pre><p> (1: avanti; -1:indietro)  <a href="#a29e149febc37366293906fe85bea57ab">Continua...</a><br/></td></tr>
+<tr class="separator:a29e149febc37366293906fe85bea57ab"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab3167a19db79c4c1f3f5f07822060506"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structGiocatore.html#ab3167a19db79c4c1f3f5f07822060506">attacco</a></td></tr>
+<tr class="memdesc:ab3167a19db79c4c1f3f5f07822060506"><td class="mdescLeft">&#160;</td><td class="mdescRight"><pre class="fragment">              Booleano che indica se il giocatore sta
+</pre><p> attaccando o meno  <a href="#ab3167a19db79c4c1f3f5f07822060506">Continua...</a><br/></td></tr>
+<tr class="separator:ab3167a19db79c4c1f3f5f07822060506"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a648e172deccd5b54429e0388468dbfeb"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structGiocatore.html#a648e172deccd5b54429e0388468dbfeb">colpito</a></td></tr>
+<tr class="memdesc:a648e172deccd5b54429e0388468dbfeb"><td class="mdescLeft">&#160;</td><td class="mdescRight"><pre class="fragment">              Booleano che indica se il giocatore è
+</pre><p> stato colpito o meno  <a href="#a648e172deccd5b54429e0388468dbfeb">Continua...</a><br/></td></tr>
+<tr class="separator:a648e172deccd5b54429e0388468dbfeb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7eaa8e72406929985c28a718331f9c7b"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structGiocatore.html#a7eaa8e72406929985c28a718331f9c7b">animationRow</a></td></tr>
+<tr class="memdesc:a7eaa8e72406929985c28a718331f9c7b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Numero della riga di animazione.  <a href="#a7eaa8e72406929985c28a718331f9c7b">Continua...</a><br/></td></tr>
+<tr class="separator:a7eaa8e72406929985c28a718331f9c7b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4770a834f4acd96d062d6afca226b925"><td class="memItemLeft" align="right" valign="top">ALLEGRO_BITMAP *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structGiocatore.html#a4770a834f4acd96d062d6afca226b925">immagine</a></td></tr>
+<tr class="memdesc:a4770a834f4acd96d062d6afca226b925"><td class="mdescLeft">&#160;</td><td class="mdescRight">Immagine associata al giocatore.  <a href="#a4770a834f4acd96d062d6afca226b925">Continua...</a><br/></td></tr>
+<tr class="separator:a4770a834f4acd96d062d6afca226b925"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<a name="details" id="details"></a><h2 class="groupheader">Descrizione dettagliata</h2>
+<div class="textblock"><p>Struttura del giocatore. </p>
+<p>Il giocatore ha bisogno di diversi campi per gestire il movimento, l'animazione del suo sprite, e le interazioni con gli altri oggetti del gioco. </p>
+</div><h2 class="groupheader">Documentazione dei membri dato</h2>
+<a class="anchor" id="a833391b1233f80b46227020558b9a272"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int Giocatore::animationCol</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Numero della colonna dell'animazione. </p>
+
+</div>
+</div>
+<a class="anchor" id="a29e149febc37366293906fe85bea57ab"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int Giocatore::animationDir</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p><pre class="fragment">      Direzione dell'animazione 
+</pre><p> (1: avanti; -1:indietro) </p>
+
+</div>
+</div>
+<a class="anchor" id="a7eaa8e72406929985c28a718331f9c7b"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int Giocatore::animationRow</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Numero della riga di animazione. </p>
+
+</div>
+</div>
+<a class="anchor" id="ab3167a19db79c4c1f3f5f07822060506"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool Giocatore::attacco</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p><pre class="fragment">              Booleano che indica se il giocatore sta
+</pre><p> attaccando o meno </p>
+
+</div>
+</div>
+<a class="anchor" id="aebfbf976aae920230dbe184a3824ae51"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int Giocatore::bordox</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Bordo lungo x, utile per le collisioni. </p>
+
+</div>
+</div>
+<a class="anchor" id="a4cda0f651f73b2536a759f669ee297ec"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int Giocatore::bordoy</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Bordo lungo y, utile per le collisioni. </p>
+
+</div>
+</div>
+<a class="anchor" id="a648e172deccd5b54429e0388468dbfeb"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool Giocatore::colpito</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p><pre class="fragment">              Booleano che indica se il giocatore è
+</pre><p> stato colpito o meno </p>
+
+</div>
+</div>
+<a class="anchor" id="aad5a88a127a609e034f2a56486b83202"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int Giocatore::corFrame</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Numero della frame corrente. </p>
+
+</div>
+</div>
+<a class="anchor" id="a78a643da27e5086f673446d6edf8576a"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int Giocatore::frameAlt</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Altezza della frame del giocatore. </p>
+
+</div>
+</div>
+<a class="anchor" id="a7bb622da15ad7b508fc93d8d5047a95d"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int Giocatore::frameCont</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Contatore per le frame. </p>
+
+</div>
+</div>
+<a class="anchor" id="ac7ee7848fd75c8b022e806f463ca6996"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int Giocatore::frameLun</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Lunghezza della frame del giocatore. </p>
+
+</div>
+</div>
+<a class="anchor" id="a6d03f33f091d51c0ac21d8c4443e24f6"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int Giocatore::frameRit</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Contatore per il ritardo delle frame. </p>
+
+</div>
+</div>
+<a class="anchor" id="a4770a834f4acd96d062d6afca226b925"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">ALLEGRO_BITMAP* Giocatore::immagine</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Immagine associata al giocatore. </p>
+
+</div>
+</div>
+<a class="anchor" id="ab06b7287246755ee676f7c1b7854eff9"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int Giocatore::maxFrame</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Numero massimo di frame del giocatore. </p>
+
+</div>
+</div>
+<a class="anchor" id="a3fd3fc0b5693bf626f7aa1d8c4b7b5f3"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int Giocatore::vel</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Velocità del giocatore. </p>
+
+</div>
+</div>
+<a class="anchor" id="ae3cd96fd365828a2aa0056db133db15a"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int Giocatore::x</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Posizione x del giocatore. </p>
+
+</div>
+</div>
+<a class="anchor" id="a558c626ab68876f3d7b7c0243bbb8532"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int Giocatore::y</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Posizione y del giocatore. </p>
+
+</div>
+</div>
+<hr/>La documentazione per questa struct è stata generata a partire dal seguente file:<ul>
+<li><a class="el" href="objects_8h_source.html">objects.h</a></li>
+</ul>
+</div><!-- contents -->
+<!-- start footer part -->
+<hr class="footer"/><address class="footer"><small>
+Generato Lun 10 Giu 2013 16:16:52 per Angry Tom da &#160;<a href="http://www.doxygen.org/index.html">
+<img class="footer" src="doxygen.png" alt="doxygen"/>
+</a> 1.8.3.1
+</small></address>
+</body>
+</html>

@@ -1,0 +1,66 @@
+/**
+ * @file 
+ * Header file contenente l'interfaccia del modulo Salva/Carica.
+ */
+
+/** Caricamento della partita.
+ *
+ * La funzione carica una partita, salvata in precedenza,
+ * da un file binario.
+ * @param[in] partita	Partita di cui caricare i dati
+ * @param[in] stat	Statistiche di cui caricare i dati
+ * @return 		Ritorna vero solo se il caricamento è andato a 
+ *         		buon fine, false altrimenti
+ */
+bool carica(Gioco &partita ,Statistiche &stat);
+
+/** Salvataggio della partita.
+ *
+ * La funzione salva la partita in un file binario nel file ::file.
+ * @param[in] partita	Partita di cui salvare i dati
+ * @param[in] stat	Statistiche di cui salvare i dati
+ * @return 		Ritorna vero solo se il salvataggio è andato a 
+ *         		buon fine, false altrimenti
+ */
+bool salva(Gioco partita, Statistiche stat);
+
+/** Caricamento dei punteggi.
+ *
+ * Funzione che carica i punteggi da file binario ::HSfile
+ * @param[in] p		Struttura dei punteggi in cui caricare i dati
+ */
+void CaricaPunteggi(Punteggi &p);
+
+/** Ordinamento dei punteggi.
+ *
+ * Funzione che ordina i punteggi attraverso l'algoritmo
+ * Bubblesort. E' stato scelto tale algritmo, poco efficente
+ * poichè ha un costo computazionale quadratico, poichè i numeri
+ * da ordinare sono pochi.
+ * @param[in] p		Punteggi da ordinare
+ */
+void OrdinaPunteggi (Punteggi &p);
+
+/** Ricerca del minimo dei punteggi.
+ * 
+ * Funzione di supporto ad AggiornaPunteggi, serve per trovare
+ * il più piccolo punteggio tra gli high scores
+ * @param[in] p		Struttura dei punteggi in cui cercare il minimo.
+ */
+int CercaMinimo (Punteggi &p);
+
+/** Aggiornamento dei punteggi.
+ *
+ * Funzione che inserisce nella struttura dei punteggi, il risultato
+ * appena ottenuto dal giocatore, dopodichè aggiorna il file binario ::HSfile
+ * con anche il nuovo valore inserito.
+ * @param[in] p					Struttura dei punteggi da aggiornare
+ * @param[in] partita			Partita di cui salvare il punteggio
+ * @param[in] HSaggiornati		Booleano che indica se il punteggio è 
+								già stato aggiornato
+ * @return 		Ritorna vero solo se il salvataggio è andato a 
+				buon fine, falso altrimenti.
+ */
+bool AggiornaPunteggi(Punteggi &p, Gioco partita, bool &HSaggiornati);
+
+/** Fine header file Salva/Carica */

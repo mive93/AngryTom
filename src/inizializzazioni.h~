@@ -1,0 +1,84 @@
+/**
+ * @file 
+ * Header file contenente l'interfaccia del modulo Inizializzazioni.
+ */
+
+/** Inizializza la partita.
+ *
+ * Funzione che inizializza i campi della struttura ::Gioco.
+ */
+void inizializza_partita();
+
+/** Inizializza un nuovo giocatore.
+ *
+ * Funzione che inizializza i campi della struttura ::Giocatore.
+ * Vengono inizializzati tutti i campi della sua struttura.
+ *
+ * Tutti i campi legati alla frame, tranne FrameCont, Frame Rit e corFrame,
+ * sono strettamente legati alla scelta dell'immagine che si è fatta per il  
+ * giocatore.
+ * @param[in] tom 	Giocatore da inizializzare
+ * @param[in] immagine 	Immagine associata al giocatore
+ */
+void Inizializza_g(Giocatore &tom, ALLEGRO_BITMAP *immagine);
+
+/** Inizializzazione dei nemici.
+ *
+ * Funzione che inizializza i campi della struttura ::Nemici
+ * La maggior parte dei campi legati ai Frame sono caratteristici per
+ * le immagini scelte per rappresentare i nemici.
+ * @param[in] nemici 	Elemento della struttura dei nemici
+ * @param[in] nemici1	Immagine associata ai nemici di tipo 1 	
+ * @param[in] nemici2	Immagine associata ai nemici di tipo 2 	
+ */
+void Inizializza_Nemici(Nemici nemici[], ALLEGRO_BITMAP *nemici1, ALLEGRO_BITMAP *nemici2);
+
+/** Inizializzazione del colpo.
+ *
+ * Funzione che inizializza i campi della struttura ::Colpo.
+ * @param[in] colpi		Colpi da inizializzare
+ * @param[in] immagine	Immagine associata ai colpi
+ */
+void Inizializza_colpo(Colpo colpi[],ALLEGRO_BITMAP* immagine);
+
+/** Inizializzazione degli impatti. 
+ *
+ * Funzione che inizializza i campi della struttura ::Impatti.
+ * @param[in] impatti	Impatti da inizializzare
+ * @param[in] image		Immagine dell'impatto col nemico di tipo1
+ * @param[in] image2	Immagine dell'impatto col nemico di tipo2
+ */
+void Inizializza_impatti(Impatti impatti[], ALLEGRO_BITMAP *image,ALLEGRO_BITMAP *image2);
+
+/** Inizializzazione dello sfondo.
+ *
+ * Funzione che inizializza i campi della struttura ::Sfondo.
+ * @param[in] s		Sfondo
+ * @param[in] x		Posizione x
+ * @param[in] y		Posizione y
+ * @param[in] velx	Velocità su x dello sfondo
+ * @param[in] vely	Velocità su y dello sfondo
+ * @param[in] l		Lunghezza dello sfondo
+ * @param[in] a		Altezza dello sfondo
+ * @param[in] dirX	Direzione su x dello sfondo
+ * @param[in] dirY	Direzione su y dello sfondo
+ * @param[in] image	Immagine dello sfondo
+ */
+void InitBackground(Sfondo &s, float x, float y, float velx, float vely, int l, int a, int dirX, int dirY, ALLEGRO_BITMAP *image);
+
+/** Inizializzazione dei bottoni del Menu.
+ *
+ * Funzione che inizializza i campi della struttura ::Bottoni.
+ * @param[in] bottone	bottoni del gioco.
+ */
+void InizializzaBottoni(Bottoni bottone[]);
+
+/** Inizializzazione dei punteggi.
+ *
+ * Funzione che inizializza i campi della struttura ::Punteggi.
+ * La funzione viene invocata solo se il file ::HSfile non esiste ancora.
+ * @param[in] p		Struttura dei punteggi da inizializzare
+ */
+void InizializzaPunteggi (Punteggi &p);
+
+/** Fine header file Inizializzazione */

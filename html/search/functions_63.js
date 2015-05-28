@@ -1,0 +1,9 @@
+var searchData=
+[
+  ['cambia_5ffase',['Cambia_fase',['../aggiorna_8cc.html#a21293b18f57f17b344f58527019656b4',1,'Cambia_fase(FASE nuova, Nemici nemici[], Colpo colpi[], Giocatore &amp;tom, Impatti impatti[]):&#160;aggiorna.cc'],['../aggiorna_8h.html#a21293b18f57f17b344f58527019656b4',1,'Cambia_fase(FASE nuova, Nemici nemici[], Colpo colpi[], Giocatore &amp;tom, Impatti impatti[]):&#160;aggiorna.cc']]],
+  ['carica',['carica',['../fileIO_8cc.html#a5230cd05305ca979046048b96894e64b',1,'carica(Gioco &amp;partita, Statistiche &amp;stat):&#160;fileIO.cc'],['../fileIO_8h.html#a5230cd05305ca979046048b96894e64b',1,'carica(Gioco &amp;partita, Statistiche &amp;stat):&#160;fileIO.cc']]],
+  ['caricapunteggi',['CaricaPunteggi',['../fileIO_8cc.html#a85e8557e57e20d73e2e8f5653181a093',1,'CaricaPunteggi(Punteggi &amp;p):&#160;fileIO.cc'],['../fileIO_8h.html#a85e8557e57e20d73e2e8f5653181a093',1,'CaricaPunteggi(Punteggi &amp;p):&#160;fileIO.cc']]],
+  ['cercaminimo',['CercaMinimo',['../fileIO_8cc.html#ab5877e3e93231c69ca458a21c39290fc',1,'CercaMinimo(Punteggi &amp;p):&#160;fileIO.cc'],['../fileIO_8h.html#ab5877e3e93231c69ca458a21c39290fc',1,'CercaMinimo(Punteggi &amp;p):&#160;fileIO.cc']]],
+  ['controllo_5finizio',['controllo_inizio',['../DBG_8cc.html#a659480a3b06a8dd4fbcc61ab3e6960b2',1,'controllo_inizio(bool fine, bool render, bool HSaggiornati):&#160;DBG.cc'],['../DBG_8h.html#a659480a3b06a8dd4fbcc61ab3e6960b2',1,'controllo_inizio(bool fine, bool render, bool HSaggiornati):&#160;DBG.cc']]],
+  ['cursoresubottone',['CursoresuBottone',['../aggiorna_8cc.html#a4f9c9e053bc1762f478152d03900a470',1,'CursoresuBottone(ALLEGRO_EVENT ev, int bottonex, int bottoney, int dist, int altezza, int lunghezza):&#160;aggiorna.cc'],['../aggiorna_8h.html#a4f9c9e053bc1762f478152d03900a470',1,'CursoresuBottone(ALLEGRO_EVENT ev, int bottonex, int bottoney, int dist, int altezza, int lunghezza):&#160;aggiorna.cc']]]
+];

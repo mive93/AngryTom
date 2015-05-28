@@ -1,0 +1,317 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9"/>
+<meta name="generator" content="Doxygen 1.8.3.1"/>
+<title>Angry Tom: Elementi dei file</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="search/search.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="search/search.js"></script>
+<script type="text/javascript">
+  $(document).ready(function() { searchBox.OnSelectItem(0); });
+</script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr style="height: 56px;">
+  <td style="padding-left: 0.5em;">
+   <div id="projectname">Angry Tom
+   </div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- Generato da Doxygen 1.8.3.1 -->
+<script type="text/javascript">
+var searchBox = new SearchBox("searchBox", "search",false,'Cerca');
+</script>
+  <div id="navrow1" class="tabs">
+    <ul class="tablist">
+      <li><a href="index.html"><span>Pagina&#160;Principale</span></a></li>
+      <li><a href="annotated.html"><span>Classi</span></a></li>
+      <li class="current"><a href="files.html"><span>File</span></a></li>
+      <li>
+        <div id="MSearchBox" class="MSearchBoxInactive">
+        <span class="left">
+          <img id="MSearchSelect" src="search/mag_sel.png"
+               onmouseover="return searchBox.OnSearchSelectShow()"
+               onmouseout="return searchBox.OnSearchSelectHide()"
+               alt=""/>
+          <input type="text" id="MSearchField" value="Cerca" accesskey="S"
+               onfocus="searchBox.OnSearchFieldFocus(true)" 
+               onblur="searchBox.OnSearchFieldFocus(false)" 
+               onkeyup="searchBox.OnSearchFieldChange(event)"/>
+          </span><span class="right">
+            <a id="MSearchClose" href="javascript:searchBox.CloseResultsWindow()"><img id="MSearchCloseImg" border="0" src="search/close.png" alt=""/></a>
+          </span>
+        </div>
+      </li>
+    </ul>
+  </div>
+  <div id="navrow2" class="tabs2">
+    <ul class="tablist">
+      <li><a href="files.html"><span>Elenco&#160;dei&#160;file</span></a></li>
+      <li class="current"><a href="globals.html"><span>Elementi&#160;dei&#160;file</span></a></li>
+    </ul>
+  </div>
+  <div id="navrow3" class="tabs2">
+    <ul class="tablist">
+      <li><a href="globals.html"><span>Tutto</span></a></li>
+      <li><a href="globals_func.html"><span>Funzioni</span></a></li>
+      <li class="current"><a href="globals_vars.html"><span>Variabili</span></a></li>
+      <li><a href="globals_type.html"><span>Ridefinizioni&#160;di&#160;tipo&#160;(typedef)</span></a></li>
+      <li><a href="globals_enum.html"><span>Tipi&#160;enumerati&#160;(enum)</span></a></li>
+      <li><a href="globals_eval.html"><span>Valori&#160;del&#160;tipo&#160;enumerato</span></a></li>
+      <li><a href="globals_defs.html"><span>Definizioni</span></a></li>
+    </ul>
+  </div>
+  <div id="navrow4" class="tabs3">
+    <ul class="tablist">
+      <li><a href="#index_a"><span>a</span></a></li>
+      <li><a href="#index_b"><span>b</span></a></li>
+      <li><a href="#index_f"><span>f</span></a></li>
+      <li><a href="#index_h"><span>h</span></a></li>
+      <li><a href="#index_i"><span>i</span></a></li>
+      <li><a href="#index_k"><span>k</span></a></li>
+      <li><a href="#index_l"><span>l</span></a></li>
+      <li><a href="#index_m"><span>m</span></a></li>
+      <li><a href="#index_n"><span>n</span></a></li>
+      <li><a href="#index_p"><span>p</span></a></li>
+      <li><a href="#index_s"><span>s</span></a></li>
+    </ul>
+  </div>
+</div><!-- top -->
+<!-- window showing the filter options -->
+<div id="MSearchSelectWindow"
+     onmouseover="return searchBox.OnSearchSelectShow()"
+     onmouseout="return searchBox.OnSearchSelectHide()"
+     onkeydown="return searchBox.OnSearchSelectKey(event)">
+<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>Tutto</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classi</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>File</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Funzioni</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Variabili</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Ridefinizioni di tipo (typedef)</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Tipi enumerati (enum)</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(7)"><span class="SelectionMark">&#160;</span>Valori del tipo enumerato</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(8)"><span class="SelectionMark">&#160;</span>Definizioni</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(9)"><span class="SelectionMark">&#160;</span>Pagine</a></div>
+
+<!-- iframe showing the search results (closed by default) -->
+<div id="MSearchResultsWindow">
+<iframe src="javascript:void(0)" frameborder="0" 
+        name="MSearchResults" id="MSearchResults">
+</iframe>
+</div>
+
+<div class="contents">
+&#160;
+
+<h3><a class="anchor" id="index_a"></a>- a -</h3><ul>
+<li>ALTEZZA
+: <a class="el" href="objects_8h.html#ae378d72a75a0289ad47e89cc4e47eba9">objects.h</a>
+</li>
+</ul>
+
+
+<h3><a class="anchor" id="index_b"></a>- b -</h3><ul>
+<li>bottone
+: <a class="el" href="dichiarazioni_8cc.html#a236e342fd28f6b2aeb6c41982671c156">dichiarazioni.cc</a>
+, <a class="el" href="dichiarazioni_8h.html#a236e342fd28f6b2aeb6c41982671c156">dichiarazioni.h</a>
+</li>
+</ul>
+
+
+<h3><a class="anchor" id="index_f"></a>- f -</h3><ul>
+<li>file
+: <a class="el" href="objects_8h.html#a8767d18000783ef973c114fc2e377ee0">objects.h</a>
+</li>
+<li>font100
+: <a class="el" href="dichiarazioni_8cc.html#a02a161992a7e7f74eb2db3b7546f951f">dichiarazioni.cc</a>
+, <a class="el" href="dichiarazioni_8h.html#a02a161992a7e7f74eb2db3b7546f951f">dichiarazioni.h</a>
+</li>
+<li>font15
+: <a class="el" href="dichiarazioni_8h.html#af2c417ed191e2bfbec20a4d02157773b">dichiarazioni.h</a>
+, <a class="el" href="dichiarazioni_8cc.html#af2c417ed191e2bfbec20a4d02157773b">dichiarazioni.cc</a>
+</li>
+<li>font18
+: <a class="el" href="dichiarazioni_8cc.html#af46a718ca708066d76159ef58af6b9f2">dichiarazioni.cc</a>
+, <a class="el" href="dichiarazioni_8h.html#af46a718ca708066d76159ef58af6b9f2">dichiarazioni.h</a>
+</li>
+</ul>
+
+
+<h3><a class="anchor" id="index_h"></a>- h -</h3><ul>
+<li>HSaggiornati
+: <a class="el" href="dichiarazioni_8cc.html#a51ae2426fad1b70fa083815a4bd11942">dichiarazioni.cc</a>
+, <a class="el" href="dichiarazioni_8h.html#a51ae2426fad1b70fa083815a4bd11942">dichiarazioni.h</a>
+</li>
+<li>HSfile
+: <a class="el" href="objects_8h.html#ae16ec0b053e9a39ad46ed6f366f6a5e2">objects.h</a>
+</li>
+</ul>
+
+
+<h3><a class="anchor" id="index_i"></a>- i -</h3><ul>
+<li>ImmC
+: <a class="el" href="dichiarazioni_8cc.html#ac0812a537823181cfcf68d9e36bc3116">dichiarazioni.cc</a>
+, <a class="el" href="dichiarazioni_8h.html#ac0812a537823181cfcf68d9e36bc3116">dichiarazioni.h</a>
+</li>
+<li>ImmG
+: <a class="el" href="dichiarazioni_8h.html#afc42cb85f5e6c61bc416d26b4914236e">dichiarazioni.h</a>
+, <a class="el" href="dichiarazioni_8cc.html#afc42cb85f5e6c61bc416d26b4914236e">dichiarazioni.cc</a>
+</li>
+<li>ImmI
+: <a class="el" href="dichiarazioni_8cc.html#a92dcebe4b97f11eaa4192c37d2623cda">dichiarazioni.cc</a>
+, <a class="el" href="dichiarazioni_8h.html#a92dcebe4b97f11eaa4192c37d2623cda">dichiarazioni.h</a>
+</li>
+<li>ImmI2
+: <a class="el" href="dichiarazioni_8h.html#ab28c0af285b316a54b5eff6b0904db84">dichiarazioni.h</a>
+, <a class="el" href="dichiarazioni_8cc.html#ab28c0af285b316a54b5eff6b0904db84">dichiarazioni.cc</a>
+</li>
+<li>ImmN1
+: <a class="el" href="dichiarazioni_8cc.html#aecdf68e2be94ff934ae01ad2749cb05d">dichiarazioni.cc</a>
+, <a class="el" href="dichiarazioni_8h.html#aecdf68e2be94ff934ae01ad2749cb05d">dichiarazioni.h</a>
+</li>
+<li>ImmN2
+: <a class="el" href="dichiarazioni_8cc.html#a4e921820024b22581e04d34ad6ec4506">dichiarazioni.cc</a>
+, <a class="el" href="dichiarazioni_8h.html#a4e921820024b22581e04d34ad6ec4506">dichiarazioni.h</a>
+</li>
+<li>ImmS
+: <a class="el" href="dichiarazioni_8cc.html#a7ca94057bd8ff0b9c1bff4a470fe0e44">dichiarazioni.cc</a>
+, <a class="el" href="dichiarazioni_8h.html#a7ca94057bd8ff0b9c1bff4a470fe0e44">dichiarazioni.h</a>
+</li>
+<li>ImmS2
+: <a class="el" href="dichiarazioni_8h.html#ab20a3119534c644b5cce591fe471df7e">dichiarazioni.h</a>
+, <a class="el" href="dichiarazioni_8cc.html#ab20a3119534c644b5cce591fe471df7e">dichiarazioni.cc</a>
+</li>
+<li>ImmS3
+: <a class="el" href="dichiarazioni_8cc.html#a7872b49e94505e042a8eb9dc0fce4451">dichiarazioni.cc</a>
+, <a class="el" href="dichiarazioni_8h.html#a7872b49e94505e042a8eb9dc0fce4451">dichiarazioni.h</a>
+</li>
+<li>ImmV
+: <a class="el" href="dichiarazioni_8cc.html#aa31bce87d9121238a37e350ddf3fc38f">dichiarazioni.cc</a>
+, <a class="el" href="dichiarazioni_8h.html#aa31bce87d9121238a37e350ddf3fc38f">dichiarazioni.h</a>
+</li>
+<li>inizio
+: <a class="el" href="dichiarazioni_8h.html#a40136192862e419df64a437e20e1c3c9">dichiarazioni.h</a>
+, <a class="el" href="dichiarazioni_8cc.html#a40136192862e419df64a437e20e1c3c9">dichiarazioni.cc</a>
+</li>
+</ul>
+
+
+<h3><a class="anchor" id="index_k"></a>- k -</h3><ul>
+<li>keys
+: <a class="el" href="dichiarazioni_8cc.html#a00bbc162675fac5d733d54a62ee216e1">dichiarazioni.cc</a>
+, <a class="el" href="dichiarazioni_8h.html#a00bbc162675fac5d733d54a62ee216e1">dichiarazioni.h</a>
+</li>
+</ul>
+
+
+<h3><a class="anchor" id="index_l"></a>- l -</h3><ul>
+<li>LARGHEZZA
+: <a class="el" href="objects_8h.html#af5ff0cda81efb37e7ade6fbef58c1b47">objects.h</a>
+</li>
+</ul>
+
+
+<h3><a class="anchor" id="index_m"></a>- m -</h3><ul>
+<li>morte1
+: <a class="el" href="dichiarazioni_8cc.html#a9232fd432946b4eb040504a9c9009d6a">dichiarazioni.cc</a>
+, <a class="el" href="dichiarazioni_8h.html#a9232fd432946b4eb040504a9c9009d6a">dichiarazioni.h</a>
+</li>
+<li>music
+: <a class="el" href="dichiarazioni_8h.html#a2d99de6011bf45b4221c2ace4da4c2a3">dichiarazioni.h</a>
+, <a class="el" href="dichiarazioni_8cc.html#a2d99de6011bf45b4221c2ace4da4c2a3">dichiarazioni.cc</a>
+</li>
+<li>music_lose
+: <a class="el" href="dichiarazioni_8cc.html#a1a9a5a01d43092443f606b1b1efd9372">dichiarazioni.cc</a>
+, <a class="el" href="dichiarazioni_8h.html#a1a9a5a01d43092443f606b1b1efd9372">dichiarazioni.h</a>
+</li>
+<li>music_menu
+: <a class="el" href="dichiarazioni_8h.html#a621db1bb5877d64211dc0dab004b2d5c">dichiarazioni.h</a>
+, <a class="el" href="dichiarazioni_8cc.html#a621db1bb5877d64211dc0dab004b2d5c">dichiarazioni.cc</a>
+</li>
+</ul>
+
+
+<h3><a class="anchor" id="index_n"></a>- n -</h3><ul>
+<li>N_BOTTONI
+: <a class="el" href="objects_8h.html#a8b3f1dd32228c91978a6d6d399b4ca40">objects.h</a>
+</li>
+<li>NUM_COLPI
+: <a class="el" href="objects_8h.html#a88176b74d68d2564c625ad72b0ca3c29">objects.h</a>
+</li>
+<li>NUM_IMPATTI
+: <a class="el" href="objects_8h.html#ab64fc4909ad64c8ec715cfcb15f235c6">objects.h</a>
+</li>
+<li>NUM_NEMICI
+: <a class="el" href="objects_8h.html#a7c695132734ed573880bd2289bd654a4">objects.h</a>
+</li>
+<li>NUM_PUNTEGGI
+: <a class="el" href="objects_8h.html#af7bc52072e0727854f1fe42a0a4fe45c">objects.h</a>
+</li>
+<li>NUM_TASTI
+: <a class="el" href="objects_8h.html#a2c108f2320eba621068dd90a710fb979">objects.h</a>
+</li>
+<li>NUM_VITE
+: <a class="el" href="objects_8h.html#a3782e4eb3378ce3c03cdadb0c24a732a">objects.h</a>
+</li>
+</ul>
+
+
+<h3><a class="anchor" id="index_p"></a>- p -</h3><ul>
+<li>p
+: <a class="el" href="dichiarazioni_8cc.html#af764a0977111f6a3a10038e17f735ca1">dichiarazioni.cc</a>
+, <a class="el" href="dichiarazioni_8h.html#af764a0977111f6a3a10038e17f735ca1">dichiarazioni.h</a>
+</li>
+<li>PannelloPunteggi
+: <a class="el" href="dichiarazioni_8h.html#a726617d67e4263f15f169d9ddfc46da8">dichiarazioni.h</a>
+, <a class="el" href="dichiarazioni_8cc.html#a726617d67e4263f15f169d9ddfc46da8">dichiarazioni.cc</a>
+</li>
+<li>PannelloRisultati
+: <a class="el" href="dichiarazioni_8cc.html#af8925aa59aaffa8ec187ea4669e5f551">dichiarazioni.cc</a>
+, <a class="el" href="dichiarazioni_8h.html#af8925aa59aaffa8ec187ea4669e5f551">dichiarazioni.h</a>
+</li>
+<li>partita
+: <a class="el" href="dichiarazioni_8cc.html#a6697be1fef616e47330f96de1f63d318">dichiarazioni.cc</a>
+, <a class="el" href="dichiarazioni_8h.html#a6697be1fef616e47330f96de1f63d318">dichiarazioni.h</a>
+</li>
+<li>punteggi
+: <a class="el" href="dichiarazioni_8h.html#a1fa2e5e47f68b25b622186f96248b632">dichiarazioni.h</a>
+, <a class="el" href="dichiarazioni_8cc.html#a1fa2e5e47f68b25b622186f96248b632">dichiarazioni.cc</a>
+</li>
+</ul>
+
+
+<h3><a class="anchor" id="index_s"></a>- s -</h3><ul>
+<li>shot
+: <a class="el" href="dichiarazioni_8cc.html#ab22ce8a8f989211c6059e8b685fa78d0">dichiarazioni.cc</a>
+, <a class="el" href="dichiarazioni_8h.html#ab22ce8a8f989211c6059e8b685fa78d0">dichiarazioni.h</a>
+</li>
+<li>songInstance_g
+: <a class="el" href="dichiarazioni_8h.html#a555f617088a763fb8535a9d13439c7f4">dichiarazioni.h</a>
+, <a class="el" href="dichiarazioni_8cc.html#a555f617088a763fb8535a9d13439c7f4">dichiarazioni.cc</a>
+</li>
+<li>songInstance_l
+: <a class="el" href="dichiarazioni_8cc.html#a3605fcb9322ab97d95941ef3a8ca5425">dichiarazioni.cc</a>
+, <a class="el" href="dichiarazioni_8h.html#a3605fcb9322ab97d95941ef3a8ca5425">dichiarazioni.h</a>
+</li>
+<li>songInstance_m
+: <a class="el" href="dichiarazioni_8cc.html#a20c8735cb3c0422540cccabbada5a758">dichiarazioni.cc</a>
+, <a class="el" href="dichiarazioni_8h.html#a20c8735cb3c0422540cccabbada5a758">dichiarazioni.h</a>
+</li>
+<li>stat
+: <a class="el" href="dichiarazioni_8h.html#a4cb231eee96ecab7c0f3040153da3cc2">dichiarazioni.h</a>
+, <a class="el" href="dichiarazioni_8cc.html#a4cb231eee96ecab7c0f3040153da3cc2">dichiarazioni.cc</a>
+</li>
+</ul>
+</div><!-- contents -->
+<!-- start footer part -->
+<hr class="footer"/><address class="footer"><small>
+Generato Lun 10 Giu 2013 16:16:52 per Angry Tom da &#160;<a href="http://www.doxygen.org/index.html">
+<img class="footer" src="doxygen.png" alt="doxygen"/>
+</a> 1.8.3.1
+</small></address>
+</body>
+</html>
